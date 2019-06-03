@@ -1,0 +1,27 @@
+TA_pflC-1_ cluster0 #1062
+                est          L95%          U95%           se
+rate       0.101634  9.070957e-02      0.113874     0.005897
+beta    6238.804060  3.305048e+03  11776.736589  2022.356966
+s          0.928330  6.917624e-01      1.245799     0.139321
+lambda     0.000003  3.263508e-09      0.002234     0.000009
+
+
+TA_pflC-1_ cluster1 #754
+                 est          L95%          U95%           se
+rate    1.171418e-01  1.015433e-01  1.351364e-01     0.008541
+beta    1.220333e+04  4.847858e+03  3.071898e+04  5747.948310
+s       8.149537e-01  5.879794e-01  1.129546e+00     0.135734
+lambda  1.081734e-07  1.208960e-23  9.678974e+08     0.000002
+
+
+TA_pflC-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  9.311354e-48
+1      beta  2.537244e-01
+2         s  6.536156e-01
+
+
+[(1, 1062, 6, ['MAX_16012014 Position 36-1.tif.mortality.tab', 'MAX_16012014 Position 37-1.tif.mortality.tab', 'MAX_16012014 Position 38-1.tif.mortality.tab', 'MAX_16012014 Position 47-1.tif.mortality.tab', 'MAX_16012014 Position 50-1.tif.mortality.tab', 'MAX_16012014 Position 94A-1.tif.mortality.tab']), (0, 754, 3, ['MAX_16012014 Position 51-1.tif.mortality.tab', 'MAX_16012014 Position 52-1.tif.mortality.tab', 'MAX_16012014 Position 53-1.tif.mortality.tab'])]

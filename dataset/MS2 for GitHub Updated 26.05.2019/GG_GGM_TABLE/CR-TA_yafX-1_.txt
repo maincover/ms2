@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_yafX-1_
+-------------------------------
+GG(AIC=12352.328467)
+             est        L95%        U95%          se
+beta  409.177251  245.352737  682.389056  106.774578
+s       0.356615    0.300151    0.423701    0.031363
+rate    0.103968    0.092798    0.116483    0.006029
+
+
+GGMFit_params
+CR-TA_yafX-1_
+-------------------------------
+GGM(AIC=12354.335733)
+                 est          L95%          U95%          se
+rate    1.039799e-01  9.280658e-02  1.164985e-01    0.006031
+beta    4.094119e+02  2.454443e+02  6.829171e+02  106.877625
+s       3.565651e-01  3.001026e-01  4.236506e-01    0.031362
+lambda  2.606471e-07  1.968143e-21  3.451827e+07    0.000004 
+
+                est       L95%       U95%      var
+lifespan  74.058405  72.796135  76.493057  0.00019
+survivorship
+0.00591700395189
+
+
+1) Number of tab files in the cluster
+7
+
+
+2) Number of dates in the cluster
+1 ['2018-10-18 00:00:00']
+
+
+3) Final survivorship:
+0.00591700395189
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.0080374404335684674, 0.98619824341279805)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.00726611085 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000091  0.000053  0.000155  0.000025
+h_max   0.037076  0.034038  0.040386  0.001617
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%         U95%         se
+cv          0.389003    0.370847     0.407159   0.009264
+mean       80.317216   78.620673    82.013758   0.865599
+variance  977.071100  868.200491  1085.941709  55.547250
+
+
+                rate     beta         s               mean           variance  \
+gg_params_  0.101395  367.101  0.365406  80.56570692311743  984.3864203499693   
+
+                            cv  
+gg_params_  0.3894328516659583  
+
+
+8) lifespan stats
+mean 	std 	cv
+79.9483530243 	28.5633167772 	0.357272110014
+
+

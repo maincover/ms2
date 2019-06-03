@@ -1,0 +1,99 @@
+TA_sspA-1_ cluster0 #1752
+                est         L95%         U95%           se
+rate       0.097871     0.083163     0.115180     0.008132
+beta    3126.359244  1202.782029  8126.262184  1523.700513
+s          0.533019     0.383020     0.741761     0.089872
+lambda     0.000413     0.000230     0.000743     0.000124
+
+
+TA_sspA-1_ cluster1 #1190
+                est         L95%          U95%           se
+rate       0.123043     0.096938      0.156179     0.014970
+beta    6496.077697  1168.275591  36120.779882  5686.392264
+s          0.418525     0.282215      0.620673     0.084148
+lambda     0.002961     0.002430      0.003608     0.000299
+
+
+TA_sspA-1_ cluster2 #947
+                  est         L95%          U95%             se
+rate         0.158531     0.123245  2.039191e-01       0.020365
+beta    113341.986734  9026.170760  1.423240e+06  146322.651789
+s            0.184934     0.126835  2.696470e-01       0.035583
+lambda       0.000707     0.000490  1.019946e-03       0.000132
+
+
+TA_sspA-1_ cluster3 #915
+                  est          L95%          U95%             se
+rate         0.163593      0.132843  2.014611e-01       0.017379
+beta    143133.406169  16827.194291  1.217504e+06  156338.204712
+s            0.360997      0.260301  5.006459e-01       0.060234
+lambda       0.000925      0.000643  1.329363e-03       0.000171
+
+
+TA_sspA-1_ cluster4 #839
+                  est          L95%           U95%            se
+rate         0.145956      0.122470       0.173945      0.013064
+beta    103666.698781  21123.185141  508767.232031  84141.335562
+s            0.492711      0.345679       0.702282      0.089095
+lambda       0.000216      0.000101       0.000463      0.000084
+
+
+TA_sspA-1_ cluster5 #650
+                  est          L95%          U95%            se
+rate         0.049249  4.051199e-02  5.987036e-02  4.907197e-03
+beta    391585.842549  8.973043e-16  1.708890e+26  9.495152e+06
+s         2360.508323  5.185640e-18  1.074506e+24  5.728827e+04
+lambda       0.003252  2.259201e-03  4.680117e-03  6.041505e-04
+
+
+TA_sspA-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.985298e-17
+1      beta  9.645327e-01
+2         s  5.908001e-01
+
+
+TA_sspA-1_ cluster3:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000125
+1      beta  0.000333
+2         s  0.099127
+
+
+TA_sspA-1_ cluster2:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.302159e-15
+1      beta  2.359455e-03
+2         s  4.103624e-05
+
+
+TA_sspA-1_ cluster5:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000008
+1      beta  0.494485
+2         s  0.000105
+
+
+TA_sspA-1_ cluster4:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  4.664848e-13
+1      beta  3.953980e-10
+2         s  7.497709e-01
+
+
+[(3, 1752, 4, ['MAX_06082014 Position 36-1.tif.mortality.tab', 'MAX_06082014 Position 45-1.tif.mortality.tab', 'MAX_06082014 Position 48-1.tif.mortality.tab', 'MAX_06082014 Position 86-1.tif.mortality.tab']), (6, 1190, 3, ['MAX_06082014 Position 39-1.tif.mortality.tab', 'MAX_06082014 Position 46-1.tif.mortality.tab', 'MAX_06082014 Position 75-1.tif.mortality.tab']), (2, 947, 2, ['MAX_06082014 Position 37-1.tif.mortality.tab', 'MAX_06082014 Position 40-1.tif.mortality.tab']), (5, 915, 3, ['MAX_06082014 Position 41-1.tif.mortality.tab', 'MAX_06082014 Position 53-1.tif.mortality.tab', 'MAX_06082014 Position 54-1.tif.mortality.tab']), (4, 839, 2, ['MAX_06082014 Position 38-1.tif.mortality.tab', 'MAX_06082014 Position 49-1.tif.mortality.tab']), (7, 650, 4, ['MAX_06082014 Position 58-1.tif.mortality.tab', 'MAX_06082014 Position 87-1.tif.mortality.tab', 'MAX_06082014 Position 88-1.tif.mortality.tab', 'MAX_06082014 Position 90-1.tif.mortality.tab'])]

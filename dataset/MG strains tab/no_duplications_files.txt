@@ -1,0 +1,77 @@
+MG WT/MAX_MAX_10022015 Position 28 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 29 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 3 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 30 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 4 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 47 v2 ok-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 6 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 83 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 9 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 93 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 94 v2-1.tif.mortality.tab
+MG WT/MAX_MAX_10022015 Position 95 v2-1.tif.mortality.tab
+MG appY/02062014 mRFP Position 51 mask.tif.mortality.tab
+MG appY/02062014 mRFP Position 53 mask.tif.mortality.tab
+MG appY/02062014 mRFP Position 55 mask.tif.mortality.tab
+MG appY/02062014 mRFP Position 56 mask.tif.mortality.tab
+MG appY/02062014 mRFP Position 57 mask.tif.mortality.tab
+MG appY/02062014 mRFP Position 58 mask.tif.mortality.tab
+MG aqpZ/MAX_Result of MAX_09032016 Position 19.tif.mortality.tab
+MG aqpZ/MAX_Result of MAX_09032016 Position 2.tif.mortality.tab
+MG aqpZ/MAX_Result of MAX_09032016 Position 3.tif.mortality.tab
+MG aqpZ/MAX_Result of MAX_09032016 position 43-1.tif.mortality.tab
+MG ascG/02062014 mRFP Position 59 mask.tif.mortality.tab
+MG ascG/02062014 mRFP Position 60 mask.tif.mortality.tab
+MG ascG/02062014 mRFP Position 61 mask.tif.mortality.tab
+MG ascG/02062014 mRFP Position 62 mask.tif.mortality.tab
+MG ascG/02062014 mRFP Position 63 mask.tif.mortality.tab
+MG ascG/02062014 mRFP Position 64 mask.tif.mortality.tab
+MG caiT/06052014 mRFP Position 11 stabilized.mortality.tab
+MG caiT/06052014 mRFP Position 12 stabilized.tif.mortality.tab
+MG caiT/06052014 mRFP Position 13 stabilized.tif.mortality.tab
+MG caiT/06052014 mRFP Position 14 stabilized.mortality.tab
+MG caiT/06052014 mRFP Position 15.mortality.tab
+MG ompL/06052014 mRFP Position 16.tif.mortality.tab
+MG ompL/06052014 mRFP Position 17.tif.mortality.tab
+MG ompL/06052014 mRFP Position 18.tif.mortality.tab
+MG ompL/06052014 mRFP Position 19.tif.mortality.tab
+MG ompL/06052014 mRFP Position 20.tif.mortality.tab
+MG pgi/MAX_04082014 Position 81 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 82 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 83 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 84 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 85 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 87 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 89 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 90 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 91 mask.tif.mortality.tab
+MG pgi/MAX_04082014 Position 92 mask.tif.mortality.tab
+MG uxaB/MAX_24012015 Position 1-1.tif.mortality.tab
+MG uxaB/MAX_24012015 Position 14-1.tif.mortality.tab
+MG uxaB/MAX_24012015 Position 15-1.tif.mortality.tab
+MG uxaB/MAX_MAX_06082014 Position 45 mask.tif.mortality.tab
+MG uxaB/MAX_MAX_06082014 Position 46 mask.tif.mortality.tab
+MG uxaB/MAX_MAX_06082014 Position 51 mask.tif.mortality.tab
+MG uxaB/MAX_MAX_16052015 Position 44.tif.mortality.tab
+MG uxaB/MAX_MAX_16052015 Position 48.tif.mortality.tab
+MG uxaB/MAX_MAX_16052015 Position 49.tif.mortality.tab
+MG uxaB/MAX_MAX_24012015 Position 15.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 11.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 12.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 13.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 14.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 15.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 16.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 17.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 18.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 19.tif.mortality.tab
+MG yagS/MAX_MAX_12052015 Position 20.tif.mortality.tab
+MG yfiD/MAX_MAX_10012014 Position 85.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 110.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 111.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 113.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 125.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 127.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 128.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 86.tif.mortality.tab
+MG yfiD/MAX_MAX_10012015 Position 87.tif.mortality.tab

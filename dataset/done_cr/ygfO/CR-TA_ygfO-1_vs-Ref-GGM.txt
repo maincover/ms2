@@ -1,0 +1,27 @@
+TA_ygfO-1_ cluster0 #1531
+                est          L95%         U95%          se
+rate       0.062391  5.709628e-02     0.068176    0.002823
+beta    2201.682887  1.527603e+03  3173.211981  410.601522
+s          1.397049  1.022870e+00     1.908106    0.222213
+lambda     0.000004  7.049951e-09     0.002082    0.000012
+
+
+TA_ygfO-1_ cluster1 #545
+                 est          L95%          U95%           se
+rate    4.831258e-02  4.234714e-02  5.511837e-02     0.003249
+beta    3.738313e+03  1.115377e+03  1.252938e+04  2306.813349
+s       6.506088e+00  1.272294e+00  3.326998e+01     5.417138
+lambda  6.601559e-07  2.291279e-37  1.902020e+24     0.000024
+
+
+TA_ygfO-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.419650e-16
+1      beta  2.441481e-01
+2         s  5.697114e-03
+
+
+[(0, 1531, 6, ['MAX_05072014 Position 19-1.tif.mortality.tab', 'MAX_05072014 Position 20-1.tif.mortality.tab', 'MAX_05072014 Position 33-1.tif.mortality.tab', 'MAX_05072014 Position 34-1.tif.mortality.tab', 'MAX_05072014 Position 36-1.tif.mortality.tab', 'MAX_05072014 Position 45-1.tif.mortality.tab']), (1, 545, 3, ['MAX_05072014 Position 37-1.tif.mortality.tab', 'MAX_05072014 Position 38-1.tif.mortality.tab', 'MAX_05072014 Position 40-1.tif.mortality.tab'])]

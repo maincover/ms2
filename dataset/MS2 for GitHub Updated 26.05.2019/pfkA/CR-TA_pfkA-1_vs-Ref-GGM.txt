@@ -1,0 +1,27 @@
+TA_pfkA-1_ cluster0 #1463
+                 est          L95%          U95%         se
+rate    3.752798e-02  3.318218e-02  4.244294e-02   0.002357
+beta    1.258066e+02  7.272511e+01  2.176320e+02  35.178960
+s       3.227885e+00  1.479335e+00  7.043196e+00   1.284977
+lambda  3.539110e-07  4.960215e-29  2.525152e+15   0.000009
+
+
+TA_pfkA-1_ cluster1 #521
+              est          L95%          U95%        se
+rate     0.056547  4.330257e-02  7.384303e-02  0.007699
+beta    36.724558  2.332534e+01  5.782094e+01  8.504987
+s        0.564042  3.444485e-01  9.236326e-01  0.141930
+lambda   0.000002  1.169810e-21  3.468455e+09  0.000036
+
+
+TA_pfkA-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.010242
+1      beta  0.017368
+2         s  0.000206
+
+
+[(0, 1463, 5, ['MAX_01112018 Position 106-1.tif.mortality.tab', 'MAX_01112018 Position 107-1.tif.mortality.tab', 'MAX_01112018 Position 132-1.tif.mortality.tab', 'MAX_01112018 Position 133-1.tif.mortality.tab', 'MAX_01112018 Position 243-1.tif.mortality.tab']), (1, 521, 3, ['MAX_01112018 Position 166-1.tif.mortality.tab', 'MAX_01112018 Position 193-1.tif.mortality.tab', 'MAX_01112018 Position 250-1.tif.mortality.tab'])]

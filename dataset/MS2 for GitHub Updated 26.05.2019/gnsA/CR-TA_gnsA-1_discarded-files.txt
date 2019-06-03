@@ -1,0 +1,8 @@
+Discard orphan positions ['MAX_17112015 Position 34-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 33-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 29-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 38-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 43-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 28-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 37-1.tif.mortality.tab']
+Discard orphan positions ['MAX_17112015 Position 36-1.tif.mortality.tab']

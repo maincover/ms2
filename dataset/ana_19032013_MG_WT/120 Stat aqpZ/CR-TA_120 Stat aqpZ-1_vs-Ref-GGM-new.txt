@@ -1,0 +1,20 @@
+TA_120 Stat aqpZ-1_ cluster0 #455
+                 est  L95%  U95%  se
+rate    7.945308e-02   NaN   NaN NaN
+beta    3.290044e+08   NaN   NaN NaN
+s       1.299094e+04   NaN   NaN NaN
+lambda  5.063203e-05   NaN   NaN NaN
+                 est        L95%        U95%      var
+lifespan  118.089343  117.077115  121.923016  0.00055
+
+
+TA_120 Stat aqpZ-1_ cluster1 #248
+                 est          L95%          U95%            se
+rate    2.456132e-01  1.648776e-01  3.658827e-01  4.994494e-02
+beta    1.376700e+12  4.744660e+07  3.994601e+16  7.217688e+12
+s       2.818898e-01  1.518017e-01  5.234582e-01  8.901855e-02
+lambda  2.888845e-07  8.214591e-18  1.015927e+04  3.579195e-06
+                 est        L95%        U95%       var
+lifespan  124.918225  121.926544  125.912681  0.001004
+
+

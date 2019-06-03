@@ -1,0 +1,10 @@
+TA_MG caiT-1_ cluster0 #167
+                est  L95%  U95%  se
+rate       0.032491   NaN   NaN NaN
+beta    1241.020507   NaN   NaN NaN
+s         25.959555   NaN   NaN NaN
+lambda     0.008433   NaN   NaN NaN
+                est       L95%       U95%       var
+lifespan  66.099561  57.079415  73.090536  0.001484
+
+

@@ -1,0 +1,27 @@
+TA_yagQ-1_ cluster0 #918
+                est         L95%          U95%           se
+rate       0.123558     0.105658      0.144492     0.009867
+beta    6939.697392  2380.449188  20231.223645  3788.468003
+s          0.607495     0.459637      0.802918     0.086448
+lambda     0.000205     0.000067      0.000631     0.000118
+
+
+TA_yagQ-1_ cluster1 #781
+                 est          L95%          U95%          se
+rate    1.018671e-01  8.980287e-02  1.155521e-01    0.006551
+beta    2.671092e+03  1.381746e+03  5.163564e+03  898.293393
+s       8.045085e-01  5.998763e-01  1.078946e+00    0.120477
+lambda  6.761225e-08  9.434708e-31  4.845318e+15    0.000002
+
+
+TA_yagQ-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.003078
+1      beta  0.416054
+2         s  0.730992
+
+
+[(0, 918, 4, ['MAX_16012014 Position 39-1.tif.mortality.tab', 'MAX_16012014 Position 41-1.tif.mortality.tab', 'MAX_16012014 Position 46-1.tif.mortality.tab', 'MAX_16012014 Position 48-1.tif.mortality.tab']), (1, 781, 5, ['MAX_16012014 Position 40-1.tif.mortality.tab', 'MAX_16012014 Position 42-1.tif.mortality.tab', 'MAX_16012014 Position 43-1.tif.mortality.tab', 'MAX_16012014 Position 44-1.tif.mortality.tab', 'MAX_16012014 Position 49-1.tif.mortality.tab'])]

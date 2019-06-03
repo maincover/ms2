@@ -1,0 +1,45 @@
+TA_casE-1_ cluster0 #533
+                 est  L95%  U95%  se
+rate    1.491786e-04   NaN   NaN NaN
+beta    9.839266e+13   NaN   NaN NaN
+s       7.202240e+10   NaN   NaN NaN
+lambda  7.765564e-03   NaN   NaN NaN
+
+
+TA_casE-1_ cluster1 #401
+                 est           L95%          U95%            se
+rate    1.880533e-01       0.110700  3.194585e-01  5.084266e-02
+beta    2.741671e+11  978987.296436  7.678098e+16  1.754524e+12
+s       2.849086e-01       0.103517  7.841486e-01  1.471711e-01
+lambda  5.840313e-03       0.005048  6.756441e-03  4.341931e-04
+
+
+TA_casE-1_ cluster2 #259
+                 est        L95%          U95%            se
+rate    1.027136e-01    0.069387  1.520480e-01  2.055627e-02
+beta    2.606813e+08  137.489916  4.942525e+14  1.922594e+09
+s       2.197591e+01    0.000003  1.631300e+08  1.773815e+02
+lambda  9.750937e-03    0.008372  1.135669e-02  7.584180e-04
+
+
+TA_casE-1_ cluster2:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  1.000000
+1      beta  0.007333
+2         s  0.064415
+
+
+TA_casE-1_ cluster1:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  1.000000
+1      beta  0.044173
+2         s  0.143564
+
+
+[(1, 533, 6, ['MAX_25092018 Position 203-1.tif.mortality.tab', 'MAX_25092018 Position 39-1.tif.mortality.tab', 'MAX_25092018 Position 40-1.tif.mortality.tab', 'MAX_25092018 Position 41-1.tif.mortality.tab', 'MAX_25092018 Position 75-1.tif.mortality.tab', 'MAX_25092018 Position 9-1.tif.mortality.tab']), (2, 401, 6, ['MAX_25092018 Position 148-1.tif.mortality.tab', 'MAX_25092018 Position 169-1.tif.mortality.tab', 'MAX_25092018 Position 177-1.tif.mortality.tab', 'MAX_25092018 Position 201-1.tif.mortality.tab', 'MAX_25092018 Position 204-1.tif.mortality.tab', 'MAX_25092018 Position 74-1.tif.mortality.tab']), (3, 259, 3, ['MAX_25092018 Position 10-1.tif.mortality.tab', 'MAX_25092018 Position 202-1.tif.mortality.tab', 'MAX_25092018 Position 205-1.tif.mortality.tab'])]

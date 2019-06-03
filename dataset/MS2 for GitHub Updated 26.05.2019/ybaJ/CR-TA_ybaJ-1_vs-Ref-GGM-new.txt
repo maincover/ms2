@@ -1,0 +1,10 @@
+TA_ybaJ-1_ cluster0 #394
+                 est  L95%  U95%  se
+rate    9.404986e-02   NaN   NaN NaN
+beta    1.264413e+08   NaN   NaN NaN
+s       3.052443e+03   NaN   NaN NaN
+lambda  1.142702e-03   NaN   NaN NaN
+                 est        L95%        U95%       var
+lifespan  104.144861  101.146582  106.144755  0.000632
+
+

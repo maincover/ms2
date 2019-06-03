@@ -1,0 +1,11 @@
+MAX_14112014 Position 11-1.tif.mortality.tab
+MAX_14112014 Position 22-1.tif.mortality.tab
+MAX_14112014 Position 23-1.tif.mortality.tab
+MAX_14112014 Position 25-1.tif.mortality.tab
+MAX_14112014 Position 3-1.tif.mortality.tab
+MAX_14112014 Position 42-1.tif.mortality.tab
+MAX_14112014 Position 8-1.tif.mortality.tab
+MAX_14112014 Position 9-1.tif.mortality.tab
+MAX_14112014 Position 90-1.tif.mortality.tab
+MAX_14112014 Position 95-1.tif.mortality.tab
+MAX_14112014 Position 99-1.tif.mortality.tab

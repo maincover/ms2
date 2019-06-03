@@ -1,0 +1,3 @@
+MAX_04082014 Position 82 mask.tif.mortality.tab
+MAX_04082014 Position 83 mask.tif.mortality.tab
+MAX_04082014 Position 92 mask.tif.mortality.tab

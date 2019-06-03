@@ -1,0 +1,27 @@
+TA_yfjO-1_ cluster0 #872
+                  est  L95%  U95%  se
+rate         0.067628   NaN   NaN NaN
+beta    790005.327162   NaN   NaN NaN
+s           86.043065   NaN   NaN NaN
+lambda       0.000018   NaN   NaN NaN
+
+
+TA_yfjO-1_ cluster1 #603
+                 est         L95%           U95%            se
+rate        0.076663     0.056465       0.104087      0.011962
+beta    15863.734460  2166.971209  116133.555432  16112.550632
+s           0.828932     0.359020       1.913902      0.353893
+lambda      0.000986     0.000657       0.001479      0.000204
+
+
+TA_yfjO-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000143
+1      beta  0.000286
+2         s  0.852242
+
+
+[(0, 872, 6, ['MAX_11102018 Position 179-1.tif.mortality.tab', 'MAX_11102018 Position 192-1.tif.mortality.tab', 'MAX_11102018 Position 193-1.tif.mortality.tab', 'MAX_11102018 Position 195-1.tif.mortality.tab', 'MAX_11102018 Position 196-1.tif.mortality.tab', 'MAX_11102018 Position 197-1.tif.mortality.tab']), (1, 603, 3, ['MAX_11102018 Position 180-1.tif.mortality.tab', 'MAX_11102018 Position 186-1.tif.mortality.tab', 'MAX_11102018 Position 198-1.tif.mortality.tab'])]

@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_gltL-1_
+-------------------------------
+GG(AIC=5444.645919)
+              est        L95%         U95%           se
+beta  2305.552931  939.989309  5654.930611  1055.406607
+s        0.688207    0.453989     1.043261     0.146077
+rate     0.076670    0.063535     0.092522     0.007351
+
+
+GGMFit_params
+CR-TA_gltL-1_
+-------------------------------
+GGM(AIC=5446.647501)
+                 est          L95%          U95%            se
+rate    7.666465e-02  6.353102e-02  9.251337e-02  7.350258e-03
+beta    2.304683e+03  9.397786e+02  5.651931e+03  1.054828e+03
+s       6.882899e-01  4.540518e-01  1.043368e+00  1.460883e-01
+lambda  2.584591e-08  1.391149e-38  4.801868e+22  9.190896e-07 
+
+                 est        L95%        U95%       var
+lifespan  108.174628  105.868101  112.155343  0.000412
+survivorship
+0.0219283015672
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2014-07-05 00:00:00']
+
+
+3) Final survivorship:
+0.0219283015672
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.088951449641865243, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.00158231126 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000023  0.000008  0.000066  0.000012
+h_max   0.052762  0.041070  0.067783  0.006744
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.254892    0.234908    0.274876   0.010196
+mean      109.649766  107.247449  112.052084   1.225695
+variance  782.546206  652.120855  912.971558  66.544769
+
+
+                 rate     beta         s               mean  \
+gg_params_  0.0762368  1858.15  0.674273  108.1902231524837   
+
+                     variance                  cv  
+gg_params_  795.5560230881367  0.2607038036138243  
+
+
+8) lifespan stats
+mean 	std 	cv
+108.765726999 	24.2395168012 	0.222859879394
+
+

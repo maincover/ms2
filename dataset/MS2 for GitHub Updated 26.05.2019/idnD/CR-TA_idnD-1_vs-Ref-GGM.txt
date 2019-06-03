@@ -1,0 +1,45 @@
+TA_idnD-1_ cluster0 #676
+                  est      L95%          U95%             se
+rate         0.059059  0.052565  6.635655e-02       0.003510
+beta    125624.071650  1.280900  1.232056e+10  736676.062836
+s          438.045305  0.004232  4.533835e+07    2580.791640
+lambda       0.002653  0.001925  3.657003e-03       0.000434
+
+
+TA_idnD-1_ cluster1 #666
+                est         L95%          U95%           se
+rate       0.113836     0.093873      0.138044     0.011199
+beta    7383.607206  2081.267515  26194.448810  4770.369597
+s          0.694482     0.477655      1.009737     0.132620
+lambda     0.000285     0.000109      0.000748     0.000140
+
+
+TA_idnD-1_ cluster2 #504
+                 est  L95%  U95%  se
+rate    4.489253e-02   NaN   NaN NaN
+beta    6.790362e+03   NaN   NaN NaN
+s       7.873719e+01   NaN   NaN NaN
+lambda  6.256867e-07   NaN   NaN NaN
+
+
+TA_idnD-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.775874e-10
+1      beta  1.000000e+00
+2         s  2.681053e-10
+
+
+TA_idnD-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.704349e-09
+1      beta  3.288691e-01
+2         s  1.268628e-07
+
+
+[(0, 676, 3, ['MAX_24012015 Position 1-1.tif.mortality.tab', 'MAX_24012015 Position 29-1.tif.mortality.tab', 'MAX_24012015 Position 30-1.tif.mortality.tab']), (3, 666, 2, ['MAX_24012015 Position 126-1.tif.mortality.tab', 'MAX_24012015 Position 13-1.tif.mortality.tab']), (2, 504, 2, ['MAX_24012015 Position 14-1.tif.mortality.tab', 'MAX_24012015 Position 15-1.tif.mortality.tab'])]

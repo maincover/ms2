@@ -1,0 +1,27 @@
+TA_glpX-1_ cluster0 #862
+                 est          L95%          U95%            se
+rate    3.234047e-01  2.668405e-01  3.919594e-01  3.172289e-02
+beta    2.798562e+12  1.337208e+10  5.856942e+14  7.630065e+12
+s       3.975335e-01  3.091380e-01  5.112051e-01  5.100926e-02
+lambda  1.341782e-03  1.045308e-03  1.722343e-03  1.709345e-04
+
+
+TA_glpX-1_ cluster1 #348
+                 est          L95%          U95%            se
+rate    2.587660e-01  2.074923e-01  3.227100e-01  2.915527e-02
+beta    3.435329e+09  3.162016e+07  3.732267e+11  8.217027e+09
+s       5.432895e-01  3.994719e-01  7.388841e-01  8.523670e-02
+lambda  7.806047e-04  4.211363e-04  1.446904e-03  2.457805e-04
+
+
+TA_glpX-1_ cluster1:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  8.052794e-01
+1      beta  7.732397e-17
+2         s  6.021777e-01
+
+
+[(4, 862, 2, ['MAX_01062016 Position 83-1.tif.mortality.tab', 'MAX_01062016 Position 99-1.tif.mortality.tab']), (2, 348, 2, ['MAX_01062016 Position 88-1.tif.mortality.tab', 'MAX_01062016 Position 89-1.tif.mortality.tab'])]

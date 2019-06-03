@@ -1,0 +1,45 @@
+TA_nagZ-1_ cluster0 #2590
+                 est  L95%  U95%  se
+rate    4.042144e-02   NaN   NaN NaN
+beta    2.793814e+05   NaN   NaN NaN
+s       2.360621e+03   NaN   NaN NaN
+lambda  1.733463e-07   NaN   NaN NaN
+
+
+TA_nagZ-1_ cluster1 #1493
+               est          L95%        U95%         se
+rate      0.040130  3.532630e-02    0.045587   0.002610
+beta    130.034911  8.557167e+01  197.601348  27.762210
+s         2.048939  1.063305e+00    3.948208   0.685717
+lambda    0.000003  1.101255e-11    1.062770   0.000022
+
+
+TA_nagZ-1_ cluster2 #1194
+               est          L95%        U95%         se
+rate      0.043621  3.804209e-02    0.050018   0.003046
+beta    200.150354  1.332596e+02  300.617366  41.539048
+s         1.364957  7.243482e-01    2.572116   0.441255
+lambda    0.000005  8.950333e-10    0.024981   0.000021
+
+
+TA_nagZ-1_ cluster2:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.342371
+1      beta  0.001119
+2         s  0.000040
+
+
+TA_nagZ-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.668766e-06
+1      beta  1.817194e-08
+2         s  8.082578e-01
+
+
+[(2, 2590, 12, ['MAX_01112018 Position 101-1.tif.mortality.tab', 'MAX_01112018 Position 102-1.tif.mortality.tab', 'MAX_01112018 Position 121-1.tif.mortality.tab', 'MAX_01112018 Position 126-1.tif.mortality.tab', 'MAX_01112018 Position 127-1.tif.mortality.tab', 'MAX_01112018 Position 128-1.tif.mortality.tab', 'MAX_01112018 Position 130-1.tif.mortality.tab', 'MAX_01112018 Position 68-1.tif.mortality.tab', 'MAX_01112018 Position 72-1.tif.mortality.tab', 'MAX_01112018 Position 73-1.tif.mortality.tab', 'MAX_01112018 Position 78-1.tif.mortality.tab', 'MAX_01112018 Position 92-1.tif.mortality.tab']), (0, 1493, 3, ['MAX_01112018 Position 109-1.tif.mortality.tab', 'MAX_01112018 Position 113-1.tif.mortality.tab', 'MAX_01112018 Position 134-1.tif.mortality.tab']), (1, 1194, 3, ['MAX_01112018 Position 112-1.tif.mortality.tab', 'MAX_01112018 Position 129-1.tif.mortality.tab', 'MAX_01112018 Position 96-1.tif.mortality.tab'])]

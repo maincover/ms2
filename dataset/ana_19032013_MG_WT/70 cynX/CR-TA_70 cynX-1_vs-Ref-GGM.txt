@@ -1,0 +1,27 @@
+TA_70 cynX-1_ cluster0 #1714
+               est          L95%        U95%         se
+rate      0.064608  5.800298e-02    0.071965   0.003555
+beta    252.088548  2.013645e+02  315.590054  28.896009
+s         1.894851  1.253053e+00    2.865371   0.399819
+lambda    0.000006  6.552200e-08    0.000465   0.000012
+
+
+TA_70 cynX-1_ cluster1 #1449
+                 est         L95%           U95%            se
+rate        0.186804     0.153039       0.228017      0.019001
+beta    53197.291266  7274.004525  389050.046432  54004.399274
+s           0.240929     0.188142       0.308526      0.030400
+lambda      0.000405     0.000207       0.000794      0.000139
+
+
+TA_70 cynX-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.584179e-21
+1      beta  1.100110e-11
+2         s  2.326422e-20
+
+
+[(2, 1714, 3, ['MAX_30102017 Position 62_MAX.tif.mortality.tab', 'MAX_30102017 Position 63_MAX.tif.mortality.tab', 'MAX_30102017 Position 88_MAX.tif.mortality.tab']), (0, 1449, 4, ['MAX_30102017 Position 55_MAX.tif.mortality.tab', 'MAX_30102017 Position 57_MAX.tif.mortality.tab', 'MAX_30102017 Position 58_MAX.tif.mortality.tab', 'MAX_30102017 Position 59_MAX.tif.mortality.tab'])]

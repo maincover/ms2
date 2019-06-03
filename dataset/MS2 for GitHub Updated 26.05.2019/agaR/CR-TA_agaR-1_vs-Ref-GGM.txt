@@ -1,0 +1,27 @@
+TA_agaR-1_ cluster0 #5010
+                 est          L95%        U95%         se
+rate    7.070963e-02  6.713298e-02    0.074477   0.001873
+beta    3.941905e+02  3.374578e+02  460.461118  31.253051
+s       1.245380e+00  1.071987e+00    1.446819   0.095265
+lambda  9.006801e-08  3.087343e-17  262.758174   0.000001
+
+
+TA_agaR-1_ cluster1 #1825
+                 est          L95%          U95%         se
+rate    7.765179e-02  7.141180e-02  8.443703e-02   0.003319
+beta    5.238577e+02  3.975931e+02  6.902204e+02  73.713182
+s       1.189786e+00  9.428964e-01  1.501323e+00   0.141182
+lambda  1.016425e-07  4.931530e-21  2.094927e+06   0.000002
+
+
+TA_agaR-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000926
+1      beta  0.081835
+2         s  0.463893
+
+
+[(1, 5010, 6, ['MAX_28092014 Position 63-1.tif.mortality.tab', 'MAX_28092014 Position 64-1.tif.mortality.tab', 'MAX_28092014 Position 65-1.tif.mortality.tab', 'MAX_28092014 Position 70-1.tif.mortality.tab', 'MAX_28092014 Position 81-1.tif.mortality.tab', 'MAX_28092014 Position 82-1.tif.mortality.tab']), (0, 1825, 2, ['MAX_28092014 Position 62-1.tif.mortality.tab', 'MAX_28092014 Position 71-1.tif.mortality.tab'])]

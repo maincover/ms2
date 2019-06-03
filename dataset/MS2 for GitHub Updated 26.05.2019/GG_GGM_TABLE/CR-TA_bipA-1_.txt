@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_bipA-1_
+-------------------------------
+GG(AIC=12473.275716)
+              est       L95%           U95%            se
+beta  4264.532186  19.867288  915385.865735  11682.015475
+s       23.397859   0.073494    7449.045604     68.800480
+rate     0.050417   0.044851       0.056675      0.003009
+
+
+GGMFit_params
+CR-TA_bipA-1_
+-------------------------------
+GGM(AIC=12475.284886)
+                 est          L95%          U95%            se
+rate    5.041505e-02  4.476543e-02  5.677769e-02      0.003057
+beta    4.284204e+03  1.754918e+01  1.045884e+06  12017.155560
+s       2.350965e+01  6.443814e-02  8.577277e+03     70.763683
+lambda  1.652705e-07  4.741855e-20  5.760262e+05      0.000002 
+
+                est       L95%       U95%       var
+lifespan  96.996661  91.863956  97.072641  0.000164
+survivorship
+0.020758358647
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2014-07-28 00:00:00']
+
+
+3) Final survivorship:
+0.020758358647
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.044618253605091154, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.00917074988 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%        U95%        se
+h_init  0.000277  0.000193    0.000397  0.000051
+h_max   1.185867  0.004138  339.825125  3.423321
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                   est          L95%          U95%            se
+cv            0.310329  5.824033e-02  5.624168e-01  1.286188e-01
+mean        123.219337 -4.383467e+02  6.847854e+02  2.865186e+02
+variance  87827.553736 -4.507306e+06  4.682961e+06  2.344499e+06
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0495338  10433.7  61.7912  92.72192320530655  603.3413245974632   
+
+                            cv  
+gg_params_  0.2649104590301577  
+
+
+8) lifespan stats
+mean 	std 	cv
+89.3012739213 	22.7047501959 	0.254248894768
+
+

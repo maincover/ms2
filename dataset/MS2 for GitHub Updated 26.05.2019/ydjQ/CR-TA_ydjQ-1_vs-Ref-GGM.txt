@@ -1,0 +1,27 @@
+TA_ydjQ-1_ cluster0 #1693
+                  est          L95%           U95%            se
+rate         0.106515      0.090560       0.125280      0.008819
+beta    132924.548384  30919.509737  571449.408914  98908.145477
+s            0.472528      0.332648       0.671228      0.084626
+lambda       0.000340      0.000240       0.000482      0.000060
+
+
+TA_ydjQ-1_ cluster1 #959
+                 est          L95%           U95%            se
+rate        0.082208      0.067015       0.100847      0.008571
+beta    37413.455275  11672.796251  119916.993798  22234.106033
+s           1.065539      0.467180       2.430268      0.448253
+lambda      0.000357      0.000223       0.000573      0.000086
+
+
+TA_ydjQ-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.806852e-17
+1      beta  1.000000e+00
+2         s  7.703420e-02
+
+
+[(0, 1693, 5, ['MAX_12072015 Position 88-1.tif.mortality.tab', 'MAX_12072015 Position 92-1.tif.mortality.tab', 'MAX_12072015 Position 93-1.tif.mortality.tab', 'MAX_12072015 Position 95-1.tif.mortality.tab', 'MAX_12072015 Position 96-1.tif.mortality.tab']), (1, 959, 3, ['MAX_12072015 Position 85-1.tif.mortality.tab', 'MAX_12072015 Position 90-1.tif.mortality.tab', 'MAX_12072015 Position 94-1.tif.mortality.tab'])]

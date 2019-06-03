@@ -1,0 +1,27 @@
+TA_110 Stat appY-1_ cluster0 #608
+                 est          L95%          U95%            se
+rate    1.558855e-01  1.236389e-01  1.965425e-01  1.843276e-02
+beta    6.943745e+07  1.747652e+06  2.758879e+09  1.304511e+08
+s       6.292351e-01  4.026986e-01  9.832087e-01  1.432873e-01
+lambda  1.543502e-03  1.211915e-03  1.965814e-03  1.904624e-04
+
+
+TA_110 Stat appY-1_ cluster1 #222
+                 est          L95%          U95%            se
+rate    2.651747e-01  1.944875e-01  3.615533e-01  4.194446e-02
+beta    7.929383e+11  2.861516e+08  2.197266e+15  3.207000e+12
+s       3.440517e-01  2.133008e-01  5.549513e-01  8.392355e-02
+lambda  1.819808e-04  5.903797e-05  5.609441e-04  1.045220e-04
+
+
+TA_110 Stat appY-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.005647
+1      beta  0.017602
+2         s  0.062628
+
+
+[(1, 608, 3, ['MAX_30102017 Position 143_mask.tif.mortality.tab', 'MAX_30102017 Position 145_MAX.tif.mortality.tab', 'MAX_30102017 Position 153_MAX.tif.mortality.tab']), (0, 222, 2, ['MAX_30102017 Position 152_mask.tif.mortality.tab', 'MAX_30102017 Position 19_mask.tif.mortality.tab'])]

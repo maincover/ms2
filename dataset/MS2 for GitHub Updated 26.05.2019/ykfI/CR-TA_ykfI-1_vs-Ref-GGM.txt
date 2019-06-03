@@ -1,0 +1,45 @@
+TA_ykfI-1_ cluster0 #740
+                 est          L95%           U95%            se
+rate        0.086020      0.070599       0.104809      0.008671
+beta    61264.632628  11423.700712  328558.608595  52498.269339
+s           0.463039      0.289889       0.739614      0.110639
+lambda      0.000346      0.000210       0.000571      0.000088
+
+
+TA_ykfI-1_ cluster1 #649
+                 est          L95%           U95%            se
+rate        0.080311      0.065523       0.098437      0.008339
+beta    52389.107485  12840.626956  213744.904559  37584.117031
+s           1.131823      0.545167       2.349780      0.421838
+lambda      0.000252      0.000116       0.000547      0.000100
+
+
+TA_ykfI-1_ cluster2 #540
+                  est      L95%          U95%            se
+rate         0.068145  0.060252  7.707315e-02  4.280404e-03
+beta    782778.631696  7.666652  7.992307e+10  4.606388e+06
+s           79.107862  0.000479  1.305729e+07  4.849096e+02
+lambda       0.000572  0.000346  9.457036e-04  1.468238e-04
+
+
+TA_ykfI-1_ cluster1:
+-------
+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.374023e-01
+1      beta  2.749816e-01
+2         s  2.976183e-12
+
+
+TA_ykfI-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.775901e-04
+1      beta  3.006261e-01
+2         s  2.711437e-07
+
+
+[(0, 740, 4, ['MAX_11102018 Position 174-1.tif.mortality.tab', 'MAX_11102018 Position 175-1.tif.mortality.tab', 'MAX_11102018 Position 177-1.tif.mortality.tab', 'MAX_11102018 Position 267-1.tif.mortality.tab']), (2, 649, 4, ['MAX_11102018 Position 249-1.tif.mortality.tab', 'MAX_11102018 Position 251-1.tif.mortality.tab', 'MAX_11102018 Position 259-1.tif.mortality.tab', 'MAX_11102018 Position 266-1.tif.mortality.tab']), (1, 540, 4, ['MAX_11102018 Position 250-1.tif.mortality.tab', 'MAX_11102018 Position 252-1.tif.mortality.tab', 'MAX_11102018 Position 264-1.tif.mortality.tab', 'MAX_11102018 Position 270-1.tif.mortality.tab'])]

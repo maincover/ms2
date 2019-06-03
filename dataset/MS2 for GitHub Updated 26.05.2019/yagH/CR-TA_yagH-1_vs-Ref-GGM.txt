@@ -1,0 +1,9 @@
+TA_yagH-1_ cluster0 #852
+                 est          L95%           U95%            se
+rate        0.113315      0.095830       0.133989      0.009689
+beta    79032.769242  16448.178198  379748.963011  63293.824175
+s           0.333664      0.243918       0.456430      0.053337
+lambda      0.000166      0.000078       0.000353      0.000064
+
+
+[(0, 852, 4, ['MAX_16012014 Position 101-1.tif.mortality.tab', 'MAX_16012014 Position 102-1.tif.mortality.tab', 'MAX_16012014 Position 103-1.tif.mortality.tab', 'MAX_16012014 Position 98-1.tif.mortality.tab'])]

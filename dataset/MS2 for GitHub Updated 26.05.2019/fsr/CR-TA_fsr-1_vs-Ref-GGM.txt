@@ -1,0 +1,27 @@
+TA_fsr-1_ cluster0 #2620
+                 est         L95%          U95%           se
+rate        0.099821     0.090941      0.109568     0.004745
+beta    12613.391017  6548.280771  24296.092136  4218.848113
+s           0.424859     0.351118      0.514087     0.041324
+lambda      0.000016     0.000002      0.000136     0.000017
+
+
+TA_fsr-1_ cluster1 #880
+                  est          L95%          U95%             se
+rate         0.114296      0.089802  1.454697e-01       0.014064
+beta    191651.648889  18444.954422  1.991350e+06  228899.689595
+s            0.405582      0.251327  6.545120e-01       0.099031
+lambda       0.000917      0.000692  1.215111e-03       0.000132
+
+
+TA_fsr-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.019163
+1      beta  0.000008
+2         s  0.859036
+
+
+[(0, 2620, 3, ['MAX_12072015 Position 181-1.tif.mortality.tab', 'MAX_12072015 Position 182-1.tif.mortality.tab', 'MAX_12072015 Position 186-1.tif.mortality.tab']), (2, 880, 3, ['MAX_12072015 Position 100-1.tif.mortality.tab', 'MAX_12072015 Position 91-1.tif.mortality.tab', 'MAX_12072015 Position 97-1.tif.mortality.tab'])]

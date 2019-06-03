@@ -1,0 +1,27 @@
+TA_ycaL-1_ cluster0 #871
+              est       L95%        U95%         se
+rate     0.070348   0.057565    0.085969   0.007198
+beta    87.589058  42.321941  181.273425  32.504648
+s        0.923091   0.650868    1.309170   0.164568
+lambda   0.000537   0.000037    0.007846   0.000734
+
+
+TA_ycaL-1_ cluster1 #314
+               est       L95%         U95%          se
+rate      0.121514   0.079093     0.186686    0.026622
+beta    316.005913  28.873771  3458.493139  385.796675
+s         0.169956   0.097048     0.297637    0.048589
+lambda    0.001565   0.000681     0.003598    0.000665
+
+
+TA_ycaL-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.632167e-04
+1      beta  2.649863e-01
+2         s  7.517544e-12
+
+
+[(0, 871, 6, ['MAX_26102018 Position 113-1.tif.mortality.tab', 'MAX_26102018 Position 114-1.tif.mortality.tab', 'MAX_26102018 Position 115-1.tif.mortality.tab', 'MAX_26102018 Position 116-1.tif.mortality.tab', 'MAX_26102018 Position 150-1.tif.mortality.tab', 'MAX_26102018 Position 220-1.tif.mortality.tab']), (2, 314, 2, ['MAX_26102018 Position 109-1.tif.mortality.tab', 'MAX_26102018 Position 111-1.tif.mortality.tab'])]

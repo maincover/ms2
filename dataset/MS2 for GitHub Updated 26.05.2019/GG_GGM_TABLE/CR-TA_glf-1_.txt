@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_glf-1_
+-------------------------------
+GG(AIC=8248.474558)
+              est         L95%         U95%           se
+beta  3420.711723  1618.763317  7228.523510  1305.804187
+s        0.657841     0.463171     0.934331     0.117765
+rate     0.076245     0.065739     0.088431     0.005768
+
+
+GGMFit_params
+CR-TA_glf-1_
+-------------------------------
+GGM(AIC=8250.485290)
+                 est          L95%          U95%           se
+rate    7.625286e-02  6.574196e-02      0.088444     0.005770
+beta    3.423000e+03  1.619277e+03   7235.901192  1307.291388
+s       6.577487e-01  4.630691e-01      0.934274     0.117775
+lambda  1.432860e-07  3.439563e-19  59690.337958     0.000002 
+
+                est        L95%        U95%      var
+lifespan  114.89066  111.888068  118.546865  0.00025
+survivorship
+0.0643040613266
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2014-07-05 00:00:00']
+
+
+3) Final survivorship:
+0.0643040613266
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.22310814610346194, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.01073183883 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000015  0.000006  0.000036  0.000007
+h_max   0.050154  0.040203  0.062570  0.005660
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.246677    0.229001    0.264352   0.009018
+mean      116.697594  114.625413  118.769775   1.057255
+variance  830.162500  697.650429  962.674570  67.609441
+
+
+                 rate     beta         s               mean  \
+gg_params_  0.0809187  4727.34  0.596615  116.6354151047985   
+
+                     variance                  cv  
+gg_params_  809.7215111131293  0.2439705465472326  
+
+
+8) lifespan stats
+mean 	std 	cv
+113.090453424 	22.8036534026 	0.201640834502
+
+

@@ -1,0 +1,53 @@
+GGFit_params
+CR-TA_80 MG yagS-1_
+-------------------------------
+GG(AIC=31852.132151)
+                est      L95%          U95%             se
+beta  102413.332312  0.076277  1.375062e+11  737293.522521
+s       1090.969781  0.000791  1.505530e+09    7869.369956
+rate       0.052770  0.051253  5.433195e-02       0.000785
+
+
+GGMFit_params
+CR-TA_80 MG yagS-1_
+-------------------------------
+GGM(AIC=31854.123251)
+                 est          L95%          U95%            se
+rate    5.275913e-02  5.125966e-02  5.430247e-02  7.761341e-04
+beta    1.510788e+05  3.742618e-03  6.098621e+12  1.349985e+06
+s       1.610747e+03  3.899257e-05  6.653850e+10  1.441201e+04
+lambda  2.302077e-08  2.165976e-31  2.446730e+15  6.227514e-07 
+
+                est       L95%       U95%      var
+lifespan  81.368902  81.357806  81.372271  0.00007
+survivorship
+0.0006315624187
+
+
+1) Number of tab files in the cluster
+7
+
+
+2) Number of dates in the cluster
+1 ['2017-10-30 00:00:00']
+
+
+3) Final survivorship:
+0.0006315624187
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.00046328985819613631, 0.93099671412924423)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+1.99109994877 0.924839010362
+
+
+6) initial mortality (h_init, h_max)
+              est      L95%          U95%          se
+h_init   0.000562  0.000499  6.330686e-04    0.000034
+h_max   57.351290  0.000041  7.999634e+07  413.998955
+
+

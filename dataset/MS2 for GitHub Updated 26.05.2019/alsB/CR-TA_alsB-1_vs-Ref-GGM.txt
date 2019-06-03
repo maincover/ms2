@@ -1,0 +1,45 @@
+TA_alsB-1_ cluster0 #1217
+                est          L95%          U95%            se
+rate       0.021535  2.000876e-02  2.317830e-02      0.000808
+beta    6949.508548  3.422186e-03  1.411252e+10  51497.874897
+s       1058.632316  5.123392e-04  2.187423e+09   7854.146493
+lambda     0.000003  7.542968e-18  1.350074e+06      0.000044
+
+
+TA_alsB-1_ cluster1 #1136
+                 est          L95%        U95%         se
+rate    5.067176e-02  4.187112e-02    0.061322   0.004932
+beta    1.596209e+02  1.220481e+02  208.760477  21.857558
+s       1.354587e+00  7.502339e-01    2.445780   0.408365
+lambda  7.649398e-07  8.089574e-15   72.331739   0.000007
+
+
+TA_alsB-1_ cluster2 #948
+               est          L95%          U95%          se
+rate      0.042073  3.698373e-02      0.047862    0.002768
+beta    357.897335  1.698937e+02    753.944995  136.053382
+s         5.300879  1.851709e+00     15.174799    2.844578
+lambda    0.000008  3.590682e-15  19290.518984    0.000092
+
+
+TA_alsB-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  6.699298e-11
+1      beta  4.015949e-01
+2         s  4.385669e-09
+
+
+TA_alsB-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.477929e-12
+1      beta  1.000000e+00
+2         s  1.277728e-10
+
+
+[(4, 1217, 2, ['MAX_18102018 Position 162-1.tif.mortality.tab', 'MAX_18102018 Position 189-1.tif.mortality.tab']), (2, 1136, 4, ['MAX_18102018 Position 201-1.tif.mortality.tab', 'MAX_18102018 Position 206-1.tif.mortality.tab', 'MAX_18102018 Position 252-1.tif.mortality.tab', 'MAX_18102018 Position 255-1.tif.mortality.tab']), (3, 948, 3, ['MAX_18102018 Position 226-1.tif.mortality.tab', 'MAX_18102018 Position 227-1.tif.mortality.tab', 'MAX_18102018 Position 241-1.tif.mortality.tab'])]

@@ -1,0 +1,27 @@
+TA_yggE-1_ cluster0 #1911
+                 est  L95%  U95%  se
+rate        0.035017   NaN   NaN NaN
+beta    37319.301492   NaN   NaN NaN
+s         825.752222   NaN   NaN NaN
+lambda      0.000007   NaN   NaN NaN
+
+
+TA_yggE-1_ cluster1 #229
+               est          L95%          U95%          se
+rate      0.056114  4.163717e-02  7.562534e-02    0.008543
+beta    332.858247  1.512468e+02  7.325417e+02  133.961529
+s         0.933711  3.687166e-01  2.364464e+00    0.442635
+lambda    0.000001  1.149004e-19  1.070517e+07    0.000017
+
+
+TA_yggE-1_ cluster1:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.240632
+1      beta  0.000245
+2         s  0.600875
+
+
+[(1, 1911, 7, ['MAX_01112018 Position 108-1.tif.mortality.tab', 'MAX_01112018 Position 110-1.tif.mortality.tab', 'MAX_01112018 Position 52-1.tif.mortality.tab', 'MAX_01112018 Position 57-1.tif.mortality.tab', 'MAX_01112018 Position 58-1.tif.mortality.tab', 'MAX_01112018 Position 80-1.tif.mortality.tab', 'MAX_01112018 Position 90-1.tif.mortality.tab']), (0, 229, 2, ['MAX_01112018 Position 51-1.tif.mortality.tab', 'MAX_01112018 Position 93-1.tif.mortality.tab'])]

@@ -1,0 +1,3 @@
+MAX_24012015 Position 132-1.tif.mortality.tab
+MAX_24012015 Position 139-1.tif.mortality.tab
+MAX_24012015 Position 140-1.tif.mortality.tab

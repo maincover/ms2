@@ -1,0 +1,9 @@
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 55_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 56_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 57_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 58_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 59_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 62_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 63_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 64_MAX.tif.mortality.tab
+/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 88_MAX.tif.mortality.tab

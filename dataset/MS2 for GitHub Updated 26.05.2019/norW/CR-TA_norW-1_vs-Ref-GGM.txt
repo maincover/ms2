@@ -1,0 +1,45 @@
+TA_norW-1_ cluster0 #2039
+                 est         L95%          U95%           se
+rate        0.105914     0.096183      0.116631     0.005208
+beta    20019.898135  9480.890920  42274.120090  7634.752906
+s           0.685048     0.567980      0.826244     0.065501
+lambda      0.000148     0.000069      0.000316     0.000057
+
+
+TA_norW-1_ cluster1 #888
+                 est          L95%          U95%            se
+rate    2.165411e-01  1.736016e-01  2.701014e-01  2.441846e-02
+beta    2.779805e+08  5.369639e+06  1.439075e+10  5.597709e+08
+s       2.186031e-01  1.609411e-01  2.969243e-01  3.415395e-02
+lambda  6.063137e-04  4.361208e-04  8.429231e-04  1.019239e-04
+
+
+TA_norW-1_ cluster2 #749
+                 est         L95%          U95%            se
+rate        0.094533     0.080179      0.111456      0.007943
+beta    26899.722797  8062.140461  89752.230200  16537.277575
+s           1.009413     0.648883      1.570259      0.227571
+lambda      0.000668     0.000433      0.001031      0.000148
+
+
+TA_norW-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.983145e-09
+1      beta  6.817126e-01
+2         s  3.828873e-03
+
+
+TA_norW-1_ cluster1:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.990920e-01
+1      beta  3.687868e-17
+2         s  1.679691e-01
+
+
+[(0, 2039, 6, ['MAX_30112014 Position 30-1.tif.mortality.tab', 'MAX_30112014 Position 39-1.tif.mortality.tab', 'MAX_30112014 Position 41-1.tif.mortality.tab', 'MAX_30112014 Position 43-1.tif.mortality.tab', 'MAX_30112014 Position 75-1.tif.mortality.tab', 'MAX_30112014 Position 77-1.tif.mortality.tab']), (1, 888, 5, ['MAX_30112014 Position 26-1.tif.mortality.tab', 'MAX_30112014 Position 27-1.tif.mortality.tab', 'MAX_30112014 Position 78-1.tif.mortality.tab', 'MAX_30112014 Position 80-1.tif.mortality.tab', 'MAX_30112014 Position 81-1.tif.mortality.tab']), (2, 749, 9, ['MAX_30112014 Position 45-1.tif.mortality.tab', 'MAX_30112014 Position 70-1.tif.mortality.tab', 'MAX_30112014 Position 72-1.tif.mortality.tab', 'MAX_30112014 Position 74-1.tif.mortality.tab', 'MAX_30112014 Position 79-1.tif.mortality.tab', 'MAX_30112014 Position 82-1.tif.mortality.tab', 'MAX_30112014 Position 83-1.tif.mortality.tab', 'MAX_30112014 Position 84-1.tif.mortality.tab', 'MAX_30112014 Position 85-1.tif.mortality.tab'])]

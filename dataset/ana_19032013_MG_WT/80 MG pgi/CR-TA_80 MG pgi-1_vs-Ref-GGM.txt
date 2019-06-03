@@ -1,0 +1,27 @@
+TA_80 MG pgi-1_ cluster0 #2955
+                 est          L95%         U95%         se
+rate    8.318911e-02  7.714096e-02     0.089711   0.003204
+beta    3.188940e+02  2.379816e+02   427.316008  47.617789
+s       5.212979e-01  4.563450e-01     0.595496   0.035394
+lambda  5.043302e-07  2.139154e-16  1189.016504   0.000006
+
+
+TA_80 MG pgi-1_ cluster1 #544
+                 est        L95%          U95%             se
+rate        0.179277    0.110301  2.913860e-01       0.044428
+beta    42453.603089  410.845768  4.386825e+06  100459.832565
+s           0.170788    0.095333  3.059646e-01       0.050806
+lambda      0.000142    0.000016  1.256900e-03       0.000158
+
+
+TA_80 MG pgi-1_ cluster1:
+-------
+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  1.000000
+1      beta  0.288256
+2         s  0.004635
+
+
+[(1, 2955, 10, ['MAX_30102017 Position 31_MAX.tif.mortality.tab', 'MAX_30102017 Position 32_MAX.tif.mortality.tab', 'MAX_30102017 Position 35_MAX.tif.mortality.tab', 'MAX_30102017 Position 36_MAX.tif.mortality.tab', 'MAX_30102017 Position 37_MAX.tif.mortality.tab', 'MAX_30102017 Position 38_MAX.tif.mortality.tab', 'MAX_30102017 Position 39_MAX.tif.mortality.tab', 'MAX_30102017 Position 46_MAX.tif.mortality.tab', 'MAX_30102017 Position 51_MAX.tif.mortality.tab', 'MAX_30102017 Position 60_MAX.tif.mortality.tab']), (0, 544, 2, ['MAX_30102017 Position 43_MAX.tif.mortality.tab', 'MAX_30102017 Position 50_MAX.tif.mortality.tab'])]

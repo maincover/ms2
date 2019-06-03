@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_ycaL-1_
+-------------------------------
+GG(AIC=7654.412217)
+            est       L95%       U95%         se
+beta  69.532749  51.275773  94.290206  10.805427
+s      1.008198   0.773757   1.313673   0.136141
+rate   0.066134   0.059092   0.074016   0.003799
+
+
+GGMFit_params
+CR-TA_ycaL-1_
+-------------------------------
+GGM(AIC=7655.966352)
+              est       L95%        U95%         se
+rate     0.070348   0.057565    0.085969   0.007198
+beta    87.589058  42.321941  181.273425  32.504648
+s        0.923091   0.650868    1.309170   0.164568
+lambda   0.000537   0.000037    0.007846   0.000734 
+
+                est       L95%       U95%       var
+lifespan  65.727737  63.182109  68.275004  0.000287
+survivorship
+0.0521698463576
+
+
+1) Number of tab files in the cluster
+6
+
+
+2) Number of dates in the cluster
+1 ['2018-10-26 00:00:00']
+
+
+3) Final survivorship:
+0.0521698463576
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.044100723225383248, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+1.55413512145 0.504305227169
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000959  0.000704  0.001306  0.000151
+h_max   0.066673  0.055465  0.080146  0.006261
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.398122    0.374801    0.421443   0.011899
+mean       64.862044   63.144648   66.579441   0.876239
+variance  667.346942  587.259598  747.434286  40.861641
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0597094  51.7113  1.19781  62.81821394758553  683.4006216620209   
+
+                            cv  
+gg_params_  0.4161521094800585  
+
+
+8) lifespan stats
+mean 	std 	cv
+63.6408146272 	24.0333808556 	0.37764099967
+
+

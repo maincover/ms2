@@ -1,0 +1,91 @@
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 135_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 146_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 147_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 149_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 150_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 151_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 1_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 2_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 3_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 4_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 5_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 6_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 76_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 7_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/100 Stat uxaB/MAX_30102017 Position 8_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 142_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 143_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 145_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 152_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 153_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 19_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/110 Stat appY/MAX_30102017 Position 28_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/120 Stat aqpZ/MAX_30102017 Position 137_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/120 Stat aqpZ/MAX_30102017 Position 138_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/120 Stat aqpZ/MAX_30102017 Position 140_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/120 Stat aqpZ/MAX_30102017 Position 141_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/120 Stat aqpZ/MAX_30102017 Position 144_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/60 MG WT/MAX_30102017 Position 11_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/60 MG WT/MAX_30102017 Position 12_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/60 MG WT/MAX_30102017 Position 13_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/60 MG WT/MAX_30102017 Position 14_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/60 MG WT/MAX_30102017 Position 61_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/60 MG WT/MAX_30102017 Position 66_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 55_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 56_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 57_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 58_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 59_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 62_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 63_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 64_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 cynX/MAX_30102017 Position 88_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 10_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 30_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 40_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 41_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 47_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 48_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 49_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 52_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 53_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/70 thiQ/MAX_30102017 Position 54_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 31_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 32_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 35_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 36_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 37_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 38_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 39_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 43_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 46_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 50_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 51_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 60_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG pgi/MAX_30102017 Position 65_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 70_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 71_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 72_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 73_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 74_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 75_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 78_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 79_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 80_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 81_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 82_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 83_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 84_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 86_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 87_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/80 MG yagS/MAX_30102017 Position 90_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 29_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 33_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 34_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 42_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 44_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 45_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 68_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 69_mask.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 77_MAX.tif.mortality.tab
+/Users/songxiaohu/Desktop/githubYfan/PIMortalityAnalysis/xsong/main/test dataset/ana 19032018/90 Stat pgi/MAX_30102017 Position 89_mask.tif.mortality.tab

@@ -1,0 +1,48 @@
+MG yfiD cluster0 #441
+                 est           L95%          U95%            se
+rate    1.644233e-01       0.122724  2.202914e-01  2.453867e-02
+beta    2.414059e+07  261535.829185  2.228254e+09  5.573474e+07
+s       3.401554e-01       0.211867  5.461229e-01  8.216666e-02
+lambda  1.992833e-03       0.001543  2.573095e-03  2.598378e-04
+                 est        L95%        U95%       var
+lifespan  110.610367  108.619008  111.739109  0.000587
+
+
+MG yfiD cluster1 #411
+                est      L95%          U95%            se
+rate       0.042234  0.028917  6.168335e-02      0.008162
+beta    2844.724351  0.002791  2.899028e+09  20079.507139
+s         32.034702  0.000009  1.153900e+08    246.753607
+lambda     0.001138  0.000316  4.100004e-03      0.000744
+                est       L95%       U95%       var
+lifespan  93.632288  89.611356  97.612437  0.000613
+
+
+MG yfiD cluster0:
+-------MG wt------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.710530e-06
+1      beta  2.575528e-17
+2         s  1.187562e-03
+
+
+MG yfiD cluster1:
+-------MG wt------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.007470
+1      beta  0.025776
+2         s  0.009757
+
+
+MG yfiD cluster1:
+-------Self------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.613370e-10
+1      beta  1.000000e+00
+2         s  3.495172e-10

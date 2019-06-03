@@ -1,0 +1,27 @@
+TA_agaA-1_ cluster0 #1172
+                 est  L95%  U95%  se
+rate    8.214951e-02   NaN   NaN NaN
+beta    1.274220e+08   NaN   NaN NaN
+s       8.067933e+03   NaN   NaN NaN
+lambda  4.349713e-03   NaN   NaN NaN
+
+
+TA_agaA-1_ cluster1 #1027
+                 est      L95%          U95%            se
+rate    7.505432e-02  0.069761  8.074964e-02  2.800858e-03
+beta    4.471020e+06  2.554064  7.826751e+12  3.279289e+07
+s       9.885641e+02  0.000554  1.764584e+09  7.260495e+03
+lambda  1.490062e-04  0.000053  4.178896e-04  7.839919e-05
+
+
+TA_agaA-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000122
+1      beta  0.000235
+2         s  0.000232
+
+
+[(1, 1172, 2, ['MAX_17022015 Position 117-1.tif.mortality.tab', 'MAX_17022015 Position 50-1.tif.mortality.tab']), (0, 1027, 8, ['MAX_17022015 Position 106-1.tif.mortality.tab', 'MAX_17022015 Position 107-1.tif.mortality.tab', 'MAX_17022015 Position 108-1.tif.mortality.tab', 'MAX_17022015 Position 109-1.tif.mortality.tab', 'MAX_17022015 Position 110-1.tif.mortality.tab', 'MAX_17022015 Position 111-1.tif.mortality.tab', 'MAX_17022015 Position 113-1.tif.mortality.tab', 'MAX_17022015 Position 114-1.tif.mortality.tab'])]

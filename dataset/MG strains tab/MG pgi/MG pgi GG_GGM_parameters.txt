@@ -1,0 +1,48 @@
+MG pgi cluster0 #1846
+                est        L95%         U95%          se
+rate       0.055220    0.045070     0.067656    0.005722
+beta    1021.637520  510.627202  2044.041557  361.500701
+s          1.328682    0.681901     2.588930    0.452206
+lambda     0.000978    0.000662     0.001447    0.000195
+                 est        L95%        U95%       var
+lifespan  114.305324  112.291213  116.281755  0.000154
+
+
+MG pgi cluster1 #997
+               est          L95%           U95%          se
+rate      0.028539  2.356679e-02       0.034560    0.002787
+beta    184.978185  1.184129e+01    2889.629469  259.412668
+s         8.687554  3.927860e-01     192.149369   13.724733
+lambda    0.000003  3.623278e-17  312019.557360    0.000043
+                est       L95%        U95%       var
+lifespan  99.314051  96.318322  102.315516  0.000271
+
+
+MG pgi cluster1:
+-------MG wt------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.138724e-12
+1      beta  1.000000e+00
+2         s  2.070614e-04
+
+
+MG pgi cluster0:
+-------MG wt------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.252091e-03
+1      beta  5.026205e-09
+2         s  3.516252e-01
+
+
+MG pgi cluster1:
+-------Self------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  8.066983e-09
+1      beta  5.589762e-01
+2         s  1.568139e-09

@@ -1,0 +1,48 @@
+MG ascG cluster0 #560
+                est        L95%         U95%           se
+rate       0.073464    0.052439     0.102917     0.012637
+beta    1516.768835  286.947759  8017.444372  1288.532274
+s          0.851850    0.384895     1.885314     0.345283
+lambda     0.003681    0.002835     0.004778     0.000490
+                est       L95%       U95%       var
+lifespan  91.015307  88.002113  95.015015  0.000454
+
+
+MG ascG cluster1 #199
+                est        L95%          U95%           se
+rate       0.089584    0.053499      0.150006     0.023562
+beta    2147.810549  144.473781  31930.293048  2957.793530
+s          0.953420    0.306930      2.961614     0.551356
+lambda     0.004608    0.003121      0.006803     0.000916
+              est       L95%     U95%       var
+lifespan  74.0271  71.026688  80.0153  0.001265
+
+
+MG ascG cluster0:
+-------MG wt------
+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.342556e-01
+1      beta  5.513459e-74
+2         s  5.033394e-01
+
+
+MG ascG cluster1:
+-------MG wt------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.069887
+1      beta  0.001409
+2         s  1.000000
+
+
+MG ascG cluster1:
+-------Self------
+dataset+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.650086e-09
+1      beta  6.007644e-01
+2         s  6.159535e-01

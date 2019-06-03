@@ -1,0 +1,20 @@
+MG uxaB cluster0 #885
+                est        L95%          U95%           se
+rate       0.048012    0.034619      0.066586     0.008011
+beta    1121.460554  113.819526  11049.718990  1309.027769
+s          8.701005    0.257103    294.463747    15.634206
+lambda     0.003141    0.002117      0.004661     0.000632
+                est       L95%       U95%       var
+lifespan  82.855462  79.854298  85.774145  0.000286
+
+
+MG uxaB cluster0:
+-------MG wt------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.589093e-02
+1      beta  2.181018e-10
+2         s  1.594267e-03
+
+

@@ -1,0 +1,27 @@
+TA_eptA-1_ cluster0 #1051
+                 est          L95%          U95%         se
+rate    5.866442e-02  5.107003e-02  6.738814e-02   0.004150
+beta    2.995817e+02  2.051955e+02  4.373837e+02  57.842316
+s       8.563669e-01  5.723611e-01  1.281297e+00   0.176052
+lambda  3.483886e-07  2.609173e-21  4.651842e+07   0.000006
+
+
+TA_eptA-1_ cluster1 #1020
+                est         L95%          U95%           se
+rate       0.064765     0.054839      0.076488     0.005497
+beta    7404.447538  3689.392949  14860.396846  2631.720882
+s          2.512481     0.941868      6.702172     1.257752
+lambda     0.000400     0.000211      0.000760     0.000131
+
+
+TA_eptA-1_ cluster1:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.000000e+00
+1      beta  1.431482e-17
+2         s  1.389433e-17
+
+
+[(0, 1051, 7, ['MAX_01112018 Position 120-1.tif.mortality.tab', 'MAX_01112018 Position 131-1.tif.mortality.tab', 'MAX_01112018 Position 136-1.tif.mortality.tab', 'MAX_01112018 Position 140-1.tif.mortality.tab', 'MAX_01112018 Position 141-1.tif.mortality.tab', 'MAX_01112018 Position 148-1.tif.mortality.tab', 'MAX_01112018 Position 202-1.tif.mortality.tab']), (2, 1020, 4, ['MAX_01112018 Position 100-1.tif.mortality.tab', 'MAX_01112018 Position 97-1.tif.mortality.tab', 'MAX_01112018 Position 98-1.tif.mortality.tab', 'MAX_01112018 Position 99-1.tif.mortality.tab'])]

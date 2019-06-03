@@ -1,0 +1,27 @@
+TA_ybbP-1_ cluster0 #659
+                 est          L95%          U95%            se
+rate    1.878254e-01  1.533803e-01  2.300059e-01  1.941463e-02
+beta    9.752408e+07  3.421729e+06  2.779573e+09  1.666873e+08
+s       2.573504e-01  1.821139e-01  3.636692e-01  4.540559e-02
+lambda  4.932902e-04  3.280347e-04  7.417971e-04  1.026813e-04
+
+
+TA_ybbP-1_ cluster1 #284
+                  est  L95%  U95%  se
+rate         0.061878   NaN   NaN NaN
+beta    803833.461089   NaN   NaN NaN
+s          805.315495   NaN   NaN NaN
+lambda       0.000474   NaN   NaN NaN
+
+
+TA_ybbP-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000005
+1      beta  0.718373
+2         s  1.000000
+
+
+[(2, 659, 7, ['MAX_07072016 Position 118-1.tif.mortality.tab', 'MAX_07072016 Position 124-1.tif.mortality.tab', 'MAX_07072016 Position 134-1.tif.mortality.tab', 'MAX_07072016 Position 135-1.tif.mortality.tab', 'MAX_07072016 Position 140-1.tif.mortality.tab', 'MAX_07072016 Position 147-1.tif.mortality.tab', 'MAX_07072016 Position 148-1.tif.mortality.tab']), (1, 284, 2, ['MAX_07072016 Position 112-1.tif.mortality.tab', 'MAX_07072016 Position 123-1.tif.mortality.tab'])]

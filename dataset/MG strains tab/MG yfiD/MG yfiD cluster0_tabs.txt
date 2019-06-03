@@ -1,0 +1,6 @@
+MAX_MAX_10012015 Position 110.tif.mortality.tab
+MAX_MAX_10012015 Position 111.tif.mortality.tab
+MAX_MAX_10012015 Position 125.tif.mortality.tab
+MAX_MAX_10012015 Position 127.tif.mortality.tab
+MAX_MAX_10012015 Position 128.tif.mortality.tab
+MAX_MAX_10012015 Position 86.tif.mortality.tab

@@ -1,0 +1,27 @@
+TA_ptsH-1_ cluster0 #756
+               est          L95%        U95%         se
+rate      0.055489  4.914688e-02    0.062650   0.003436
+beta    172.275217  1.201389e+02  247.036892  31.682029
+s         2.141764  1.335927e+00    3.433685   0.515786
+lambda    0.000017  5.116520e-09    0.055287   0.000069
+
+
+TA_ptsH-1_ cluster1 #598
+                 est       L95%          U95%            se
+rate        0.221912   0.120964  4.071036e-01      0.068702
+beta    15473.371112  75.999543  3.150351e+06  41969.515487
+s           0.092054   0.046545  1.820591e-01      0.032030
+lambda      0.000424   0.000153  1.171948e-03      0.000220
+
+
+TA_ptsH-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  6.175375e-12
+1      beta  9.935916e-32
+2         s  2.095656e-23
+
+
+[(0, 756, 2, ['MAX_18102018 Position 20-1.tif.mortality.tab', 'MAX_18102018 Position 22-1.tif.mortality.tab']), (1, 598, 2, ['MAX_18102018 Position 209-1.tif.mortality.tab', 'MAX_18102018 Position 210-1.tif.mortality.tab'])]

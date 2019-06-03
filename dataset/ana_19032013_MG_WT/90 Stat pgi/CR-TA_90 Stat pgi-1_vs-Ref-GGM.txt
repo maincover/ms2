@@ -1,0 +1,9 @@
+TA_90 Stat pgi-1_ cluster0 #1267
+                 est          L95%        U95%         se
+rate    6.516852e-02  5.739007e-02    0.074001   0.004226
+beta    2.610146e+02  1.851731e+02  367.918413  45.716343
+s       8.739431e-01  6.427110e-01    1.188367   0.137033
+lambda  4.829779e-07  1.072459e-15  217.507387   0.000005
+
+
+[(0, 1267, 6, ['MAX_30102017 Position 29_MAX.tif.mortality.tab', 'MAX_30102017 Position 33_mask.tif.mortality.tab', 'MAX_30102017 Position 34_MAX.tif.mortality.tab', 'MAX_30102017 Position 42_MAX.tif.mortality.tab', 'MAX_30102017 Position 44_MAX.tif.mortality.tab', 'MAX_30102017 Position 45_MAX.tif.mortality.tab'])]

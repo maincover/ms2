@@ -1,0 +1,9 @@
+TA_rarD-1_ cluster0 #883
+              est  L95%  U95%  se
+rate     0.005839   NaN   NaN NaN
+beta    90.342745   NaN   NaN NaN
+s        0.022886   NaN   NaN NaN
+lambda   0.045477   NaN   NaN NaN
+
+
+[(2, 883, 5, ['MAX_09032016 Position 36-1.tif.mortality.tab', 'MAX_09032016 Position 37-1.tif.mortality.tab', 'MAX_09032016 Position 38-1.tif.mortality.tab', 'MAX_09032016 Position 44-1.tif.mortality.tab', 'MAX_09032016 Position 50-1.tif.mortality.tab'])]

@@ -1,0 +1,4 @@
+MAX_10092018 Position 174-1.tif.mortality.tab
+MAX_10092018 Position 160-1.tif.mortality.tab
+MAX_10092018 Position 42-1.tif.mortality.tab
+MAX_10092018 Position 139-1.tif.mortality.tab

@@ -1,0 +1,27 @@
+TA_xdhB-1_ cluster0 #857
+                 est  L95%  U95%  se
+rate    7.907170e-02   NaN   NaN NaN
+beta    2.322592e+03   NaN   NaN NaN
+s       1.470216e+00   NaN   NaN NaN
+lambda  2.506164e-08   NaN   NaN NaN
+
+
+TA_xdhB-1_ cluster1 #347
+                 est         L95%           U95%            se
+rate        0.125230     0.097103       0.161506      0.016254
+beta    63498.380960  7475.750067  539349.810834  69310.078798
+s           0.969358     0.536431       1.751677      0.292640
+lambda      0.000579     0.000253       0.001321      0.000244
+
+
+TA_xdhB-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000007
+1      beta  0.000117
+2         s  0.436847
+
+
+[(1, 857, 6, ['MAX_02062014 Position 37-1.tif.mortality.tab', 'MAX_02062014 Position 41-1.tif.mortality.tab', 'MAX_02062014 Position 42-1.tif.mortality.tab', 'MAX_02062014 Position 45-1.tif.mortality.tab', 'MAX_02062014 Position 46-1.tif.mortality.tab', 'MAX_02062014 Position 58-1.tif.mortality.tab']), (0, 347, 3, ['MAX_02062014 Position 32-1.tif.mortality.tab', 'MAX_02062014 Position 36-1.tif.mortality.tab', 'MAX_02062014 Position 51-1.tif.mortality.tab'])]

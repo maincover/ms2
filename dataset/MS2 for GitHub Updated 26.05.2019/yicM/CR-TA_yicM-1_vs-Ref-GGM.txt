@@ -1,0 +1,45 @@
+TA_yicM-1_ cluster0 #635
+                est        L95%           U95%            se
+rate       0.060635    0.042523       0.086460      0.010977
+beta    8875.256572  348.322682  226141.400888  14662.072041
+s          6.489029    0.039440    1067.645146     16.895286
+lambda     0.000312    0.000058       0.001686      0.000269
+
+
+TA_yicM-1_ cluster1 #384
+                 est  L95%  U95%  se
+rate    5.961444e-02   NaN   NaN NaN
+beta    2.011748e+06   NaN   NaN NaN
+s       7.070723e+02   NaN   NaN NaN
+lambda  1.544706e-04   NaN   NaN NaN
+
+
+TA_yicM-1_ cluster2 #166
+                est          L95%          U95%           se
+rate       0.080081  6.321975e-02  1.014388e-01     0.009660
+beta    6015.685162  2.013446e+03  1.797339e+04  3359.399409
+s          2.303213  7.357210e-01  7.210327e+00     1.341070
+lambda     0.000002  8.958587e-23  5.385975e+10     0.000042
+
+
+TA_yicM-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000016
+1      beta  0.977682
+2         s  0.000050
+
+
+TA_yicM-1_ cluster2:
+-------
+dataset+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.035013e-24
+1      beta  9.727903e-01
+2         s  5.945960e-01
+
+
+[(2, 635, 6, ['MAX_07072016 Position 106-1.tif.mortality.tab', 'MAX_07072016 Position 108-1.tif.mortality.tab', 'MAX_07072016 Position 116-1.tif.mortality.tab', 'MAX_07072016 Position 93-1.tif.mortality.tab', 'MAX_07072016 Position 94-1.tif.mortality.tab', 'MAX_07072016 Position 95-1.tif.mortality.tab']), (1, 384, 4, ['MAX_07072016 Position 102-1.tif.mortality.tab', 'MAX_07072016 Position 96-1.tif.mortality.tab', 'MAX_07072016 Position 97-1.tif.mortality.tab', 'MAX_07072016 Position 98-1.tif.mortality.tab']), (0, 166, 2, ['MAX_07072016 Position 100-1.tif.mortality.tab', 'MAX_07072016 Position 113-1.tif.mortality.tab'])]

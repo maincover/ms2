@@ -1,0 +1,9 @@
+TA_ybaJ-1_ cluster0 #394
+                 est  L95%  U95%  se
+rate    9.404986e-02   NaN   NaN NaN
+beta    1.264413e+08   NaN   NaN NaN
+s       3.052443e+03   NaN   NaN NaN
+lambda  1.142702e-03   NaN   NaN NaN
+
+
+[(0, 394, 2, ['MAX_07042016 Position 36-1.tif.mortality.tab', 'MAX_07042016 Position 37-1.tif.mortality.tab'])]

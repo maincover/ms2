@@ -1,0 +1,27 @@
+TA_yhbW-1_ cluster0 #627
+                est         L95%         U95%           se
+rate       0.082225     0.068178     0.099167     0.007859
+beta    3349.973189  1374.357447  8165.503371  1522.840390
+s          1.164216     0.619729     2.187081     0.374528
+lambda     0.000322     0.000123     0.000839     0.000157
+
+
+TA_yhbW-1_ cluster1 #422
+                  est         L95%          U95%             se
+rate         0.123231     0.089300  1.700540e-01       0.020249
+beta    123520.712014  7079.718228  2.155081e+06  180190.708956
+s            0.541758     0.245700  1.194557e+00       0.218562
+lambda       0.000222     0.000064  7.731084e-04       0.000141
+
+
+TA_yhbW-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.035910
+1      beta  0.003765
+2         s  0.163332
+
+
+[(0, 627, 7, ['MAX_02062014 Position 40-1.tif.mortality.tab', 'MAX_02062014 Position 50-1.tif.mortality.tab', 'MAX_02062014 Position 55-1.tif.mortality.tab', 'MAX_02062014 Position 56-1.tif.mortality.tab', 'MAX_02062014 Position 57-1.tif.mortality.tab', 'MAX_02062014 Position 60-1.tif.mortality.tab', 'MAX_02062014 Position 70-1.tif.mortality.tab']), (1, 422, 3, ['MAX_02062014 Position 29-1.tif.mortality.tab', 'MAX_02062014 Position 38-1.tif.mortality.tab', 'MAX_02062014 Position 65-1.tif.mortality.tab'])]

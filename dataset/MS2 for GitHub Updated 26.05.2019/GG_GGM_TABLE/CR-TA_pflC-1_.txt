@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_pflC-1_
+-------------------------------
+GG(AIC=14985.371632)
+              est         L95%          U95%           se
+beta  7930.771932  4652.613743  13518.668626  2158.023807
+s        0.856406     0.688677      1.064986     0.095243
+rate     0.107986     0.098693      0.118153     0.004958
+
+
+GGMFit_params
+CR-TA_pflC-1_
+-------------------------------
+GGM(AIC=14987.510352)
+                est          L95%          U95%           se
+rate       0.108099  9.878435e-02      0.118292     0.004970
+beta    7979.316891  4.673515e+03  13623.471386  2177.829022
+s          0.854374  6.870587e-01      1.062433     0.095007
+lambda     0.000001  7.094544e-10      0.002091     0.000005 
+
+                est       L95%       U95%       var
+lifespan  85.320527  84.307048  85.725242  0.000138
+survivorship
+0.0243533510094
+
+
+1) Number of tab files in the cluster
+9
+
+
+2) Number of dates in the cluster
+1 ['2014-01-16 00:00:00']
+
+
+3) Final survivorship:
+0.0243533510094
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.06237939361696862, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.13872037447 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000012  0.000006  0.000022  0.000004
+h_max   0.092497  0.080228  0.106642  0.006716
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.208963    0.200410    0.217515   0.004364
+mean       85.560150   84.691776   86.428524   0.443056
+variance  319.793737  293.169209  346.418266  13.584193
+
+
+                rate     beta         s               mean           variance  \
+gg_params_  0.107404  7610.67  0.854781  85.71741146894207  321.7426068518978   
+
+                            cv  
+gg_params_  0.2092595276040634  
+
+
+8) lifespan stats
+mean 	std 	cv
+85.2292367909 	16.2807925674 	0.191023563984
+
+

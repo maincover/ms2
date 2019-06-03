@@ -1,0 +1,27 @@
+TA_70 thiQ-1_ cluster0 #1158
+                  est          L95%          U95%             se
+rate         0.216694      0.177667  2.642937e-01       0.021954
+beta    378322.717768  35838.719411  3.993672e+06  454906.437168
+s            0.199608      0.156441  2.546855e-01       0.024817
+lambda       0.000480      0.000290  7.952914e-04       0.000124
+
+
+TA_70 thiQ-1_ cluster1 #946
+                  est          L95%          U95%             se
+rate         0.225947  1.934655e-01  2.638828e-01       0.017892
+beta    264974.195588  4.383623e+04  1.601673e+06  243236.142831
+s            0.205102  1.690409e-01  2.488549e-01       0.020235
+lambda       0.000004  8.113665e-19  1.583958e+07       0.000053
+
+
+TA_70 thiQ-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.007132e-11
+1      beta  8.222499e-01
+2         s  9.099360e-01
+
+
+[(0, 1158, 4, ['MAX_30102017 Position 30_MAX.tif.mortality.tab', 'MAX_30102017 Position 40_MAX.tif.mortality.tab', 'MAX_30102017 Position 52_MAX.tif.mortality.tab', 'MAX_30102017 Position 53_MAX.tif.mortality.tab']), (2, 946, 3, ['MAX_30102017 Position 47_MAX.tif.mortality.tab', 'MAX_30102017 Position 48_MAX.tif.mortality.tab', 'MAX_30102017 Position 49_MAX.tif.mortality.tab'])]

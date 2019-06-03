@@ -1,0 +1,7 @@
+MAX_30102017 Position 30_MAX.tif.mortality.tab
+MAX_30102017 Position 40_MAX.tif.mortality.tab
+MAX_30102017 Position 47_MAX.tif.mortality.tab
+MAX_30102017 Position 49_MAX.tif.mortality.tab
+MAX_30102017 Position 52_MAX.tif.mortality.tab
+MAX_30102017 Position 53_MAX.tif.mortality.tab
+MAX_30102017 Position 54_MAX.tif.mortality.tab

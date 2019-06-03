@@ -1,0 +1,68 @@
+MG WT cluster0 #1765
+               est       L95%        U95%         se
+rate      0.074424   0.062885    0.088080   0.006397
+beta    171.728222  94.342373  312.591059  52.481695
+s         0.940672   0.693498    1.275942   0.146309
+lambda    0.000809   0.000303    0.002160   0.000405
+                est       L95%       U95%       var
+lifespan  68.314636  67.186474  69.323083  0.000143
+
+
+MG WT cluster1 #1020
+               est        L95%         U95%          se
+rate      0.115842    0.095984     0.139807    0.011114
+beta    522.145227  185.438036  1470.225014  275.789650
+s         0.567924    0.430980     0.748382    0.079953
+lambda    0.002148    0.001346     0.003428    0.000512
+                est       L95%       U95%       var
+lifespan  60.009893  58.044402  61.044258  0.000246
+
+
+MG WT cluster1:
+-------WT------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  8.402615e-50
+1      beta  3.364566e-01
+2         s  1.189897e-37
+
+
+MG WT cluster0:
+-------WT------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.606044e-01
+1      beta  1.153551e-25
+2         s  9.075319e-43
+
+
+MG WT cluster1:
+-------Ref------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.440273e-08
+1      beta  5.525259e-03
+2         s  1.143828e-04
+
+
+MG WT cluster0:
+-------Ref------
+dataset+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000088
+1      beta  1.000000
+2         s  0.324749
+
+
+MG WT cluster1:
+-------Self------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000637
+1      beta  0.053491
+2         s  0.014055

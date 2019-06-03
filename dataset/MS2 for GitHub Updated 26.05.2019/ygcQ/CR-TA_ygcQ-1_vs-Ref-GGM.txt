@@ -1,0 +1,25 @@
+TA_ygcQ-1_ cluster0 #371
+                 est      L95%          U95%            se
+rate    2.356757e-01  0.061104  9.089912e-01  1.623161e-01
+beta    5.599184e+13  0.000010  3.174251e+32  1.233602e+15
+s       1.279254e-01  0.027430  5.965957e-01  1.005011e-01
+lambda  1.273364e-02  0.011258  1.440298e-02  8.003374e-04
+
+
+TA_ygcQ-1_ cluster1 #209
+                 est         L95%          U95%            se
+rate    1.349984e-01     0.069136  2.636042e-01  4.609217e-02
+beta    3.704239e+08  3883.670571  3.533097e+13  2.166948e+09
+s       5.917306e-01     0.102799  3.406130e+00  5.284253e-01
+lambda  7.928470e-03     0.006607  9.514422e-03  7.376390e-04
+
+
+TA_ygcQ-1_ cluster2 #189
+                 est         L95%          U95%            se
+rate    3.560367e-01     0.154317  8.214424e-01  1.518684e-01
+beta    2.972763e+20  5815.315229  1.519663e+37  5.835360e+21
+s       9.257918e-02     0.032689  2.621919e-01  4.917236e-02
+lambda  2.482686e-03     0.001844  3.342430e-03  3.766622e-04
+
+
+[(4, 371, 4, ['MAX_25092018 Position 11-1.tif.mortality.tab', 'MAX_25092018 Position 12-1.tif.mortality.tab', 'MAX_25092018 Position 29-1.tif.mortality.tab', 'MAX_25092018 Position 6-1.tif.mortality.tab']), (3, 209, 4, ['MAX_25092018 Position 14-1.tif.mortality.tab', 'MAX_25092018 Position 172-1.tif.mortality.tab', 'MAX_25092018 Position 232-1.tif.mortality.tab', 'MAX_25092018 Position 242-1.tif.mortality.tab']), (0, 189, 6, ['MAX_25092018 Position 217-1.tif.mortality.tab', 'MAX_25092018 Position 219-1.tif.mortality.tab', 'MAX_25092018 Position 221-1.tif.mortality.tab', 'MAX_25092018 Position 222-1.tif.mortality.tab', 'MAX_25092018 Position 228-1.tif.mortality.tab', 'MAX_25092018 Position 238-1.tif.mortality.tab'])]

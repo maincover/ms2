@@ -1,0 +1,45 @@
+TA_fruR-1_ cluster0 #899
+               est          L95%          U95%         se
+rate      0.041281  3.572836e-02  4.769738e-02   0.003043
+beta    181.466343  6.421189e+01  5.128339e+02  96.186497
+s         5.869566  1.558030e+00  2.211241e+01   3.972087
+lambda    0.000001  4.543816e-24  2.486746e+11   0.000022
+
+
+TA_fruR-1_ cluster1 #755
+                est        L95%         U95%          se
+rate       0.062799    0.049667     0.079404    0.007517
+beta    1084.876518  520.954027  2259.234016  406.038911
+s          2.784508    1.058692     7.323650    1.373864
+lambda     0.001796    0.001113     0.002899    0.000439
+
+
+TA_fruR-1_ cluster2 #731
+                est         L95%         U95%           se
+rate       0.069323     0.057999     0.082858     0.006308
+beta    3529.930492  1742.521713  7150.791401  1271.419420
+s          3.954927     1.466557    10.665424     2.001805
+lambda     0.001037     0.000591     0.001821     0.000298
+
+
+TA_fruR-1_ cluster2:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.576919e-12
+1      beta  5.221481e-15
+2         s  6.275804e-01
+
+
+TA_fruR-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000029
+1      beta  0.000001
+2         s  0.380664
+
+
+[(0, 899, 3, ['MAX_10092018 Position 134-1.tif.mortality.tab', 'MAX_10092018 Position 136-1.tif.mortality.tab', 'MAX_10092018 Position 181-1.tif.mortality.tab']), (1, 755, 3, ['MAX_10092018 Position 131-1.tif.mortality.tab', 'MAX_10092018 Position 137-1.tif.mortality.tab', 'MAX_10092018 Position 171-1.tif.mortality.tab']), (2, 731, 3, ['MAX_10092018 Position 132-1.tif.mortality.tab', 'MAX_10092018 Position 133-1.tif.mortality.tab', 'MAX_10092018 Position 167-1.tif.mortality.tab'])]

@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_yecP-1_
+-------------------------------
+GG(AIC=5525.129017)
+              est         L95%          U95%           se
+beta  8196.509692  4564.644903  14718.071737  2447.989862
+s        5.031425     2.133545     11.865344     2.202364
+rate     0.081422     0.073215      0.090548     0.004413
+
+
+GGMFit_params
+CR-TA_yecP-1_
+-------------------------------
+GGM(AIC=5525.593188)
+                est         L95%          U95%           se
+rate       0.086510     0.074838      0.100003     0.006397
+beta    9577.420660  5179.726663  17708.846907  3003.534439
+s          3.764314     1.671251      8.478714     1.559517
+lambda     0.000156     0.000025      0.000966     0.000145 
+
+                est       L95%       U95%       var
+lifespan  88.110701  85.155641  88.155356  0.000374
+survivorship
+0.0114174609124
+
+
+1) Number of tab files in the cluster
+3
+
+
+2) Number of dates in the cluster
+1 ['2016-06-01 00:00:00']
+
+
+3) Final survivorship:
+0.0114174609124
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.18335387547774978, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+0.464171523615 0.215239797679
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000050  0.000027  0.000092  0.000016
+h_max   0.409967  0.189214  0.888268  0.161730
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.196614    0.182534    0.210694   0.007184
+mean       85.096343   83.728720   86.463967   0.697780
+variance  280.132346  244.281455  315.983238  18.291607
+
+
+                 rate     beta        s              mean           variance  \
+gg_params_  0.0786123  8043.75  6.32085  84.7025144046842  286.5543237825343   
+
+                            cv  
+gg_params_  0.1998513932781724  
+
+
+8) lifespan stats
+mean 	std 	cv
+84.9540896535 	16.7277228425 	0.196903090961
+
+

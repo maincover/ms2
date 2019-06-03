@@ -1,0 +1,9 @@
+TA_yjfF-1_ cluster0 #635
+                 est          L95%          U95%             se
+rate        0.025525  1.638166e-02  3.977052e-02       0.005775
+beta    24573.571274  2.477936e-03  2.436949e+11  201980.364958
+s        1707.882729  1.786842e-04  1.632413e+10   14005.680202
+lambda      0.000295  1.130884e-10  7.709418e+02       0.002226
+
+
+[(0, 635, 3, ['MAX_18102018 Position 140-1.tif.mortality.tab', 'MAX_18102018 Position 141-1.tif.mortality.tab', 'MAX_18102018 Position 59-1.tif.mortality.tab'])]

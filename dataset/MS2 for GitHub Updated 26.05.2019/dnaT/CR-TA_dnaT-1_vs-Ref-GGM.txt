@@ -1,0 +1,27 @@
+TA_dnaT-1_ cluster0 #556
+                 est          L95%          U95%            se
+rate    6.544560e-01  3.576873e-01  1.197450e+00  2.017315e-01
+beta    2.081362e+20  1.403475e+08  3.086672e+32  2.976093e+21
+s       2.655765e-02  1.376582e-02  5.123622e-02  8.904142e-03
+lambda  6.733154e-03  5.847953e-03  7.752347e-03  4.842187e-04
+
+
+TA_dnaT-1_ cluster1 #248
+                est      L95%          U95%            se
+rate       0.132003  0.048305  3.607257e-01      0.067706
+beta    9057.589587  1.765748  4.646185e+07  39478.802172
+s          0.081866  0.023716  2.825919e-01      0.051749
+lambda     0.001667  0.000974  2.851474e-03      0.000457
+
+
+TA_dnaT-1_ cluster1:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  1.000000
+1      beta  0.000486
+2         s  0.000759
+
+
+[(1, 556, 4, ['MAX_02082015 Position 81-1.tif.mortality.tab', 'MAX_02082015 Position 86-1.tif.mortality.tab', 'MAX_02082015 Position 87-1.tif.mortality.tab', 'MAX_02082015 Position 91-1.tif.mortality.tab']), (0, 248, 4, ['MAX_02082015 Position 118-1.tif.mortality.tab', 'MAX_02082015 Position 119-1.tif.mortality.tab', 'MAX_02082015 Position 88-1.tif.mortality.tab', 'MAX_02082015 Position 92-1.tif.mortality.tab'])]

@@ -1,0 +1,1 @@
+Discard orphan positions ['MAX_10092018 Position 23-1.tif.mortality.tab']

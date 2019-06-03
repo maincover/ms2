@@ -1,0 +1,27 @@
+TA_appB-1_ cluster0 #779
+                 est         L95%           U95%            se
+rate        0.133144     0.104871       0.169038      0.016215
+beta    34755.873000  4370.704968  276378.917567  36767.854124
+s           0.708253     0.470274       1.066658      0.147972
+lambda      0.001802     0.001292       0.002514      0.000306
+
+
+TA_appB-1_ cluster1 #371
+                 est  L95%  U95%  se
+rate    5.875594e-02   NaN   NaN NaN
+beta    9.975997e+06   NaN   NaN NaN
+s       3.854297e+04   NaN   NaN NaN
+lambda  1.292207e-04   NaN   NaN NaN
+
+
+TA_appB-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.008265
+1      beta  0.030266
+2         s  0.047258
+
+
+[(0, 779, 7, ['MAX_02062014 Position 33-1.tif.mortality.tab', 'MAX_02062014 Position 34-1.tif.mortality.tab', 'MAX_02062014 Position 35-1.tif.mortality.tab', 'MAX_02062014 Position 43-1.tif.mortality.tab', 'MAX_02062014 Position 44-1.tif.mortality.tab', 'MAX_02062014 Position 47-1.tif.mortality.tab', 'MAX_02062014 Position 48-1.tif.mortality.tab']), (1, 371, 2, ['MAX_02062014 Position 31-1.tif.mortality.tab', 'MAX_02062014 Position 49-1.tif.mortality.tab'])]

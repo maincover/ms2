@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_dcp-1_
+-------------------------------
+GG(AIC=20472.719203)
+              est         L95%         U95%          se
+beta  1859.693178  1265.262614  2733.392008  365.428659
+s        2.944262     1.587249     5.461446    0.928144
+rate     0.060372     0.055927     0.065170    0.002356
+
+
+GGMFit_params
+CR-TA_dcp-1_
+-------------------------------
+GGM(AIC=20474.720883)
+                 est          L95%          U95%            se
+rate    6.033566e-02  5.587976e-02  6.514687e-02  2.361783e-03
+beta    1.866903e+03  1.265433e+03  2.754258e+03  3.704032e+02
+s       2.963519e+00  1.588046e+00  5.530346e+00  9.433131e-01
+lambda  1.515692e-08  6.189576e-35  3.711599e+18  4.698949e-07 
+
+                 est        L95%        U95%       var
+lifespan  101.837632  100.844198  103.763317  0.000095
+survivorship
+0.13155909263
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2014-09-28 00:00:00']
+
+
+3) Final survivorship:
+0.13155909263
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.29515626092168057, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.00168002551 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000096  0.000069  0.000132  0.000016
+h_max   0.177701  0.102365  0.308482  0.050007
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.233015    0.223425    0.242605   0.004893
+mean      100.477625   99.401487  101.553763   0.549060
+variance  548.392649  502.350742  594.434556  23.491201
+
+
+                 rate     beta        s               mean          variance  \
+gg_params_  0.0582906  1649.01  3.06698  101.1144261776249  571.948442733478   
+
+                            cv  
+gg_params_  0.2365186107182887  
+
+
+8) lifespan stats
+mean 	std 	cv
+97.6225048563 	20.3378470842 	0.208331543163
+
+

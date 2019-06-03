@@ -1,0 +1,45 @@
+TA_agaV-1_ cluster0 #1109
+                 est          L95%          U95%         se
+rate    6.513703e-02  5.328978e-02  7.961813e-02   0.006672
+beta    1.487426e+02  9.202725e+01  2.404109e+02  36.437474
+s       5.243590e-01  3.521358e-01  7.808134e-01   0.106522
+lambda  2.020908e-07  8.573785e-27  4.763438e+12   0.000005
+
+
+TA_agaV-1_ cluster1 #808
+              est          L95%       U95%         se
+rate     0.039917  3.271809e-02   0.048699   0.004050
+beta    61.506825  4.169282e+01  90.737203  12.201776
+s        1.529196  7.597580e-01   3.077876   0.545759
+lambda   0.000028  4.997084e-08   0.016098   0.000092
+
+
+TA_agaV-1_ cluster2 #760
+                 est          L95%          U95%          se
+rate    1.108361e-01  9.055958e-02  1.356526e-01    0.011426
+beta    1.387144e+03  4.663122e+02  4.126355e+03  771.540480
+s       2.977073e-01  2.194461e-01  4.038788e-01    0.046328
+lambda  4.140514e-07  3.855915e-22  4.446119e+08    0.000007
+
+
+TA_agaV-1_ cluster2:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000310
+1      beta  0.000055
+2         s  0.024491
+
+
+TA_agaV-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000439
+1      beta  0.019482
+2         s  0.003113
+
+
+[(0, 1109, 6, ['MAX_01112018 Position 10-1.tif.mortality.tab', 'MAX_01112018 Position 19-1.tif.mortality.tab', 'MAX_01112018 Position 53-1.tif.mortality.tab', 'MAX_01112018 Position 7-1.tif.mortality.tab', 'MAX_01112018 Position 8-1.tif.mortality.tab', 'MAX_01112018 Position 9-1.tif.mortality.tab']), (2, 808, 2, ['MAX_01112018 Position 104-1.tif.mortality.tab', 'MAX_01112018 Position 18-1.tif.mortality.tab']), (1, 760, 2, ['MAX_01112018 Position 21-1.tif.mortality.tab', 'MAX_01112018 Position 24-1.tif.mortality.tab'])]

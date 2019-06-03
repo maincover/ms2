@@ -1,0 +1,30 @@
+TA_yicH-1_ cluster0 #839
+                 est         L95%           U95%            se
+rate        0.076377     0.057679       0.101136      0.010942
+beta    27647.798600  5028.542403  152012.393675  24042.966706
+s           1.634691     0.615365       4.342490      0.814853
+lambda      0.001483     0.001088       0.002022      0.000235
+                 est        L95%        U95%       var
+lifespan  121.138325  119.935435  122.355454  0.000301
+
+
+TA_yicH-1_ cluster1 #559
+                 est  L95%  U95%  se
+rate    7.576126e-02   NaN   NaN NaN
+beta    2.707933e+09   NaN   NaN NaN
+s       3.137521e+05   NaN   NaN NaN
+lambda  1.284522e-03   NaN   NaN NaN
+                 est        L95%        U95%       var
+lifespan  111.891171  110.386917  112.813412  0.000447
+
+
+TA_yicH-1_ cluster2 #529
+                 est  L95%  U95%  se
+rate    5.587534e-02   NaN   NaN NaN
+beta    1.139493e+09   NaN   NaN NaN
+s       2.269396e+06   NaN   NaN NaN
+lambda  5.939846e-05   NaN   NaN NaN
+                 est        L95%        U95%       var
+lifespan  106.851898  104.408524  109.427484  0.000473
+
+

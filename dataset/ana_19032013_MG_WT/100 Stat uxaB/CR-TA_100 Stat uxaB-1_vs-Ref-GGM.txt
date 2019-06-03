@@ -1,0 +1,81 @@
+TA_100 Stat uxaB-1_ cluster0 #636
+                 est          L95%          U95%            se
+rate    5.350935e-01  4.379951e-01  6.537175e-01  5.466621e-02
+beta    2.341949e+23  5.933463e+18  9.243716e+27  1.264592e+24
+s       4.179543e-01  3.212964e-01  5.436905e-01  5.608540e-02
+lambda  1.109216e-03  8.398096e-04  1.465046e-03  1.574624e-04
+
+
+TA_100 Stat uxaB-1_ cluster1 #457
+                 est          L95%          U95%            se
+rate    4.428412e-01  2.998877e-01  6.539393e-01  8.807352e-02
+beta    4.131755e+18  4.365574e+11  3.910459e+25  3.386214e+19
+s       1.709439e-01  1.038446e-01  2.813995e-01  4.347286e-02
+lambda  2.777545e-03  2.291154e-03  3.367193e-03  2.728166e-04
+
+
+TA_100 Stat uxaB-1_ cluster2 #453
+                  est          L95%          U95%            se
+rate         0.045417  3.804887e-02  5.421165e-02  4.101779e-03
+beta    391620.561541  6.018199e-06  2.548382e+16  4.975025e+06
+s         3537.765100  5.338699e-08  2.344351e+14  4.497548e+04
+lambda       0.000161  6.232976e-08  4.149914e-01  6.446176e-04
+
+
+TA_100 Stat uxaB-1_ cluster3 #446
+                 est      L95%          U95%            se
+rate    4.801232e-01  0.129949  1.773910e+00  3.201449e-01
+beta    8.856962e+19  0.000008  9.585815e+44  2.604885e+21
+s       1.554614e-01  0.031138  7.761704e-01  1.275421e-01
+lambda  1.762707e-04  0.000079  3.927599e-04  7.205445e-05
+
+
+TA_100 Stat uxaB-1_ cluster4 #285
+                 est  L95%  U95%  se
+rate    1.553799e-01   NaN   NaN NaN
+beta    4.959660e+09   NaN   NaN NaN
+s       2.447162e+02   NaN   NaN NaN
+lambda  4.175858e-04   NaN   NaN NaN
+
+
+TA_100 Stat uxaB-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter        p-value
+0      rate  1.661652e-111
+1      beta   1.045685e-13
+2         s   9.889203e-03
+
+
+TA_100 Stat uxaB-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  8.287373e-24
+1      beta  1.000000e+00
+2         s  6.015667e-44
+
+
+TA_100 Stat uxaB-1_ cluster3:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.003631e-38
+1      beta  8.441918e-38
+2         s  1.000000e+00
+
+
+TA_100 Stat uxaB-1_ cluster4:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.601586e-02
+1      beta  1.739108e-68
+2         s  1.000000e+00
+
+
+[(5, 636, 4, ['MAX_30102017 Position 1_mask.tif.mortality.tab', 'MAX_30102017 Position 2_mask.tif.mortality.tab', 'MAX_30102017 Position 3_mask.tif.mortality.tab', 'MAX_30102017 Position 4_mask.tif.mortality.tab']), (1, 457, 2, ['MAX_30102017 Position 146_MAX.tif.mortality.tab', 'MAX_30102017 Position 150_MAX.tif.mortality.tab']), (6, 453, 2, ['MAX_30102017 Position 135_MAX.tif.mortality.tab', 'MAX_30102017 Position 149_MAX.tif.mortality.tab']), (4, 446, 2, ['MAX_30102017 Position 147_mask.tif.mortality.tab', 'MAX_30102017 Position 151_mask.tif.mortality.tab']), (0, 285, 3, ['MAX_30102017 Position 6_mask.tif.mortality.tab', 'MAX_30102017 Position 7_mask.tif.mortality.tab', 'MAX_30102017 Position 8_mask.tif.mortality.tab'])]

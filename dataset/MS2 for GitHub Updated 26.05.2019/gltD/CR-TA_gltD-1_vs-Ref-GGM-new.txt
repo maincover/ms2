@@ -1,0 +1,10 @@
+TA_gltD-1_ cluster0 #1238
+                 est  L95%  U95%  se
+rate    4.768822e-02   NaN   NaN NaN
+beta    4.761206e+02   NaN   NaN NaN
+s       1.622547e+00   NaN   NaN NaN
+lambda  5.924340e-11   NaN   NaN NaN
+                 est        L95%        U95%      var
+lifespan  116.072549  114.745297  118.399039  0.00021
+
+

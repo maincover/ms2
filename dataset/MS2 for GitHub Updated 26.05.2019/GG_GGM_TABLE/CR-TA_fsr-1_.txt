@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_fsr-1_
+-------------------------------
+GG(AIC=24823.663931)
+               est         L95%          U95%           se
+beta  14683.635750  8894.853893  24239.763963  3755.339657
+s         0.446053     0.384054      0.518059     0.034058
+rate      0.099611     0.092831      0.106886     0.003582
+
+
+GGMFit_params
+CR-TA_fsr-1_
+-------------------------------
+GGM(AIC=24824.686601)
+                 est          L95%          U95%           se
+rate        0.101167  9.367744e-02      0.109255     0.003970
+beta    16479.248715  9.407063e+03  28868.271676  4713.834381
+s           0.434216  3.709621e-01      0.508256     0.034880
+lambda      0.000010  8.730293e-07      0.000110     0.000012 
+
+                 est        L95%        U95%       var
+lifespan  109.326524  107.976118  110.695162  0.000073
+survivorship
+0.180077109968
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2015-07-12 00:00:00']
+
+
+3) Final survivorship:
+0.180077109968
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+('>= 0.8', 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+1.02266967787 0.322858796568
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%            se
+h_init  0.000003  0.000002  0.000005  8.498498e-07
+h_max   0.044434  0.040468  0.048788  2.119392e-03
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.245596    0.234517    0.256675   0.005653
+mean      113.151205  111.981583  114.320827   0.596757
+variance  772.923559  691.953912  853.893206  41.311804
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0991779  11984.8  0.42258  113.1241193793669  838.0536156226003   
+
+                            cv  
+gg_params_  0.2559061308653453  
+
+
+8) lifespan stats
+mean 	std 	cv
+105.142583724 	18.6692428277 	0.177561195155
+
+

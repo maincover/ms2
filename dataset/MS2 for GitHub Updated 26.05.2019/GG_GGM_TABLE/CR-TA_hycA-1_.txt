@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_hycA-1_
+-------------------------------
+GG(AIC=26345.814904)
+              est        L95%           U95%            se
+beta  9042.153677  141.462404  577966.587536  19180.876429
+s       27.391471    0.341084    2199.728699     61.294541
+rate     0.054197    0.050773       0.057852      0.001805
+
+
+GGMFit_params
+CR-TA_hycA-1_
+-------------------------------
+GGM(AIC=26347.840285)
+                 est          L95%          U95%            se
+rate    5.401028e-02  4.992791e-02  5.842645e-02  2.165803e-03
+beta    1.235124e+04  7.911380e+00  1.928273e+07  4.633821e+04
+s       3.793789e+01  1.815634e-02  7.927168e+04  1.479738e+02
+lambda  6.920834e-08  9.950880e-20  4.813438e+04  9.628575e-07 
+
+                est       L95%        U95%       var
+lifespan  99.387133  98.924504  100.924958  0.000073
+survivorship
+0.111097157556
+
+
+1) Number of tab files in the cluster
+5
+
+
+2) Number of dates in the cluster
+1 ['2014-09-28 00:00:00']
+
+
+3) Final survivorship:
+0.111097157556
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.0024476201614198985, 0.99408284023668636)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.0253809174 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%        U95%        se
+h_init  0.000164  0.000129    0.000209  0.000020
+h_max   1.483381  0.019574  112.414219  3.275507
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                  est          L95%          U95%            se
+cv           0.257823      0.111964      0.403683      0.074419
+mean       102.820419     11.798227    193.842610     46.440747
+variance  3229.436530 -88251.999731  94710.872790  46675.059839
+
+
+                 rate     beta        s              mean           variance  \
+gg_params_  0.0533529  29730.8  98.6922  96.6426591879804  538.0806086347486   
+
+                            cv  
+gg_params_  0.2400240719969378  
+
+
+8) lifespan stats
+mean 	std 	cv
+93.9391284812 	20.4725172958 	0.21793386448
+
+

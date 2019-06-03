@@ -1,0 +1,27 @@
+TA_gltD-1_ cluster0 #815
+               est          L95%          U95%         se
+rate      0.048399  4.208581e-02  5.566017e-02   0.003452
+beta    398.322156  2.543149e+02  6.238743e+02  91.186516
+s         1.472276  8.020878e-01  2.702444e+00   0.456224
+lambda    0.000003  9.486493e-21  8.398434e+08   0.000048
+
+
+TA_gltD-1_ cluster1 #423
+                 est         L95%           U95%            se
+rate        0.094789     0.067271       0.133562      0.016584
+beta    25875.573897  1556.643221  430121.247833  37107.940836
+s           0.390213     0.204527       0.744480      0.128612
+lambda      0.000810     0.000493       0.001332      0.000205
+
+
+TA_gltD-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.041079
+1      beta  0.005475
+2         s  1.000000
+
+
+[(0, 815, 5, ['MAX_01112018 Position 27-1.tif.mortality.tab', 'MAX_01112018 Position 39-1.tif.mortality.tab', 'MAX_01112018 Position 44-1.tif.mortality.tab', 'MAX_01112018 Position 5-1.tif.mortality.tab', 'MAX_01112018 Position 50-1.tif.mortality.tab']), (1, 423, 3, ['MAX_01112018 Position 16-1.tif.mortality.tab', 'MAX_01112018 Position 29-1.tif.mortality.tab', 'MAX_01112018 Position 47-1.tif.mortality.tab'])]

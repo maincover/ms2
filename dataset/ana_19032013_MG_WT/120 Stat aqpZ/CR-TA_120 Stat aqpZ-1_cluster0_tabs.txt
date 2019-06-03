@@ -1,0 +1,3 @@
+MAX_30102017 Position 137_mask.tif.mortality.tab
+MAX_30102017 Position 140_mask.tif.mortality.tab
+MAX_30102017 Position 144_mask.tif.mortality.tab

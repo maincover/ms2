@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_yhbP-1_
+-------------------------------
+GG(AIC=7787.178434)
+              est         L95%         U95%          se
+beta  3409.582295  2113.892306  5499.453018  831.638230
+s        1.331956     0.934888     1.897667    0.240556
+rate     0.084554     0.076625     0.093303    0.004248
+
+
+GGMFit_params
+CR-TA_yhbP-1_
+-------------------------------
+GGM(AIC=7788.920795)
+                est          L95%         U95%           se
+rate       0.085856  7.653121e-02     0.096318     0.005037
+beta    3680.926823  2.069561e+03  6546.906862  1081.438854
+s          1.283860  8.833993e-01     1.865857     0.244887
+lambda     0.000030  3.969868e-07     0.002299     0.000067 
+
+                est       L95%       U95%       var
+lifespan  92.090839  90.254548  93.190892  0.000245
+survivorship
+0.107446897677
+
+
+1) Number of tab files in the cluster
+10
+
+
+2) Number of dates in the cluster
+1 ['2014-06-02 00:00:00']
+
+
+3) Final survivorship:
+0.107446897677
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.35391828575371065, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+1.74236138516 0.611747119055
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000033  0.000018  0.000059  0.000010
+h_max   0.112628  0.085168  0.148943  0.016059
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.215275    0.202282    0.228267   0.006629
+mean       90.969856   89.638257   92.301456   0.679400
+variance  383.854129  337.465783  430.242476  23.667959
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0800467  2495.65  1.53609  89.69794502957322  391.8058936465711   
+
+                            cv  
+gg_params_  0.2206749255409975  
+
+
+8) lifespan stats
+mean 	std 	cv
+88.0794978611 	17.7885162209 	0.201959782389
+
+

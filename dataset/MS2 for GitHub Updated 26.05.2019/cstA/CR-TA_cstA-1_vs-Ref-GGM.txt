@@ -1,0 +1,27 @@
+TA_cstA-1_ cluster0 #1627
+               est          L95%        U95%         se
+rate      0.051023  4.651867e-02    0.055964   0.002406
+beta    196.453531  1.456521e+02  264.973854  29.990309
+s         2.921089  1.873442e+00    4.554591   0.661995
+lambda    0.000014  3.770000e-11    5.195093   0.000092
+
+
+TA_cstA-1_ cluster1 #1506
+                  est          L95%          U95%            se
+rate         0.040058  3.524327e-02  4.552993e-02  2.617039e-03
+beta    395705.732101  2.574229e-07  6.082714e+17  5.665353e+06
+s        11714.839698  7.586121e-09  1.809060e+16  1.677498e+05
+lambda       0.000103  3.304763e-10  3.190563e+01  6.625684e-04
+
+
+TA_cstA-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.001088
+1      beta  0.000005
+2         s  0.000001
+
+
+[(2, 1627, 4, ['MAX_10092018 Position 138-1.tif.mortality.tab', 'MAX_10092018 Position 25-1.tif.mortality.tab', 'MAX_10092018 Position 43-1.tif.mortality.tab', 'MAX_10092018 Position 44-1.tif.mortality.tab']), (0, 1506, 4, ['MAX_10092018 Position 19-1.tif.mortality.tab', 'MAX_10092018 Position 26-1.tif.mortality.tab', 'MAX_10092018 Position 45-1.tif.mortality.tab', 'MAX_10092018 Position 5-1.tif.mortality.tab'])]

@@ -1,0 +1,20 @@
+MG yagS cluster0 #2181
+                 est          L95%          U95%           se
+rate    9.032417e-02  8.506007e-02  9.591405e-02     0.002767
+beta    2.891681e+04  1.953569e+04  4.280278e+04  5786.123599
+s       1.886199e+00  1.507163e+00  2.360559e+00     0.215892
+lambda  6.960107e-08  5.184233e-25  9.344311e+09     0.000001
+                 est        L95%        U95%       var
+lifespan  104.683897  103.684929  105.686309  0.000115
+
+
+MG yagS cluster0:
+-------MG wt------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.866676e-02
+1      beta  3.354290e-20
+2         s  5.880686e-04
+
+
