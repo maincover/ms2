@@ -1,0 +1,25 @@
+TA_uxuR-1_ cluster0 #1605
+                est         L95%          U95%           se
+rate       0.074855     0.065566      0.085460     0.005060
+beta    9404.342236  4061.433183  21775.971415  4028.758027
+s          3.982668     1.023419     15.498692     2.761104
+lambda     0.000303     0.000157      0.000586     0.000102
+
+
+TA_uxuR-1_ cluster1 #1158
+                 est         L95%          U95%           se
+rate        0.077626     0.066055      0.091223     0.006393
+beta    13611.524599  4831.622399  38346.043337  7192.951502
+s           3.399678     0.611663     18.895725     2.975215
+lambda      0.000113     0.000027      0.000482     0.000084
+
+
+TA_uxuR-1_ cluster2 #197
+                 est          L95%          U95%            se
+rate    1.696762e-01  1.115749e-01  2.580329e-01  3.629020e-02
+beta    1.149761e+07  4.121545e+04  3.207416e+09  3.303326e+07
+s       2.720657e-01  1.035055e-01  7.151289e-01  1.341502e-01
+lambda  2.958159e-07  7.272737e-34  1.203221e+20  9.247471e-06
+
+
+[(2, 1605, 5, ['MAX_MAX_07092014 Position 16.tif.mortality.tab', 'MAX_MAX_07092014 Position 19.tif.mortality.tab', 'MAX_MAX_07092014 Position 22.tif.mortality.tab', 'MAX_MAX_07092014 Position 8.tif.mortality.tab', 'MAX_MAX_07092014 Position 9.tif.mortality.tab']), (1, 1158, 5, ['MAX_MAX_07092014 Position 11.tif.mortality.tab', 'MAX_MAX_07092014 Position 20.tif.mortality.tab', 'MAX_MAX_07092014 Position 21.tif.mortality.tab', 'MAX_MAX_07092014 Position 6.tif.mortality.tab', 'MAX_MAX_07092014 Position 7.tif.mortality.tab']), (0, 197, 4, ['MAX_MAX_07092014 Position 1.tif.mortality.tab', 'MAX_MAX_07092014 Position 10.tif.mortality.tab', 'MAX_MAX_07092014 Position 24.tif.mortality.tab', 'MAX_MAX_07092014 Position 4.tif.mortality.tab'])]

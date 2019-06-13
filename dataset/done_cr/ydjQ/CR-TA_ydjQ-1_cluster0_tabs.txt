@@ -1,9 +1,0 @@
-MAX_12072015 Position 55-1.tif.mortality.tab
-MAX_12072015 Position 85-1.tif.mortality.tab
-MAX_12072015 Position 88-1.tif.mortality.tab
-MAX_12072015 Position 90-1.tif.mortality.tab
-MAX_12072015 Position 92-1.tif.mortality.tab
-MAX_12072015 Position 93-1.tif.mortality.tab
-MAX_12072015 Position 94-1.tif.mortality.tab
-MAX_12072015 Position 95-1.tif.mortality.tab
-MAX_12072015 Position 96-1.tif.mortality.tab

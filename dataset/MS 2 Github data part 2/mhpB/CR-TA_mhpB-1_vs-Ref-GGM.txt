@@ -1,0 +1,99 @@
+TA_mhpB-1_ cluster0 #679
+                 est          L95%           U95%            se
+rate        0.119768      0.100363       0.142924      0.010801
+beta    94456.091431  18117.624651  492446.078358  79578.304091
+s           0.357849      0.252533       0.507086      0.063641
+lambda      0.000239      0.000123       0.000465      0.000081
+
+
+TA_mhpB-1_ cluster1 #646
+                 est  L95%  U95%  se
+rate    7.338034e-02   NaN   NaN NaN
+beta    1.683556e+07   NaN   NaN NaN
+s       2.533483e+03   NaN   NaN NaN
+lambda  1.700111e-04   NaN   NaN NaN
+
+
+TA_mhpB-1_ cluster2 #525
+                 est  L95%  U95%  se
+rate    1.973562e-01   NaN   NaN NaN
+beta    1.376425e+07   NaN   NaN NaN
+s       5.206010e-01   NaN   NaN NaN
+lambda  6.744527e-08   NaN   NaN NaN
+
+
+TA_mhpB-1_ cluster3 #401
+                 est  L95%  U95%  se
+rate    8.583876e-02   NaN   NaN NaN
+beta    4.337203e+07   NaN   NaN NaN
+s       4.969966e+03   NaN   NaN NaN
+lambda  5.604154e-04   NaN   NaN NaN
+
+
+TA_mhpB-1_ cluster4 #266
+               est          L95%          U95%          se
+rate      0.050182  3.911277e-02  6.438504e-02    0.006381
+beta    294.151583  1.337678e+02  6.468309e+02  118.261568
+s         1.498218  4.818683e-01  4.658237e+00    0.867118
+lambda    0.000002  2.589095e-19  9.566356e+06    0.000024
+
+
+TA_mhpB-1_ cluster5 #249
+                 est        L95%           U95%            se
+rate        0.102367    0.063303       0.165538      0.025103
+beta    14179.782462  385.755045  521227.741525  26076.591896
+s           0.981152    0.394453       2.440493      0.456158
+lambda      0.000535    0.000077       0.003710      0.000529
+
+
+TA_mhpB-1_ cluster5:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.563882
+1      beta  0.061254
+2         s  0.000008
+
+
+TA_mhpB-1_ cluster4:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000005
+1      beta  0.055507
+2         s  0.000984
+
+
+TA_mhpB-1_ cluster3:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.331252e-19
+1      beta  2.672497e-15
+2         s  3.789207e-01
+
+
+TA_mhpB-1_ cluster2:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.166639e-35
+1      beta  5.996659e-21
+2         s  1.000000e+00
+
+
+TA_mhpB-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.063550e-03
+1      beta  4.943059e-17
+2         s  4.864541e-02
+
+
+[(1, 679, 3, ['MAX_03022015 Position 32-1.tif.mortality.tab', 'MAX_03022015 Position 38-1.tif.mortality.tab', 'MAX_03022015 Position 39-1.tif.mortality.tab']), (0, 646, 5, ['MAX_03022015 Position 23-1.tif.mortality.tab', 'MAX_03022015 Position 25-1.tif.mortality.tab', 'MAX_03022015 Position 26-1.tif.mortality.tab', 'MAX_03022015 Position 55-1.tif.mortality.tab', 'MAX_03022015 Position 88-1.tif.mortality.tab']), (6, 525, 3, ['MAX_03022015 Position 75-1.tif.mortality.tab', 'MAX_03022015 Position 77-1.tif.mortality.tab', 'MAX_03022015 Position 82-1.tif.mortality.tab']), (4, 401, 2, ['MAX_03022015 Position 34-1.tif.mortality.tab', 'MAX_03022015 Position 73-1.tif.mortality.tab']), (2, 266, 2, ['MAX_03022015 Position 20-1.tif.mortality.tab', 'MAX_03022015 Position 41-1.tif.mortality.tab']), (5, 249, 2, ['MAX_03022015 Position 72-1.tif.mortality.tab', 'MAX_03022015 Position 74-1.tif.mortality.tab'])]

@@ -1,9 +1,0 @@
-TA_ykfF-1_ cluster0 #1170
-               est          L95%        U95%          se
-rate      0.095437  8.324285e-02    0.109417    0.006657
-beta    450.507151  2.506019e+02  809.877062  134.811803
-s         0.411182  3.315870e-01    0.509884    0.045136
-lambda    0.000005  2.771898e-09    0.007867    0.000018
-
-
-[(0, 1170, 4, ['MAX_18102018 Position 234-1.tif.mortality.tab', 'MAX_18102018 Position 250-1.tif.mortality.tab', 'MAX_18102018 Position 279-1.tif.mortality.tab', 'MAX_18102018 Position 280-1.tif.mortality.tab'])]

@@ -1,0 +1,10 @@
+TA_uxuR-1_ cluster0 #2960
+                 est  L95%  U95%  se
+rate    6.989295e-02   NaN   NaN NaN
+beta    4.096018e+07   NaN   NaN NaN
+s       2.225163e+04   NaN   NaN NaN
+lambda  1.592598e-04   NaN   NaN NaN
+                 est        L95%        U95%       var
+lifespan  102.228663  101.245786  102.334651  0.000103
+
+

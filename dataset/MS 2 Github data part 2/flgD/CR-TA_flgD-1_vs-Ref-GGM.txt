@@ -1,0 +1,81 @@
+TA_flgD-1_ cluster0 #385
+                 est  L95%  U95%  se
+rate    6.778429e-02   NaN   NaN NaN
+beta    3.971838e+08   NaN   NaN NaN
+s       3.717902e+05   NaN   NaN NaN
+lambda  6.297106e-08   NaN   NaN NaN
+
+
+TA_flgD-1_ cluster1 #352
+                 est          L95%          U95%            se
+rate    1.742465e-01  1.165663e-01  2.604684e-01  3.573993e-02
+beta    9.844068e+08  2.602974e+06  3.722882e+11  2.981092e+09
+s       1.444967e+00  1.602881e-01  1.302610e+01  1.621097e+00
+lambda  1.406134e-03  9.913577e-04  1.994449e-03  2.507583e-04
+
+
+TA_flgD-1_ cluster2 #271
+                 est          L95%          U95%             se
+rate    2.866159e-02  2.447950e-02  3.355814e-02       0.002306
+beta    1.009957e+04  4.423059e-09  2.306128e+16  146635.546279
+s       6.757980e+02  2.867002e-10  1.592963e+15    9822.861823
+lambda  1.949388e-07  2.895364e-62  1.312482e+48       0.000013
+
+
+TA_flgD-1_ cluster3 #218
+                 est          L95%          U95%            se
+rate    6.015307e-01  3.771698e-01  9.593536e-01  1.432597e-01
+beta    1.525028e+22  1.386426e+12  1.677485e+32  1.799031e+23
+s       1.178508e-01  6.566097e-02  2.115231e-01  3.517038e-02
+lambda  9.795345e-08  1.593025e-28  6.023056e+13  2.392306e-06
+
+
+TA_flgD-1_ cluster4 #207
+                 est          L95%          U95%            se
+rate    1.059073e+00  5.578569e-01  2.010614e+00  3.463916e-01
+beta    1.266506e+28  1.886513e+10  8.502654e+45  2.652478e+29
+s       2.530313e-02  1.289038e-02  4.966871e-02  8.707110e-03
+lambda  9.506616e-08  3.373780e-33  2.678768e+18  2.842365e-06
+
+
+TA_flgD-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.234468e-38
+1      beta  1.000000e+00
+2         s  2.933494e-92
+
+
+TA_flgD-1_ cluster3:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.001106
+1      beta  0.001688
+2         s  0.000745
+
+
+TA_flgD-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  6.601404e-85
+1      beta  8.544917e-01
+2         s  3.597004e-12
+
+
+TA_flgD-1_ cluster4:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.000000e+00
+1      beta  1.189885e-67
+2         s  2.891054e-15
+
+
+[(8, 385, 2, ['MAX_06122014 Position 26-1.tif.mortality.tab', 'MAX_06122014 Position 32-1.tif.mortality.tab']), (0, 352, 3, ['MAX_06122014 Position 117-1.tif.mortality.tab', 'MAX_06122014 Position 132-1.tif.mortality.tab', 'MAX_06122014 Position 134-1.tif.mortality.tab']), (5, 271, 3, ['MAX_06122014 Position 38-1.tif.mortality.tab', 'MAX_06122014 Position 42-1.tif.mortality.tab', 'MAX_06122014 Position 45-1.tif.mortality.tab']), (7, 218, 2, ['MAX_06122014 Position 41-1.tif.mortality.tab', 'MAX_06122014 Position 61-1.tif.mortality.tab']), (4, 207, 2, ['MAX_06122014 Position 24-1.tif.mortality.tab', 'MAX_06122014 Position 31-1.tif.mortality.tab'])]

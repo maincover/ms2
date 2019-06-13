@@ -1,8 +1,0 @@
-MAX_28092014 Position 62-1.tif.mortality.tab
-MAX_28092014 Position 63-1.tif.mortality.tab
-MAX_28092014 Position 64-1.tif.mortality.tab
-MAX_28092014 Position 65-1.tif.mortality.tab
-MAX_28092014 Position 70-1.tif.mortality.tab
-MAX_28092014 Position 71-1.tif.mortality.tab
-MAX_28092014 Position 81-1.tif.mortality.tab
-MAX_28092014 Position 82-1.tif.mortality.tab

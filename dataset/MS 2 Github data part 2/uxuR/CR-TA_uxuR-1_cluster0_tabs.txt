@@ -1,0 +1,14 @@
+MAX_MAX_07092014 Position 1.tif.mortality.tab
+MAX_MAX_07092014 Position 10.tif.mortality.tab
+MAX_MAX_07092014 Position 11.tif.mortality.tab
+MAX_MAX_07092014 Position 16.tif.mortality.tab
+MAX_MAX_07092014 Position 19.tif.mortality.tab
+MAX_MAX_07092014 Position 20.tif.mortality.tab
+MAX_MAX_07092014 Position 21.tif.mortality.tab
+MAX_MAX_07092014 Position 22.tif.mortality.tab
+MAX_MAX_07092014 Position 24.tif.mortality.tab
+MAX_MAX_07092014 Position 4.tif.mortality.tab
+MAX_MAX_07092014 Position 6.tif.mortality.tab
+MAX_MAX_07092014 Position 7.tif.mortality.tab
+MAX_MAX_07092014 Position 8.tif.mortality.tab
+MAX_MAX_07092014 Position 9.tif.mortality.tab

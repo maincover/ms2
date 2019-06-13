@@ -1,0 +1,6 @@
+/home/xsong/mg-wt/dataset/MS 2 Github data part 2/mtlD/MAX_07102014 Position 143.2-1.tif.mortality.tab	/home/xsong/mg-wt/dataset/MS 2 Github data part 2/mtlD/MAX_07102014 Position 143.3-1.tif.mortality.tab
+
+/home/xsong/mg-wt/dataset/MS 2 Github data part 2/mtlD/MAX_07102014 Position 144.3-1.tif.mortality.tab	/home/xsong/mg-wt/dataset/MS 2 Github data part 2/mtlD/MAX_07102014 Position 144.2-1.tif.mortality.tab
+
+/home/xsong/mg-wt/dataset/MS 2 Github data part 2/mtlD/MAX_07102014 Position 140.3-1.tif.mortality.tab	/home/xsong/mg-wt/dataset/MS 2 Github data part 2/mtlD/MAX_07102014 Position 140.2-1.tif.mortality.tab
+
