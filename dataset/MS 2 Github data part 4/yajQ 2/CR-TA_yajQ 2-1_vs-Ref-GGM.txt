@@ -1,0 +1,81 @@
+TA_yajQ 2-1_ cluster0 #556
+                est          L95%          U95%           se
+rate       0.082927  7.104130e-02      0.096801     0.006545
+beta    5345.521760  2.167195e+03  13185.065898  2462.328011
+s          0.827334  5.744076e-01      1.191631     0.154018
+lambda     0.000002  4.663834e-14     64.989937     0.000015
+
+
+TA_yajQ 2-1_ cluster1 #487
+                 est          L95%          U95%            se
+rate    1.753239e-01  1.417116e-01  2.169086e-01  1.903919e-02
+beta    1.592776e+09  3.712999e+07  6.832581e+10  3.054618e+09
+s       1.066445e+00  5.887596e-01  1.931695e+00  3.232407e-01
+lambda  1.090524e-03  8.103902e-04  1.467494e-03  1.651939e-04
+
+
+TA_yajQ 2-1_ cluster2 #473
+                 est  L95%  U95%  se
+rate    6.747267e-02   NaN   NaN NaN
+beta    8.857050e+07   NaN   NaN NaN
+s       3.742176e+04   NaN   NaN NaN
+lambda  1.418738e-05   NaN   NaN NaN
+
+
+TA_yajQ 2-1_ cluster3 #212
+                 est          L95%          U95%            se
+rate    1.761584e-01  1.271696e-01  2.440188e-01  2.928792e-02
+beta    1.081590e+09  3.827087e+06  3.056732e+11  3.114642e+09
+s       1.067561e+00  4.389070e-01  2.596646e+00  4.841391e-01
+lambda  1.833823e-03  1.286961e-03  2.613061e-03  3.313288e-04
+
+
+TA_yajQ 2-1_ cluster4 #170
+                 est          L95%          U95%            se
+rate    2.715830e-01  2.059348e-01  3.581585e-01  3.834211e-02
+beta    6.828470e+13  1.948763e+10  2.392697e+17  2.843504e+14
+s       5.121874e-01  2.878202e-01  9.114577e-01  1.506158e-01
+lambda  4.920427e-04  2.462304e-04  9.832499e-04  1.737992e-04
+
+
+TA_yajQ 2-1_ cluster3:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.460869e-19
+1      beta  7.155662e-23
+2         s  6.083929e-01
+
+
+TA_yajQ 2-1_ cluster2:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.679545e-18
+1      beta  4.512960e-22
+2         s  1.764511e-01
+
+
+TA_yajQ 2-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.463959e-33
+1      beta  4.534039e-42
+2         s  4.785181e-01
+
+
+TA_yajQ 2-1_ cluster4:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  4.389535e-24
+1      beta  9.958878e-30
+2         s  1.000000e+00
+
+
+[(5, 556, 2, ['MAX_10062016 Position 105-1.tif.mortality.tab', 'MAX_10062016 Position 106-1.tif.mortality.tab']), (2, 487, 4, ['MAX_10062016 Position 107-1.tif.mortality.tab', 'MAX_10062016 Position 2-1.tif.mortality.tab', 'MAX_10062016 Position 8-1.tif.mortality.tab', 'MAX_10062016 Position 94-1.tif.mortality.tab']), (3, 473, 4, ['MAX_10062016 Position 104-1.tif.mortality.tab', 'MAX_10062016 Position 110-1.tif.mortality.tab', 'MAX_10062016 Position 123-1.tif.mortality.tab', 'MAX_10062016 Position 98-1.tif.mortality.tab']), (1, 212, 4, ['MAX_10062016 Position 1-1.tif.mortality.tab', 'MAX_10062016 Position 122-1.tif.mortality.tab', 'MAX_10062016 Position 93-1.tif.mortality.tab', 'MAX_10062016 Position 95-1.tif.mortality.tab']), (0, 170, 3, ['MAX_10062016 Position 20-1.tif.mortality.tab', 'MAX_10062016 Position 91-1.tif.mortality.tab', 'MAX_10062016 Position 92-1.tif.mortality.tab'])]

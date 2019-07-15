@@ -1,0 +1,27 @@
+TA_fabR 2-1_ cluster0 #332
+                 est          L95%          U95%            se
+rate    8.825283e-02  7.181594e-02  1.084517e-01  9.280200e-03
+beta    1.464795e+07  1.578330e-03  1.359427e+17  1.715277e+08
+s       4.210905e+02  4.255756e-08  4.166527e+12  4.944736e+03
+lambda  6.154448e-03  5.100146e-03  7.426694e-03  5.900396e-04
+
+
+TA_fabR 2-1_ cluster1 #292
+                 est         L95%          U95%            se
+rate    1.535437e-01     0.091655  2.572232e-01  4.042024e-02
+beta    1.838247e+06  2318.803198  1.457282e+09  6.260955e+06
+s       2.458876e-01     0.112524  5.373127e-01  9.806901e-02
+lambda  2.021925e-03     0.001444  2.831396e-03  3.473648e-04
+
+
+TA_fabR 2-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.049727
+1      beta  0.000133
+2         s  0.000163
+
+
+[(1, 332, 2, ['MAX_13052018 Position 136-1.tif.mortality.tab', 'MAX_13052018 Position 137-1.tif.mortality.tab']), (0, 292, 6, ['MAX_13052018 Position 74-1.tif.mortality.tab', 'MAX_13052018 Position 87-1.tif.mortality.tab', 'MAX_13052018 Position 88-1.tif.mortality.tab', 'MAX_13052018 Position 91-1.tif.mortality.tab', 'MAX_13052018 Position 92-1.tif.mortality.tab', 'MAX_13052018 Position 93-1.tif.mortality.tab'])]

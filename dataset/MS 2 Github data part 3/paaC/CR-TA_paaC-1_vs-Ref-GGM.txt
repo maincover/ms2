@@ -1,0 +1,27 @@
+TA_paaC-1_ cluster0 #269
+                 est           L95%          U95%            se
+rate    1.884635e-01       0.126873  2.799528e-01  3.805080e-02
+beta    5.512586e+07  136753.349851  2.222147e+10  1.687331e+08
+s       3.472324e-01       0.157664  7.647300e-01  1.398750e-01
+lambda  4.136760e-04       0.000203  8.418031e-04  1.499525e-04
+
+
+TA_paaC-1_ cluster1 #221
+                 est          L95%          U95%            se
+rate    2.074190e-01  1.366969e-01  3.147300e-01  4.412755e-02
+beta    8.155706e+08  4.329717e+05  1.536256e+12  3.137912e+09
+s       2.421495e-01  1.102392e-01  5.319012e-01  9.722018e-02
+lambda  7.619188e-07  4.748443e-15  1.222549e+02  7.344696e-06
+
+
+TA_paaC-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.951140e-14
+1      beta  8.929135e-01
+2         s  1.000000e+00
+
+
+[(0, 269, 3, ['MAX_07092014 Position 20-1.tif.mortality.tab', 'MAX_07092014 Position 91-1.tif.mortality.tab', 'MAX_07092014 Position 94-1.tif.mortality.tab']), (1, 221, 6, ['MAX_07092014 Position 19-1.tif.mortality.tab', 'MAX_07092014 Position 22-1.tif.mortality.tab', 'MAX_07092014 Position 25-1.tif.mortality.tab', 'MAX_07092014 Position 26-1.tif.mortality.tab', 'MAX_07092014 Position 89-1.tif.mortality.tab', 'MAX_07092014 Position 90-1.tif.mortality.tab'])]

@@ -1,0 +1,10 @@
+MAX_13052018 Position 32-1.tif.mortality.tab
+MAX_13052018 Position 34-1.tif.mortality.tab
+MAX_13052018 Position 60-1.tif.mortality.tab
+MAX_13052018 Position 61-1.tif.mortality.tab
+MAX_13052018 Position 62-1.tif.mortality.tab
+MAX_13052018 Position 64-1.tif.mortality.tab
+MAX_13052018 Position 65-1.tif.mortality.tab
+MAX_13052018 Position 67-1.tif.mortality.tab
+MAX_13052018 Position 69-1.tif.mortality.tab
+MAX_13052018 Position 89-1.tif.mortality.tab

@@ -1,0 +1,27 @@
+TA_yjfF 2-1_ cluster0 #569
+                 est         L95%           U95%            se
+rate        0.101467     0.080235       0.128318      0.012154
+beta    44310.915078  7522.384856  261015.254146  40091.891996
+s           0.861095     0.433366       1.710989      0.301662
+lambda      0.002961     0.002405       0.003646      0.000314
+
+
+TA_yjfF 2-1_ cluster1 #207
+                  est         L95%          U95%             se
+rate         0.113234     0.075953  1.688156e-01       0.023072
+beta    145628.905960  5665.633259  3.743232e+06  241231.506287
+s            1.109154     0.294090  4.183155e+00       0.751221
+lambda       0.005172     0.003962  6.752108e-03       0.000703
+
+
+TA_yjfF 2-1_ cluster1:
+-------
+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.671367
+1      beta  0.524300
+2         s  0.015786
+
+
+[(1, 569, 5, ['MAX_13052018 Position 183-1.tif.mortality.tab', 'MAX_13052018 Position 189-1.tif.mortality.tab', 'MAX_13052018 Position 33-1.tif.mortality.tab', 'MAX_13052018 Position 47-1.tif.mortality.tab', 'MAX_13052018 Position 90-1.tif.mortality.tab']), (0, 207, 2, ['MAX_13052018 Position 143-1.tif.mortality.tab', 'MAX_13052018 Position 48-1.tif.mortality.tab'])]

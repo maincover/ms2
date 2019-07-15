@@ -1,0 +1,27 @@
+TA_flgD 2-1_ cluster0 #340
+                 est          L95%          U95%            se
+rate    1.413786e-01      0.099945  1.999894e-01  2.501749e-02
+beta    1.365501e+06  18164.555827  1.026501e+08  3.009595e+06
+s       4.650714e-01      0.255347  8.470506e-01  1.422693e-01
+lambda  1.299710e-03      0.000852  1.983286e-03  2.802477e-04
+
+
+TA_flgD 2-1_ cluster1 #165
+                  est         L95%          U95%             se
+rate         0.115282     0.078213  1.699195e-01       0.022818
+beta    149719.125613  4585.388378  4.888532e+06  266282.361891
+s            0.481340     0.189522  1.222487e+00       0.228903
+lambda       0.000205     0.000051  8.312162e-04       0.000146
+
+
+TA_flgD 2-1_ cluster1:
+-------
+dataset+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.016304
+1      beta  0.211147
+2         s  1.000000
+
+
+[(1, 340, 6, ['MAX_13052018 Position 32-1.tif.mortality.tab', 'MAX_13052018 Position 60-1.tif.mortality.tab', 'MAX_13052018 Position 61-1.tif.mortality.tab', 'MAX_13052018 Position 62-1.tif.mortality.tab', 'MAX_13052018 Position 67-1.tif.mortality.tab', 'MAX_13052018 Position 69-1.tif.mortality.tab']), (0, 165, 3, ['MAX_13052018 Position 64-1.tif.mortality.tab', 'MAX_13052018 Position 65-1.tif.mortality.tab', 'MAX_13052018 Position 89-1.tif.mortality.tab'])]

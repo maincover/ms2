@@ -1,0 +1,27 @@
+TA_nirC-1_ cluster0 #601
+                 est          L95%          U95%            se
+rate    1.993544e-01  1.545291e-01  2.571826e-01  2.590660e-02
+beta    9.640174e+08  1.128843e+07  8.232582e+10  2.187440e+09
+s       4.683989e-01  2.496826e-01  8.787057e-01  1.503516e-01
+lambda  4.875702e-04  3.197155e-04  7.435509e-04  1.049795e-04
+
+
+TA_nirC-1_ cluster1 #212
+                 est          L95%          U95%            se
+rate    7.654673e-02  6.084996e-02  9.629263e-02  8.962785e-03
+beta    7.235858e+06  1.050009e-17  4.986402e+30  2.026436e+08
+s       1.827397e+03  2.469782e-21  1.352094e+27  5.124338e+04
+lambda  4.868134e-04  1.188962e-04  1.993228e-03  3.501221e-04
+
+
+TA_nirC-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.464650e-08
+1      beta  1.000000e+00
+2         s  1.136895e-05
+
+
+[(2, 601, 7, ['MAX_07092014 Position 29-1.tif.mortality.tab', 'MAX_07092014 Position 33-1.tif.mortality.tab', 'MAX_07092014 Position 34-1.tif.mortality.tab', 'MAX_07092014 Position 35-1.tif.mortality.tab', 'MAX_07092014 Position 39-1.tif.mortality.tab', 'MAX_07092014 Position 43-1.tif.mortality.tab', 'MAX_07092014 Position 44-1.tif.mortality.tab']), (0, 212, 3, ['MAX_07092014 Position 37-1.tif.mortality.tab', 'MAX_07092014 Position 51-1.tif.mortality.tab', 'MAX_07092014 Position 81-1.tif.mortality.tab'])]

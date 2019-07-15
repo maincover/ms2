@@ -1,0 +1,30 @@
+TA_yajQ-1_ cluster0 #1088
+                est  L95%  U95%  se
+rate       0.014031   NaN   NaN NaN
+beta    6978.797126   NaN   NaN NaN
+s          0.299730   NaN   NaN NaN
+lambda     0.022140   NaN   NaN NaN
+                est      L95%       U95%       var
+lifespan  15.100216  12.09058  17.221709  0.000233
+
+
+TA_yajQ-1_ cluster1 #207
+                 est          L95%          U95%            se
+rate    7.637481e-01  5.071023e-01  1.150283e+00  1.595816e-01
+beta    4.458863e+36  6.651525e+21  2.989008e+51  7.766487e+37
+s       9.790733e-02  5.390827e-02  1.778177e-01  2.980921e-02
+lambda  8.753962e-03  7.278108e-03  1.052909e-02  8.246544e-04
+               est       L95%        U95%       var
+lifespan  72.54064  67.658749  109.539301  0.001241
+
+
+TA_yajQ-1_ cluster2 #151
+                 est  L95%  U95%  se
+rate    7.614785e-02   NaN   NaN NaN
+beta    1.852674e+08   NaN   NaN NaN
+s       3.200590e+04   NaN   NaN NaN
+lambda  1.059087e-07   NaN   NaN NaN
+                 est      L95%        U95%       var
+lifespan  105.624091  98.62805  112.632708  0.001669
+
+

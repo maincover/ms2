@@ -1,0 +1,27 @@
+TA_ynaA 2-1_ cluster0 #440
+                 est          L95%          U95%            se
+rate    2.420772e-01  1.488295e-01  3.937483e-01  6.008260e-02
+beta    9.865856e+10  1.217734e+06  7.993134e+15  5.689295e+11
+s       2.591541e-01  1.078113e-01  6.229476e-01  1.159656e-01
+lambda  7.540994e-03  6.540172e-03  8.694968e-03  5.478497e-04
+
+
+TA_ynaA 2-1_ cluster1 #298
+                 est        L95%          U95%             se
+rate        0.089230    0.033684  2.363747e-01       0.044352
+beta    53029.880116  223.694919  1.257144e+07  147954.126882
+s           1.868224    0.015296  2.281753e+02       4.580212
+lambda      0.009777    0.008044  1.188345e-02       0.000973
+
+
+TA_ynaA 2-1_ cluster1:
+-------
+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  1.000000
+1      beta  0.655679
+2         s  1.000000
+
+
+[(0, 440, 3, ['MAX_09032016 Position 12-1.tif.mortality.tab', 'MAX_09032016 Position 3-1.tif.mortality.tab', 'MAX_09032016 Position 48-1.tif.mortality.tab']), (2, 298, 2, ['MAX_09032016 Position 49-1.tif.mortality.tab', 'MAX_09032016 Position 54-1.tif.mortality.tab'])]

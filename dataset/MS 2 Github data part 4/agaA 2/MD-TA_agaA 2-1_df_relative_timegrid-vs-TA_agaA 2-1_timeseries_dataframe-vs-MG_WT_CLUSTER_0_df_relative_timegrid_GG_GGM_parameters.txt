@@ -1,0 +1,24 @@
+MG_WT_CLUSTER_0_df_relative_timegrid.pickle
+-------------------------------
+GGM(AIC=15889.636442)
+               est       L95%        U95%         se
+rate      0.072927   0.061541    0.086420   0.006316
+beta    153.763745  85.211326  277.466509  46.309073
+s         0.956717   0.703579    1.300931   0.150016
+lambda    0.000656   0.000185    0.002323   0.000423
+               est       L95%       U95%       var
+lifespan  68.29953  66.625739  69.614456  0.000143
+
+
+TA_agaA 2-1_df_relative_timegrid.pickle
+-------------------------------
+GGM(AIC=5785.485454)
+                 est  L95%  U95%  se
+rate    8.309171e-02   NaN   NaN NaN
+beta    3.224016e+06   NaN   NaN NaN
+s       1.745995e+02   NaN   NaN NaN
+lambda  3.097283e-03   NaN   NaN NaN
+                 est        L95%        U95%       var
+lifespan  108.035606  104.985307  109.066767  0.000356
+
+

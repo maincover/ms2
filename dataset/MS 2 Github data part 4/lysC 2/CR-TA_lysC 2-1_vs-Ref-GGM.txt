@@ -1,0 +1,81 @@
+TA_cynX 2-1_ cluster0 #1895
+                 est          L95%          U95%           se
+rate        0.117759  1.035878e-01      0.133870     0.007704
+beta    16838.502466  6.725055e+03  42161.015127  7885.271133
+s           0.476426  3.577268e-01      0.634512     0.069653
+lambda      0.000011  9.104298e-09      0.013800     0.000041
+
+
+TA_cynX 2-1_ cluster1 #610
+                 est  L95%  U95%  se
+rate    1.172249e-01   NaN   NaN NaN
+beta    4.505624e+04   NaN   NaN NaN
+s       5.053718e-01   NaN   NaN NaN
+lambda  4.242614e-10   NaN   NaN NaN
+
+
+TA_cynX 2-1_ cluster2 #566
+                 est  L95%  U95%  se
+rate    5.715054e-02   NaN   NaN NaN
+beta    9.934195e+04   NaN   NaN NaN
+s       3.463184e+02   NaN   NaN NaN
+lambda  5.758989e-07   NaN   NaN NaN
+
+
+TA_cynX 2-1_ cluster3 #491
+                 est          L95%          U95%            se
+rate    2.277158e-01      0.165421  3.134702e-01  3.713299e-02
+beta    1.839792e+06  23470.220434  1.442183e+08  4.094247e+06
+s       6.692623e-02      0.044478  1.007049e-01  1.395246e-02
+lambda  1.133818e-04      0.000028  4.522296e-04  8.002988e-05
+
+
+TA_cynX 2-1_ cluster4 #333
+                 est          L95%          U95%            se
+rate    1.014921e-01  9.082506e-02  1.134120e-01  5.750265e-03
+beta    1.410990e+07  1.802807e-14  1.104330e+28  3.463414e+08
+s       5.136535e+02  5.226368e-19  5.048245e+23  1.266781e+04
+lambda  3.845714e-08  6.409314e-40  2.307504e+24  1.435732e-06
+
+
+TA_cynX 2-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.040079
+1      beta  0.005247
+2         s  1.000000
+
+
+TA_cynX 2-1_ cluster2:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  1.000000
+1      beta  0.138266
+2         s  0.180420
+
+
+TA_cynX 2-1_ cluster3:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.000000e+00
+1      beta  2.198352e-12
+2         s  7.938000e-22
+
+
+TA_cynX 2-1_ cluster4:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  6.245996e-02
+1      beta  1.483575e-26
+2         s  8.244523e-06
+
+
+[(6, 1895, 9, ['MAX_18072014 Position 27-1.tif.mortality.tab', 'MAX_18072014 Position 47-1.tif.mortality.tab', 'MAX_18072014 Position 56-1.tif.mortality.tab', 'MAX_18072014 Position 57-1.tif.mortality.tab', 'MAX_18072014 Position 58-1.tif.mortality.tab', 'MAX_18072014 Position 62-1.tif.mortality.tab', 'MAX_18072014 Position 63-1.tif.mortality.tab', 'MAX_18072014 Position 65-1.tif.mortality.tab', 'MAX_18072014 Position 68-1.tif.mortality.tab']), (3, 610, 2, ['MAX_18072014 Position 28-1.tif.mortality.tab', 'MAX_18072014 Position 30-1.tif.mortality.tab']), (5, 566, 3, ['MAX_18072014 Position 33-1.tif.mortality.tab', 'MAX_18072014 Position 35-1.tif.mortality.tab', 'MAX_18072014 Position 59-1.tif.mortality.tab']), (2, 491, 2, ['MAX_18072014 Position 61-1.tif.mortality.tab', 'MAX_18072014 Position 66-1.tif.mortality.tab']), (4, 333, 2, ['MAX_18072014 Position 37-1.tif.mortality.tab', 'MAX_18072014 Position 43-1.tif.mortality.tab'])]
