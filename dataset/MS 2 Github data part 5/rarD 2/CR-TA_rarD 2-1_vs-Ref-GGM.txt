@@ -1,0 +1,27 @@
+TA_rarD 2-1_ cluster0 #516
+                 est          L95%          U95%            se
+rate    1.730746e-01  1.416787e-01  2.114279e-01  1.767523e-02
+beta    2.531286e+08  1.395986e+07  4.589881e+09  3.742384e+08
+s       1.248045e+00  5.353449e-01  2.909556e+00  5.389757e-01
+lambda  6.953898e-04  4.728151e-04  1.022740e-03  1.368695e-04
+
+
+TA_rarD 2-1_ cluster1 #504
+                est  L95%  U95%  se
+rate       0.052151   NaN   NaN NaN
+beta    2301.065685   NaN   NaN NaN
+s          7.103298   NaN   NaN NaN
+lambda     0.000872   NaN   NaN NaN
+
+
+TA_rarD 2-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.480871e-25
+1      beta  3.633619e-25
+2         s  5.923000e-01
+
+
+[(2, 516, 6, ['MAX_10012014 Position 110-1.tif.mortality.tab', 'MAX_10012014 Position 124-1.tif.mortality.tab', 'MAX_10012014 Position 125-1.tif.mortality.tab', 'MAX_10012014 Position 126-1.tif.mortality.tab', 'MAX_10012014 Position 127-1.tif.mortality.tab', 'MAX_10012014 Position 128-1.tif.mortality.tab']), (0, 504, 4, ['MAX_10012014 Position 83-1.tif.mortality.tab', 'MAX_10012014 Position 84-1.tif.mortality.tab', 'MAX_10012014 Position 86-1.tif.mortality.tab', 'MAX_10012014 Position 88-1.tif.mortality.tab'])]

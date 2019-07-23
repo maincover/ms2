@@ -1,33 +1,33 @@
 TA_80 MG yagS-1_ cluster0 #2170
                  est          L95%          U95%            se
-rate    4.717352e-02  4.542475e-02  4.898960e-02  9.092011e-04
-beta    7.112317e+05  2.462557e-05  2.054168e+16  8.740501e+06
-s       1.059712e+04  3.657644e-07  3.070252e+14  1.302475e+05
-lambda  3.364084e-07  1.680200e-16  6.735543e+02  3.676103e-06
+rate    4.711102e-02  4.536344e-02  4.892593e-02  9.085976e-04
+beta    1.072718e+06  2.156217e-07  5.336774e+18  1.600100e+07
+s       1.607435e+04  3.223023e-09  8.016841e+16  2.397904e+05
+lambda  1.203654e-07  1.934808e-23  7.487996e+08  2.233355e-06
 
 
 TA_80 MG yagS-1_ cluster1 #2138
                  est          L95%          U95%            se
-rate    5.361814e-02  5.170085e-02  5.560654e-02  9.961477e-04
-beta    3.833895e+05  1.864634e-07  7.882915e+17  5.545916e+06
-s       3.691194e+03  1.765932e-09  7.715426e+15  5.342592e+04
-lambda  2.752004e-07  3.513049e-16  2.155826e+02  2.875491e-06
+rate    5.357345e-02  5.165935e-02  5.555848e-02  9.944745e-04
+beta    4.145440e+05  1.530025e-07  1.123163e+18  6.054938e+06
+s       4.002918e+03  1.455085e-09  1.101197e+16  5.849879e+04
+lambda  2.727095e-07  3.003969e-16  2.475740e+02  2.869981e-06
 
 
 TA_80 MG yagS-1_ cluster2 #1515
                  est          L95%          U95%             se
-rate    4.424015e-02  4.213492e-02  4.645055e-02       0.001101
-beta    5.074236e+04  9.191756e-06  2.801192e+14  580744.608027
-s       8.666600e+02  1.507890e-07  4.981130e+12    9936.718834
-lambda  4.557974e-08  2.298508e-34  9.038527e+18       0.000001
+rate    4.405859e-02  4.191835e-02  4.630811e-02       0.001119
+beta    3.807539e+04  3.583878e-05  4.045157e+13  403758.100542
+s       6.654098e+02  5.964943e-07  7.422874e+11    7072.688967
+lambda  6.092116e-08  7.352710e-31  5.047647e+15       0.000002
 
 
 TA_80 MG yagS-1_ cluster3 #1443
                  est          L95%          U95%             se
-rate    5.162722e-02  4.860485e-02  5.483753e-02       0.001589
-beta    2.426257e+04  1.265515e-04  4.651642e+12  236088.435672
-s       2.974486e+02  1.355906e-06  6.525210e+10    2914.789477
-lambda  6.803784e-08  3.021079e-28  1.532283e+13       0.000002
+rate    5.159749e-02  4.838469e-02  5.502362e-02       0.001692
+beta    1.991597e+04  3.427969e-04  1.157087e+12  181661.885803
+s       2.454556e+02  3.624408e-06  1.662297e+10    2258.099251
+lambda  8.604008e-08  6.819224e-26  1.085592e+11       0.000002
 
 
 TA_80 MG yagS-1_ cluster1:
@@ -35,9 +35,9 @@ TA_80 MG yagS-1_ cluster1:
 dataset+s(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.000002
-1      beta  1.000000
-2         s  0.001078
+0      rate  0.000001
+1      beta  0.500026
+2         s  0.001268
 
 
 TA_80 MG yagS-1_ cluster2:
@@ -45,9 +45,9 @@ TA_80 MG yagS-1_ cluster2:
 dataset+lambda(dataset)
 -------
   parameter       p-value
-0      rate  4.633203e-07
-1      beta  3.233093e-01
-2         s  2.896356e-01
+0      rate  7.545881e-07
+1      beta  3.242795e-01
+2         s  2.797882e-01
 
 
 TA_80 MG yagS-1_ cluster3:
@@ -55,9 +55,9 @@ TA_80 MG yagS-1_ cluster3:
 dataset+lambda(dataset)
 -------
   parameter       p-value
-0      rate  6.679171e-13
-1      beta  2.329587e-01
-2         s  2.512305e-01
+0      rate  4.624877e-13
+1      beta  2.143441e-01
+2         s  2.521096e-01
 
 
 [(3, 2170, 4, ['MAX_30102017 Position 78_MAX.tif.mortality.tab', 'MAX_30102017 Position 81_MAX.tif.mortality.tab', 'MAX_30102017 Position 82_MAX.tif.mortality.tab', 'MAX_30102017 Position 90_MAX.tif.mortality.tab']), (0, 2138, 4, ['MAX_30102017 Position 73_MAX.tif.mortality.tab', 'MAX_30102017 Position 75_MAX.tif.mortality.tab', 'MAX_30102017 Position 79_MAX.tif.mortality.tab', 'MAX_30102017 Position 80_MAX.tif.mortality.tab']), (4, 1515, 4, ['MAX_30102017 Position 83_MAX.tif.mortality.tab', 'MAX_30102017 Position 84_MAX.tif.mortality.tab', 'MAX_30102017 Position 86_MAX.tif.mortality.tab', 'MAX_30102017 Position 87_MAX.tif.mortality.tab']), (1, 1443, 3, ['MAX_30102017 Position 70_MAX.tif.mortality.tab', 'MAX_30102017 Position 72_MAX.tif.mortality.tab', 'MAX_30102017 Position 74_MAX.tif.mortality.tab'])]

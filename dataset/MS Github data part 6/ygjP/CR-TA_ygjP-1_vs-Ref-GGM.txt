@@ -1,0 +1,63 @@
+TA_ygjP-1_ cluster0 #1080
+                est         L95%         U95%           se
+rate       0.078591     0.065884     0.093749     0.007072
+beta    4519.176505  2161.460253  9448.684636  1700.592184
+s          1.425348     0.752126     2.701165     0.464896
+lambda     0.001705     0.001361     0.002136     0.000196
+
+
+TA_ygjP-1_ cluster1 #815
+                  est          L95%           U95%            se
+rate         0.099517      0.079797       0.124110      0.011213
+beta    134617.147469  40295.307392  449724.237527  82845.998987
+s            2.247528      0.710945       7.105159      1.319862
+lambda       0.001325      0.001026       0.001711      0.000173
+
+
+TA_ygjP-1_ cluster2 #294
+                 est  L95%  U95%  se
+rate    9.502398e-02   NaN   NaN NaN
+beta    3.916492e+07   NaN   NaN NaN
+s       4.447964e+02   NaN   NaN NaN
+lambda  1.578737e-03   NaN   NaN NaN
+
+
+TA_ygjP-1_ cluster3 #272
+                 est      L95%      U95%            se
+rate    1.682708e-01  0.139302  0.203263  1.622028e-02
+beta    8.972778e+15  0.000000       inf  9.559197e+18
+s       8.836691e+06  0.000000       inf  9.414212e+09
+lambda  1.266917e-03  0.000849  0.001890  2.586167e-04
+
+
+TA_ygjP-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.478867e-10
+1      beta  1.275552e-12
+2         s  4.430683e-01
+
+
+TA_ygjP-1_ cluster2:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.133440
+1      beta  0.000221
+2         s  0.120925
+
+
+TA_ygjP-1_ cluster3:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.102731e-21
+1      beta  8.836251e-28
+2         s  1.000000e+00
+
+
+[(5, 1080, 7, ['MAX_04012018 Position 135-1.tif.mortality.tab', 'MAX_04012018 Position 159-1.tif.mortality.tab', 'MAX_04012018 Position 168-1.tif.mortality.tab', 'MAX_04012018 Position 169-1.tif.mortality.tab', 'MAX_04012018 Position 174-1.tif.mortality.tab', 'MAX_04012018 Position 72-1.tif.mortality.tab', 'MAX_04012018 Position 86-1.tif.mortality.tab']), (1, 815, 5, ['MAX_04012018 Position 136-1.tif.mortality.tab', 'MAX_04012018 Position 16-1.tif.mortality.tab', 'MAX_04012018 Position 20-1.tif.mortality.tab', 'MAX_04012018 Position 95-1.tif.mortality.tab', 'MAX_04012018 Position 97-1.tif.mortality.tab']), (4, 294, 6, ['MAX_04012018 Position 109-1.tif.mortality.tab', 'MAX_04012018 Position 120-1.tif.mortality.tab', 'MAX_04012018 Position 137-1.tif.mortality.tab', 'MAX_04012018 Position 87-1.tif.mortality.tab', 'MAX_04012018 Position 96-1.tif.mortality.tab', 'MAX_04012018 Position 98-1.tif.mortality.tab']), (0, 272, 3, ['MAX_04012018 Position 125-1.tif.mortality.tab', 'MAX_04012018 Position 13-1.tif.mortality.tab', 'MAX_04012018 Position 74-1.tif.mortality.tab'])]

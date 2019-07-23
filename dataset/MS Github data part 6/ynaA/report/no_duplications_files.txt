@@ -1,0 +1,13 @@
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 102-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 108-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 109-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 32-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 42-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 44-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 55-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 56-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 63-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 77-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 79-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 83-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS Github data part 6/ynaA/MAX_06082014 Position 84-1.tif.mortality.tab

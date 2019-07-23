@@ -1,16 +1,16 @@
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 70_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 71_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 72_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 73_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 74_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 75_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 78_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 79_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 80_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 81_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 82_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 83_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 84_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 86_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 87_MAX.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 90_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 70_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 71_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 72_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 73_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 74_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 75_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 78_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 79_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 80_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 81_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 82_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 83_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 84_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 86_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 87_MAX.tif.mortality.tab
+/home/xsong/mg-wt/dataset/ana_19032013_MG_WT/80 MG yagS/MAX_30102017 Position 90_MAX.tif.mortality.tab

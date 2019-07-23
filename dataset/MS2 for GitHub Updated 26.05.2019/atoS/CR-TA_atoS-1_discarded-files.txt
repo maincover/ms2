@@ -1,0 +1,1 @@
+Discard clusters with small sample size ['MAX_25092018 Position 110-1.tif.mortality.tab', 'MAX_25092018 Position 113-1.tif.mortality.tab']

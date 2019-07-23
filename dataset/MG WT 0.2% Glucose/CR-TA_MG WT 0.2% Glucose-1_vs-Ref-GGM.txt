@@ -1,0 +1,117 @@
+TA_MG WT 0.2% Glucose-1_ cluster0 #2609
+                 est          L95%       U95%        se
+rate    5.133010e-02  4.572257e-02   0.057625  0.003030
+beta    4.801936e+01  3.991170e+01  57.774016  4.530926
+s       7.607043e-01  5.792684e-01   0.998969  0.105755
+lambda  7.487775e-07  1.235035e-14  45.396917  0.000007
+
+
+TA_MG WT 0.2% Glucose-1_ cluster1 #2487
+                 est          L95%        U95%         se
+rate    5.422084e-02  4.936903e-02    0.059549   0.002593
+beta    2.847722e+02  2.137060e+02  379.470992  41.712417
+s       5.926426e-01  4.564786e-01    0.769423   0.078935
+lambda  6.557332e-07  2.657112e-13    1.618245   0.000005
+
+
+TA_MG WT 0.2% Glucose-1_ cluster2 #1648
+                 est          L95%          U95%         se
+rate    5.074305e-02  4.358367e-02      0.059078   0.003938
+beta    6.991240e+01  5.069249e+01     96.419493  11.466749
+s       4.040550e-01  2.919453e-01      0.559216   0.066997
+lambda  4.027466e-07  6.483122e-18  25019.549123   0.000005
+
+
+TA_MG WT 0.2% Glucose-1_ cluster3 #1639
+                 est          L95%          U95%         se
+rate    3.658576e-02  3.249608e-02  4.119013e-02   0.002213
+beta    1.443826e+02  8.624221e+01  2.417183e+02  37.960546
+s       2.246431e+00  1.085504e+00  4.648950e+00   0.833600
+lambda  5.236515e-07  7.717769e-23  3.552981e+09   0.000010
+
+
+TA_MG WT 0.2% Glucose-1_ cluster4 #1213
+                 est          L95%          U95%        se
+rate    5.045266e-02  4.268456e-02  5.963448e-02  0.004304
+beta    6.556869e+01  4.917472e+01  8.742812e+01  9.625348
+s       7.730503e-01  4.991119e-01  1.197340e+00  0.172564
+lambda  2.170187e-07  2.714215e-24  1.735203e+10  0.000004
+
+
+TA_MG WT 0.2% Glucose-1_ cluster5 #930
+                 est          L95%          U95%        se
+rate    4.992633e-02  3.984343e-02  6.256085e-02  0.005746
+beta    3.888264e+01  2.681544e+01  5.638018e+01  7.371369
+s       4.368698e-01  2.765143e-01  6.902180e-01  0.101947
+lambda  4.937714e-07  1.604976e-21  1.519089e+08  0.000008
+
+
+TA_MG WT 0.2% Glucose-1_ cluster6 #440
+                est         L95%          U95%           se
+rate       0.072321     0.054330      0.096271     0.010555
+beta    9093.934811  1991.989143  41516.115006  7045.488325
+s          0.781253     0.273765      2.229494     0.417990
+lambda     0.000093     0.000013      0.000684     0.000095
+
+
+TA_MG WT 0.2% Glucose-1_ cluster6:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.079229e-05
+1      beta  1.589140e-26
+2         s  1.000000e+00
+
+
+TA_MG WT 0.2% Glucose-1_ cluster4:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.000000e+00
+1      beta  1.510948e-07
+2         s  8.155710e-01
+
+
+TA_MG WT 0.2% Glucose-1_ cluster5:
+-------
+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  7.515477e-01
+1      beta  2.953712e-01
+2         s  1.211203e-29
+
+
+TA_MG WT 0.2% Glucose-1_ cluster2:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.000000e+00
+1      beta  9.414801e-03
+2         s  6.742937e-14
+
+
+TA_MG WT 0.2% Glucose-1_ cluster3:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  2.819667e-04
+1      beta  1.196846e-07
+2         s  4.647252e-04
+
+
+TA_MG WT 0.2% Glucose-1_ cluster1:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  4.662793e-01
+1      beta  4.908586e-28
+2         s  1.435188e-01
+
+
+[(1, 2609, 8, ['MAX_08112018 Position 10-1.tif.mortality.tab', 'MAX_08112018 Position 12-1.tif.mortality.tab', 'MAX_08112018 Position 13-1.tif.mortality.tab', 'MAX_08112018 Position 14-1.tif.mortality.tab', 'MAX_08112018 Position 15-1.tif.mortality.tab', 'MAX_08112018 Position 3-1.tif.mortality.tab', 'MAX_08112018 Position 6-1.tif.mortality.tab', 'MAX_08112018 Position 8-1.tif.mortality.tab']), (4, 2487, 7, ['MAX_08112018 Position 202-1.tif.mortality.tab', 'MAX_08112018 Position 242-1.tif.mortality.tab', 'MAX_08112018 Position 246-1.tif.mortality.tab', 'MAX_08112018 Position 49-1.tif.mortality.tab', 'MAX_08112018 Position 51-1.tif.mortality.tab', 'MAX_08112018 Position 87-1.tif.mortality.tab', 'MAX_08112018 Position 88-1.tif.mortality.tab']), (5, 1648, 3, ['MAX_08112018 Position 177-1.tif.mortality.tab', 'MAX_08112018 Position 215-1.tif.mortality.tab', 'MAX_08112018 Position 244-1.tif.mortality.tab']), (3, 1639, 3, ['MAX_08112018 Position 154-1.tif.mortality.tab', 'MAX_08112018 Position 245-1.tif.mortality.tab', 'MAX_08112018 Position 50-1.tif.mortality.tab']), (0, 1213, 4, ['MAX_08112018 Position 16-1.tif.mortality.tab', 'MAX_08112018 Position 4-1.tif.mortality.tab', 'MAX_08112018 Position 7-1.tif.mortality.tab', 'MAX_08112018 Position 9-1.tif.mortality.tab']), (2, 930, 2, ['MAX_08112018 Position 155-1.tif.mortality.tab', 'MAX_08112018 Position 42-1.tif.mortality.tab']), (6, 440, 3, ['MAX_08112018 Position 193-1.tif.mortality.tab', 'MAX_08112018 Position 262-1.tif.mortality.tab', 'MAX_08112018 Position 264-1.tif.mortality.tab'])]

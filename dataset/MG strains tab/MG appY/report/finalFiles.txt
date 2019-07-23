@@ -1,0 +1,6 @@
+/home/xsong/mg-wt/dataset/MG strains tab/MG appY/02062014 mRFP Position 51 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG appY/02062014 mRFP Position 53 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG appY/02062014 mRFP Position 55 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG appY/02062014 mRFP Position 56 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG appY/02062014 mRFP Position 57 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG appY/02062014 mRFP Position 58 mask.tif.mortality.tab

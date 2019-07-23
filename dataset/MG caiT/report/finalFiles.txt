@@ -1,5 +1,5 @@
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/MG caiT/06052014 mRFP Position 11 stabilized.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/MG caiT/06052014 mRFP Position 12 stabilized.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/MG caiT/06052014 mRFP Position 13 stabilized.tif.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/MG caiT/06052014 mRFP Position 14 stabilized.mortality.tab
-/home/xsong/coliSurvivalAnalysis/xsong/main/test dataset/MG caiT/06052014 mRFP Position 15.mortality.tab
+/home/xsong/mg-wt/dataset/MG caiT/06052014 mRFP Position 11 stabilized.mortality.tab
+/home/xsong/mg-wt/dataset/MG caiT/06052014 mRFP Position 12 stabilized.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG caiT/06052014 mRFP Position 13 stabilized.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG caiT/06052014 mRFP Position 14 stabilized.mortality.tab
+/home/xsong/mg-wt/dataset/MG caiT/06052014 mRFP Position 15.mortality.tab

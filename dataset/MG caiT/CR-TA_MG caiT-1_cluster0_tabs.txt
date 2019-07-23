@@ -1,5 +1,0 @@
-06052014 mRFP Position 11 stabilized.mortality.tab
-06052014 mRFP Position 12 stabilized.tif.mortality.tab
-06052014 mRFP Position 13 stabilized.tif.mortality.tab
-06052014 mRFP Position 14 stabilized.mortality.tab
-06052014 mRFP Position 15.mortality.tab
