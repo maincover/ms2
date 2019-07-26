@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_dcp-1_
+-------------------------------
+GG(AIC=20472.719203)
+              est         L95%         U95%          se
+beta  1859.693178  1265.262614  2733.392008  365.428659
+s        2.944262     1.587249     5.461446    0.928144
+rate     0.060372     0.055927     0.065170    0.002356
+
+
+GGMFit_params
+CR-TA_dcp-1_
+-------------------------------
+GGM(AIC=20474.720883)
+                 est          L95%          U95%            se
+rate    6.033566e-02  5.587976e-02  6.514687e-02  2.361783e-03
+beta    1.866903e+03  1.265433e+03  2.754258e+03  3.704032e+02
+s       2.963519e+00  1.588046e+00  5.530346e+00  9.433131e-01
+lambda  1.515692e-08  6.189576e-35  3.711599e+18  4.698949e-07 
+
+                 est        L95%        U95%       var
+lifespan  101.837632  100.844198  103.763317  0.000095
+survivorship
+0.13155909263
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2014-09-28 00:00:00']
+
+
+3) Final survivorship:
+0.13155909263
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.29515626092168057, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.00168002551 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000096  0.000069  0.000132  0.000016
+h_max   0.177700  0.102347  0.308533  0.050023
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.233054    0.224210    0.241898   0.004512
+mean      100.458403   99.419017  101.497788   0.530309
+variance  548.315328  506.765137  589.865518  21.199466
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0617223  1475.84  2.05747  101.5844524042168  576.3100644172598   
+
+                            cv  
+gg_params_  0.2363202068634275  
+
+
+8) lifespan stats
+mean 	std 	cv
+97.6225048563 	20.3378470842 	0.208331543163
+
+

@@ -6,12 +6,12 @@ s       4.536946e+02  3.648575e-13  5.641620e+17    8045.516932
 lambda  2.125123e-07  1.868599e-27  2.416863e+13       0.000005
 
 
-TA_ldcC-1_ cluster1 #504
+TA_ldcC-1_ cluster1 #506
                  est          L95%          U95%          se
-rate    6.415391e-02  5.344622e-02  7.700683e-02    0.005977
-beta    4.691446e+02  2.589779e+02  8.498664e+02  142.222408
-s       8.855615e-01  5.603615e-01  1.399488e+00    0.206773
-lambda  8.026071e-08  9.873407e-37  6.524375e+21    0.000003
+rate    6.590160e-02  5.454284e-02  7.962585e-02    0.006361
+beta    4.773496e+02  2.531759e+02  9.000170e+02  154.450893
+s       7.918263e-01  5.048648e-01  1.241895e+00    0.181821
+lambda  1.313345e-07  1.798648e-30  9.589840e+15    0.000004
 
 
 TA_ldcC-1_ cluster2 #392
@@ -27,9 +27,9 @@ TA_ldcC-1_ cluster1:
 dataset+beta(dataset)+s(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  1.315377e-08
-1      beta  1.238615e-01
-2         s  1.908651e-07
+0      rate  7.038697e-09
+1      beta  1.319092e-01
+2         s  3.773280e-08
 
 
 TA_ldcC-1_ cluster2:
@@ -42,4 +42,4 @@ dataset+s(dataset)+lambda(dataset)
 2         s  1.383080e-07
 
 
-[(2, 1198, 4, ['MAX_05072014 Position 72-1.tif.mortality.tab', 'MAX_05072014 Position 77-1.tif.mortality.tab', 'MAX_05072014 Position 84-1.tif.mortality.tab', 'MAX_05072014 Position 89-1.tif.mortality.tab']), (0, 504, 4, ['MAX_05072014 Position 69-1.tif.mortality.tab', 'MAX_05072014 Position 73-1.tif.mortality.tab', 'MAX_05072014 Position 76-1.tif.mortality.tab', 'MAX_05072014 Position 98-1.tif.mortality.tab']), (1, 392, 2, ['MAX_05072014 Position 95-1.tif.mortality.tab', 'MAX_05072014 Position 99-1.tif.mortality.tab'])]
+[(2, 1198, 4, ['MAX_05072014 Position 72-1.tif.mortality.tab', 'MAX_05072014 Position 77-1.tif.mortality.tab', 'MAX_05072014 Position 84-1.tif.mortality.tab', 'MAX_05072014 Position 89-1.tif.mortality.tab']), (0, 506, 4, ['MAX_05072014 Position 69-1.tif.mortality.tab', 'MAX_05072014 Position 73-1.tif.mortality.tab', 'MAX_05072014 Position 76-1.tif.mortality.tab', 'MAX_05072014 Position 98-1.tif.mortality.tab']), (1, 392, 2, ['MAX_05072014 Position 95-1.tif.mortality.tab', 'MAX_05072014 Position 99-1.tif.mortality.tab'])]

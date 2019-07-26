@@ -1,25 +1,25 @@
-TA_ycaD-1_ cluster0 #3162
+TA_ycaD-1_ cluster0 #2486
+                 est          L95%          U95%             se
+rate        0.044139  4.227304e-02  4.608647e-02       0.000973
+beta    99498.518685  1.499900e-02  6.600410e+11  797407.443799
+s        1178.239997  1.749932e-04  7.933165e+09    9451.666755
+lambda      0.000001  1.066488e-18  1.588896e+06       0.000018
+
+
+TA_ycaD-1_ cluster1 #2188
                  est          L95%          U95%            se
-rate    4.206828e-02  4.039783e-02  4.380780e-02  8.696679e-04
-beta    2.159075e+05  3.674295e-08  1.268707e+18  3.238883e+06
-s       2.939959e+03  4.953180e-10  1.745012e+16  4.411816e+04
-lambda  3.546504e-07  5.470790e-24  2.299062e+10  7.004561e-06
+rate    6.405283e-02  6.046846e-02  6.784968e-02  1.881959e-03
+beta    2.200903e+06  5.376608e-05  9.009347e+16  2.743908e+07
+s       1.646909e+03  3.870590e-08  7.007479e+13  2.056483e+04
+lambda  3.062184e-04  1.722047e-04  5.445249e-04  8.993222e-05
 
 
-TA_ycaD-1_ cluster1 #1689
-                 est         L95%          U95%            se
-rate        0.063805     0.055207      0.073742      0.004712
-beta    11182.763847  1806.917283  69208.595470  10399.884284
-s           8.563768     0.695988    105.372701     10.966907
-lambda      0.000293     0.000125      0.000683      0.000127
-
-
-TA_ycaD-1_ cluster2 #1570
-                 est          L95%          U95%          se
-rate    3.912716e-02  3.449441e-02  4.438211e-02    0.002516
-beta    2.799567e+02  5.643271e+01  1.388835e+03  228.766775
-s       8.027195e+00  1.245449e+00  5.173703e+01    7.631458
-lambda  6.029533e-07  1.169312e-26  3.109117e+13    0.000014
+TA_ycaD-1_ cluster2 #1617
+               est          L95%           U95%           se
+rate      0.037578  3.240881e-02       0.043571     0.002837
+beta    713.318318  2.863178e+00  177712.674788  2008.244716
+s        21.780022  6.298812e-02    7531.092009    64.961245
+lambda    0.000002  5.404528e-16    5738.369221     0.000020
 
 
 TA_ycaD-1_ cluster1:
@@ -27,19 +27,19 @@ TA_ycaD-1_ cluster1:
 dataset+s(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  2.544453e-16
-1      beta  9.301054e-01
-2         s  2.173080e-23
+0      rate  2.569160e-18
+1      beta  9.590714e-01
+2         s  1.321077e-25
 
 
 TA_ycaD-1_ cluster2:
 -------
 dataset+beta(dataset)+lambda(dataset)
 -------
-  parameter   p-value
-0      rate  0.000793
-1      beta  0.000004
-2         s  0.277200
+  parameter       p-value
+0      rate  4.691458e-06
+1      beta  1.300338e-07
+2         s  6.849822e-01
 
 
-[(2, 3162, 5, ['MAX_28072014 mRFP Position 15-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 21-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 39-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 58-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 70-1.tif.mortality.tab']), (0, 1689, 6, ['MAX_28072014 mRFP Position 13-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 16-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 68-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 71-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 81-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 9-1.tif.mortality.tab']), (3, 1570, 2, ['MAX_28072014 mRFP Position 32-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 69-1.tif.mortality.tab'])]
+[(2, 2486, 2, ['MAX_28072014 mRFP Position 39-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 51-1.tif.mortality.tab']), (0, 2188, 9, ['MAX_28072014 mRFP Position 13-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 15-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 16-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 21-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 68-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 71-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 73-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 81-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 9-1.tif.mortality.tab']), (1, 1617, 2, ['MAX_28072014 mRFP Position 32-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 69-1.tif.mortality.tab'])]

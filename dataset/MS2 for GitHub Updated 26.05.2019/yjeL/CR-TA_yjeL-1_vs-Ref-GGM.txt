@@ -1,27 +1,45 @@
-TA_yjeL-1_ cluster0 #800
+TA_yjeL-1_ cluster0 #677
                  est          L95%          U95%            se
-rate    1.441606e-01  1.258228e-01  1.651709e-01  1.000705e-02
-beta    4.273327e+07  5.898416e+06  3.095971e+08  4.317653e+07
-s       1.089617e+00  7.645560e-01  1.552883e+00  1.969611e-01
-lambda  1.002528e-03  7.801019e-04  1.288374e-03  1.283136e-04
+rate    1.784170e-01  1.490777e-01  2.135304e-01  1.635418e-02
+beta    5.703717e+08  2.095324e+07  1.552619e+10  9.614999e+08
+s       4.883138e-01  3.608445e-01  6.608121e-01  7.536894e-02
+lambda  9.113065e-04  6.816455e-04  1.218345e-03  1.350105e-04
 
 
-TA_yjeL-1_ cluster1 #294
+TA_yjeL-1_ cluster1 #490
+                 est          L95%          U95%            se
+rate    1.497164e-01  1.273324e-01  1.760354e-01  1.237032e-02
+beta    4.361755e+07  3.608264e+06  5.272594e+08  5.546280e+07
+s       5.993744e-01  4.313724e-01  8.328065e-01  1.005851e-01
+lambda  4.270978e-04  2.641302e-04  6.906160e-04  1.047217e-04
+
+
+TA_yjeL-1_ cluster2 #262
                   est          L95%          U95%             se
-rate         0.095463      0.075163  1.212454e-01       0.011645
-beta    290310.361319  58335.790081  1.444741e+06  237693.719011
-s            2.902068      0.659514  1.276999e+01       2.193877
-lambda       0.002935      0.002265  3.804371e-03       0.000388
+rate         0.097608      0.076486  1.245631e-01       0.012144
+beta    287810.800909  52044.752134  1.591612e+06  251134.128181
+s            2.595909      0.688818  9.783046e+00       1.757190
+lambda       0.002414      0.001787  3.259453e-03       0.000370
 
 
 TA_yjeL-1_ cluster1:
 -------
+dataset+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000281
+1      beta  0.381944
+2         s  1.000000
+
+
+TA_yjeL-1_ cluster2:
+-------
 dataset+beta(dataset)+s(dataset)+lambda(dataset)
 -------
-  parameter        p-value
-0      rate  2.757234e-107
-1      beta   1.163133e-03
-2         s   1.096379e-01
+  parameter       p-value
+0      rate  3.631718e-14
+1      beta  1.219254e-03
+2         s  8.403205e-03
 
 
-[(3, 800, 5, ['MAX_28062016 Position 110-1.tif.mortality.tab', 'MAX_28062016 Position 113-1.tif.mortality.tab', 'MAX_28062016 Position 114-1.tif.mortality.tab', 'MAX_28062016 Position 115-1.tif.mortality.tab', 'MAX_28062016 Position 97-1.tif.mortality.tab']), (1, 294, 4, ['MAX_28062016 Position 101-1.tif.mortality.tab', 'MAX_28062016 Position 104-1.tif.mortality.tab', 'MAX_28062016 Position 117-1.tif.mortality.tab', 'MAX_28062016 Position 53-1.tif.mortality.tab'])]
+[(2, 677, 3, ['MAX_28062016 Position 114-1.tif.mortality.tab', 'MAX_28062016 Position 115-1.tif.mortality.tab', 'MAX_28062016 Position 96-1.tif.mortality.tab']), (3, 490, 3, ['MAX_28062016 Position 110-1.tif.mortality.tab', 'MAX_28062016 Position 113-1.tif.mortality.tab', 'MAX_28062016 Position 97-1.tif.mortality.tab']), (1, 262, 3, ['MAX_28062016 Position 101-1.tif.mortality.tab', 'MAX_28062016 Position 104-1.tif.mortality.tab', 'MAX_28062016 Position 117-1.tif.mortality.tab'])]

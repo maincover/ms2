@@ -1,9 +1,9 @@
-TA_yggF-1_ cluster0 #1376
-                  est           L95%          U95%             se
-rate         0.119193       0.102333  1.388304e-01       0.009275
-beta    484343.321861  116322.260378  2.016712e+06  352497.103535
-s            1.178338       0.737881  1.881712e+00       0.281410
-lambda       0.001902       0.001617  2.237558e-03       0.000158
+TA_yggF-1_ cluster0 #1379
+                  est          L95%           U95%             se
+rate         0.107655      0.094036       0.123247       0.007429
+beta    272383.986144  95356.392265  778060.433553  145865.891220
+s            1.913059      1.093661       3.346373       0.545791
+lambda       0.001817      0.001536       0.002149       0.000155
 
 
-[(4, 1376, 4, ['MAX_07042016 Position 32-1.tif.mortality.tab', 'MAX_07042016 Position 33-1.tif.mortality.tab', 'MAX_07042016 Position 88-1.tif.mortality.tab', 'MAX_07042016 Position 96-1.tif.mortality.tab'])]
+[(2, 1379, 4, ['MAX_07042016 Position 32-1.tif.mortality.tab', 'MAX_07042016 Position 33-1.tif.mortality.tab', 'MAX_07042016 Position 88-1.tif.mortality.tab', 'MAX_07042016 Position 96-1.tif.mortality.tab'])]

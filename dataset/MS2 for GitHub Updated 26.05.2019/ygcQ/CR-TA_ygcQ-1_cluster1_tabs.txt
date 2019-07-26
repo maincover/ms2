@@ -1,3 +1,5 @@
+MAX_25092018 Position 14-1.tif.mortality.tab
+MAX_25092018 Position 172-1.tif.mortality.tab
 MAX_25092018 Position 216-1.tif.mortality.tab
 MAX_25092018 Position 217-1.tif.mortality.tab
 MAX_25092018 Position 219-1.tif.mortality.tab
@@ -5,3 +7,4 @@ MAX_25092018 Position 221-1.tif.mortality.tab
 MAX_25092018 Position 222-1.tif.mortality.tab
 MAX_25092018 Position 228-1.tif.mortality.tab
 MAX_25092018 Position 238-1.tif.mortality.tab
+MAX_25092018 Position 242-1.tif.mortality.tab

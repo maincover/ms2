@@ -1,63 +1,63 @@
-TA_alr-1_ cluster0 #1204
-                 est  L95%  U95%  se
-rate    6.540582e-01   NaN   NaN NaN
-beta    7.537377e+30   NaN   NaN NaN
-s       8.410938e-02   NaN   NaN NaN
-lambda  1.794281e-03   NaN   NaN NaN
-
-
-TA_alr-1_ cluster1 #755
-                 est          L95%          U95%             se
-rate        0.054767  4.180952e-02  7.174011e-02       0.007544
-beta    53997.112818  1.588787e-03  1.835166e+12  477758.437014
-s          64.881038  5.183915e-07  8.120405e+09     617.211759
-lambda      0.002872  2.124311e-03  3.882739e-03       0.000442
-
-
-TA_alr-1_ cluster2 #726
+TA_alr-1_ cluster0 #1381
                  est          L95%          U95%            se
-rate    2.015693e-01  1.689953e-01  2.404221e-01  1.812743e-02
-beta    5.444407e+10  1.156454e+09  2.563143e+12  1.069961e+11
-s       6.538902e-01  4.364214e-01  9.797239e-01  1.348944e-01
-lambda  9.620435e-04  7.515784e-04  1.231445e-03  1.211825e-04
+rate    2.170173e-01  1.810752e-01  2.600936e-01  2.004839e-02
+beta    9.837824e+10  1.491001e+09  6.491127e+12  2.102809e+11
+s       3.731543e-01  2.747281e-01  5.068434e-01  5.829883e-02
+lambda  1.219754e-03  1.038567e-03  1.432552e-03  1.000764e-04
 
 
-TA_alr-1_ cluster3 #602
-                  est          L95%          U95%            se
-rate         0.115663      0.087471  1.529425e-01  1.648701e-02
-beta    746509.181289  34624.422491  1.609488e+07  1.169622e+06
-s            0.971136      0.526959  1.789713e+00  3.029127e-01
-lambda       0.001611      0.001195  2.171408e-03  2.454761e-04
+TA_alr-1_ cluster1 #1135
+                 est          L95%          U95%            se
+rate    2.387706e-01  1.846024e-01  3.088334e-01  3.134516e-02
+beta    2.831063e+11  4.275696e+08  1.874529e+14  9.382344e+11
+s       2.160333e-01  1.531606e-01  3.047155e-01  3.791077e-02
+lambda  2.506217e-03  2.199234e-03  2.856050e-03  1.670824e-04
+
+
+TA_alr-1_ cluster2 #419
+                est      L95%          U95%            se
+rate       0.038711  0.030376  4.933363e-02      0.004789
+beta    3520.593188  2.223506  5.574339e+06  13233.541310
+s         43.525180  0.015331  1.235668e+05    176.573300
+lambda     0.000412  0.000023  7.347327e-03      0.000606
+
+
+TA_alr-1_ cluster3 #343
+                 est          L95%          U95%            se
+rate    2.564298e-01  1.808676e-01  3.635603e-01  4.567284e-02
+beta    1.161580e+12  1.155189e+08  1.168006e+16  5.461812e+12
+s       2.913722e-01  1.776373e-01  4.779276e-01  7.356655e-02
+lambda  2.439895e-03  1.929297e-03  3.085626e-03  2.922940e-04
 
 
 TA_alr-1_ cluster1:
 -------
-dataset+s(dataset)+lambda(dataset)
+dataset+beta(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  1.902523e-46
-1      beta  1.000000e+00
-2         s  5.042484e-19
+0      rate  2.131469e-06
+1      beta  4.408258e-07
+2         s  1.000000e+00
 
 
 TA_alr-1_ cluster2:
 -------
-dataset+beta(dataset)+s(dataset)+lambda(dataset)
+dataset+s(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  5.523688e-54
-1      beta  1.975008e-42
-2         s  1.825301e-42
+0      rate  5.494065e-24
+1      beta  9.939371e-01
+2         s  5.349489e-19
 
 
 TA_alr-1_ cluster3:
 -------
-dataset+beta(dataset)+s(dataset)+lambda(dataset)
+beta(dataset)+lambda(dataset)
 -------
-  parameter   p-value
-0      rate  0.000476
-1      beta  0.000596
-2         s  0.011355
+  parameter       p-value
+0      rate  9.093830e-01
+1      beta  1.023452e-15
+2         s  8.636193e-01
 
 
-[(2, 1204, 12, ['MAX_12072018 Position 117-1.tif.mortality.tab', 'MAX_12072018 Position 126-1.tif.mortality.tab', 'MAX_12072018 Position 127-1.tif.mortality.tab', 'MAX_12072018 Position 128-1.tif.mortality.tab', 'MAX_12072018 Position 129-1.tif.mortality.tab', 'MAX_12072018 Position 130-1.tif.mortality.tab', 'MAX_12072018 Position 144-1.tif.mortality.tab', 'MAX_12072018 Position 145-1.tif.mortality.tab', 'MAX_12072018 Position 146-1.tif.mortality.tab', 'MAX_12072018 Position 147-1.tif.mortality.tab', 'MAX_12072018 Position 149-1.tif.mortality.tab', 'MAX_12072018 Position 151-1.tif.mortality.tab']), (4, 755, 8, ['MAX_12072018 Position 118-1.tif.mortality.tab', 'MAX_12072018 Position 119-1.tif.mortality.tab', 'MAX_12072018 Position 120-1.tif.mortality.tab', 'MAX_12072018 Position 121-1.tif.mortality.tab', 'MAX_12072018 Position 125-1.tif.mortality.tab', 'MAX_12072018 Position 134-1.tif.mortality.tab', 'MAX_12072018 Position 186-1.tif.mortality.tab', 'MAX_12072018 Position 38-1.tif.mortality.tab']), (0, 726, 15, ['MAX_12072018 Position 133-1.tif.mortality.tab', 'MAX_12072018 Position 141-1.tif.mortality.tab', 'MAX_12072018 Position 142-1.tif.mortality.tab', 'MAX_12072018 Position 143-1.tif.mortality.tab', 'MAX_12072018 Position 152-1.tif.mortality.tab', 'MAX_12072018 Position 153-1.tif.mortality.tab', 'MAX_12072018 Position 159-1.tif.mortality.tab', 'MAX_12072018 Position 184-1.tif.mortality.tab', 'MAX_12072018 Position 196-1.tif.mortality.tab', 'MAX_12072018 Position 197-1.tif.mortality.tab', 'MAX_12072018 Position 198-1.tif.mortality.tab', 'MAX_12072018 Position 199-1.tif.mortality.tab', 'MAX_12072018 Position 210-1.tif.mortality.tab', 'MAX_12072018 Position 212-1.tif.mortality.tab', 'MAX_12072018 Position 213-1.tif.mortality.tab']), (1, 602, 7, ['MAX_12072018 Position 116-1.tif.mortality.tab', 'MAX_12072018 Position 122-1.tif.mortality.tab', 'MAX_12072018 Position 123-1.tif.mortality.tab', 'MAX_12072018 Position 124-1.tif.mortality.tab', 'MAX_12072018 Position 137-1.tif.mortality.tab', 'MAX_12072018 Position 150-1.tif.mortality.tab', 'MAX_12072018 Position 206-1.tif.mortality.tab'])]
+[(5, 1381, 20, ['MAX_12072018 Position 127-1.tif.mortality.tab', 'MAX_12072018 Position 128-1.tif.mortality.tab', 'MAX_12072018 Position 129-1.tif.mortality.tab', 'MAX_12072018 Position 133-1.tif.mortality.tab', 'MAX_12072018 Position 141-1.tif.mortality.tab', 'MAX_12072018 Position 142-1.tif.mortality.tab', 'MAX_12072018 Position 143-1.tif.mortality.tab', 'MAX_12072018 Position 149-1.tif.mortality.tab', 'MAX_12072018 Position 150-1.tif.mortality.tab', 'MAX_12072018 Position 151-1.tif.mortality.tab', 'MAX_12072018 Position 152-1.tif.mortality.tab', 'MAX_12072018 Position 153-1.tif.mortality.tab', 'MAX_12072018 Position 159-1.tif.mortality.tab', 'MAX_12072018 Position 184-1.tif.mortality.tab', 'MAX_12072018 Position 196-1.tif.mortality.tab', 'MAX_12072018 Position 197-1.tif.mortality.tab', 'MAX_12072018 Position 198-1.tif.mortality.tab', 'MAX_12072018 Position 199-1.tif.mortality.tab', 'MAX_12072018 Position 210-1.tif.mortality.tab', 'MAX_12072018 Position 212-1.tif.mortality.tab']), (3, 1135, 12, ['MAX_12072018 Position 116-1.tif.mortality.tab', 'MAX_12072018 Position 118-1.tif.mortality.tab', 'MAX_12072018 Position 119-1.tif.mortality.tab', 'MAX_12072018 Position 120-1.tif.mortality.tab', 'MAX_12072018 Position 126-1.tif.mortality.tab', 'MAX_12072018 Position 130-1.tif.mortality.tab', 'MAX_12072018 Position 137-1.tif.mortality.tab', 'MAX_12072018 Position 144-1.tif.mortality.tab', 'MAX_12072018 Position 145-1.tif.mortality.tab', 'MAX_12072018 Position 146-1.tif.mortality.tab', 'MAX_12072018 Position 147-1.tif.mortality.tab', 'MAX_12072018 Position 206-1.tif.mortality.tab']), (0, 419, 5, ['MAX_12072018 Position 121-1.tif.mortality.tab', 'MAX_12072018 Position 124-1.tif.mortality.tab', 'MAX_12072018 Position 125-1.tif.mortality.tab', 'MAX_12072018 Position 186-1.tif.mortality.tab', 'MAX_12072018 Position 38-1.tif.mortality.tab']), (2, 343, 3, ['MAX_12072018 Position 122-1.tif.mortality.tab', 'MAX_12072018 Position 123-1.tif.mortality.tab', 'MAX_12072018 Position 134-1.tif.mortality.tab'])]

@@ -1,27 +1,63 @@
-TA_eptA-1_ cluster0 #1051
+TA_eptA-1_ cluster0 #766
                  est          L95%          U95%         se
-rate    5.866442e-02  5.107003e-02  6.738814e-02   0.004150
-beta    2.995817e+02  2.051955e+02  4.373837e+02  57.842316
-s       8.563669e-01  5.723611e-01  1.281297e+00   0.176052
-lambda  3.483886e-07  2.609173e-21  4.651842e+07   0.000006
+rate    5.799514e-02  4.922306e-02  6.833050e-02   0.004853
+beta    3.334133e+02  2.140962e+02  5.192266e+02  75.352355
+s       8.940841e-01  5.458658e-01  1.464437e+00   0.225088
+lambda  3.281069e-07  1.024425e-25  1.050873e+12   0.000007
 
 
-TA_eptA-1_ cluster1 #1020
-                est         L95%          U95%           se
-rate       0.064765     0.054839      0.076488     0.005497
-beta    7404.447538  3689.392949  14860.396846  2631.720882
-s          2.512481     0.941868      6.702172     1.257752
-lambda     0.000400     0.000211      0.000760     0.000131
+TA_eptA-1_ cluster1 #764
+                est         L95%         U95%           se
+rate       0.061282     0.048664     0.077173     0.007209
+beta    3812.820936  1683.141799  8637.182856  1590.728696
+s          2.077924     0.643686     6.707880     1.242445
+lambda     0.000456     0.000208     0.000996     0.000182
+
+
+TA_eptA-1_ cluster2 #634
+                est        L95%         U95%          se
+rate       0.056167    0.042039     0.075043    0.008303
+beta    1604.809025  552.727095  4659.464012  872.750208
+s          1.090491    0.356257     3.337961    0.622444
+lambda     0.000292    0.000087     0.000975    0.000180
+
+
+TA_eptA-1_ cluster3 #243
+                 est          L95%          U95%          se
+rate    8.430338e-02  6.342639e-02  1.120521e-01    0.012239
+beta    3.535894e+02  1.096830e+02  1.139880e+03  211.172843
+s       3.786710e-01  2.343849e-01  6.117789e-01    0.092680
+lambda  3.852580e-07  1.230337e-30  1.206366e+17    0.000011
 
 
 TA_eptA-1_ cluster1:
 -------
-beta(dataset)+s(dataset)+lambda(dataset)
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.021209
+1      beta  0.000003
+2         s  0.115053
+
+
+TA_eptA-1_ cluster2:
+-------
+beta(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  1.000000e+00
-1      beta  1.431482e-17
-2         s  1.389433e-17
+0      rate  8.207864e-01
+1      beta  5.608997e-40
+2         s  7.198565e-01
 
 
-[(0, 1051, 7, ['MAX_01112018 Position 120-1.tif.mortality.tab', 'MAX_01112018 Position 131-1.tif.mortality.tab', 'MAX_01112018 Position 136-1.tif.mortality.tab', 'MAX_01112018 Position 140-1.tif.mortality.tab', 'MAX_01112018 Position 141-1.tif.mortality.tab', 'MAX_01112018 Position 148-1.tif.mortality.tab', 'MAX_01112018 Position 202-1.tif.mortality.tab']), (2, 1020, 4, ['MAX_01112018 Position 100-1.tif.mortality.tab', 'MAX_01112018 Position 97-1.tif.mortality.tab', 'MAX_01112018 Position 98-1.tif.mortality.tab', 'MAX_01112018 Position 99-1.tif.mortality.tab'])]
+TA_eptA-1_ cluster3:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000036
+1      beta  1.000000
+2         s  0.002783
+
+
+[(0, 766, 3, ['MAX_01112018 Position 120-1.tif.mortality.tab', 'MAX_01112018 Position 131-1.tif.mortality.tab', 'MAX_01112018 Position 148-1.tif.mortality.tab']), (3, 764, 5, ['MAX_01112018 Position 136-1.tif.mortality.tab', 'MAX_01112018 Position 140-1.tif.mortality.tab', 'MAX_01112018 Position 141-1.tif.mortality.tab', 'MAX_01112018 Position 97-1.tif.mortality.tab', 'MAX_01112018 Position 98-1.tif.mortality.tab']), (2, 634, 2, ['MAX_01112018 Position 100-1.tif.mortality.tab', 'MAX_01112018 Position 99-1.tif.mortality.tab']), (1, 243, 3, ['MAX_01112018 Position 179-1.tif.mortality.tab', 'MAX_01112018 Position 188-1.tif.mortality.tab', 'MAX_01112018 Position 202-1.tif.mortality.tab'])]

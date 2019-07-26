@@ -1,33 +1,25 @@
-TA_lsrC-1_ cluster0 #811
-                 est          L95%          U95%            se
-rate    3.404069e-02  3.184201e-02  3.639118e-02  1.159661e-03
-beta    1.461919e+05  4.222877e-19  5.061023e+28  4.042824e+06
-s       3.326097e+03  9.344110e-21  1.183946e+27  9.202784e+04
-lambda  4.017197e-07  1.127367e-36  1.431466e+23  1.394683e-05
+TA_lsrC-1_ cluster0 #1187
+                 est          L95%          U95%             se
+rate    3.684736e-02  3.483033e-02  3.898120e-02       0.001058
+beta    6.141709e+04  1.017537e-09  3.707048e+18  994327.302447
+s       1.000283e+03  1.565476e-11  6.391453e+16   16223.406252
+lambda  7.912621e-08  2.198651e-45  2.847635e+30       0.000003
 
 
-TA_lsrC-1_ cluster1 #787
-                 est          L95%          U95%            se
-rate    4.299642e-02  4.043488e-02  4.572024e-02  1.347482e-03
-beta    2.518399e+05  3.118458e-08  2.033805e+18  3.818771e+06
-s       2.095734e+03  2.518014e-10  1.744272e+16  3.181088e+04
-lambda  7.059067e-08  1.465986e-42  3.399106e+27  2.876251e-06
+TA_lsrC-1_ cluster1 #710
+                est       L95%           U95%           se
+rate       0.044280   0.036725       0.053389     0.004226
+beta    2770.810123  59.098964  129907.332744  5439.485264
+s         22.277641   0.240717    2061.725849    51.463605
+lambda     0.000170   0.000006       0.004741     0.000289
 
 
-TA_lsrC-1_ cluster2 #711
-                est      L95%          U95%            se
-rate       0.043659  0.037421  5.093761e-02      0.003435
-beta    5173.352121  9.710730  2.756082e+06  16570.986001
-s         44.379992  0.049332  3.992509e+04    154.018872
-lambda     0.000147  0.000004  4.922689e-03      0.000263
-
-
-TA_lsrC-1_ cluster3 #665
+TA_lsrC-1_ cluster2 #663
                  est          L95%          U95%         se
-rate    4.779872e-02  4.040552e-02  5.654469e-02   0.004098
-beta    1.541578e+02  1.090259e+02  2.179724e+02  27.244880
-s       1.504688e+00  8.725318e-01  2.594846e+00   0.418358
-lambda  3.096367e-07  4.243499e-22  2.259336e+08   0.000005
+rate    4.820170e-02  4.066078e-02  5.714116e-02   0.004184
+beta    1.526065e+02  1.078102e+02  2.160160e+02  27.056212
+s       1.456545e+00  8.469014e-01  2.505043e+00   0.402964
+lambda  1.138098e-07  2.957118e-32  4.380169e+17   0.000003
 
 
 TA_lsrC-1_ cluster1:
@@ -35,29 +27,19 @@ TA_lsrC-1_ cluster1:
 dataset+s(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.000086
-1      beta  1.000000
-2         s  0.000863
+0      rate  0.001861
+1      beta  0.701060
+2         s  0.021612
 
 
 TA_lsrC-1_ cluster2:
 -------
-dataset+beta(dataset)+lambda(dataset)
--------
-  parameter   p-value
-0      rate  0.000285
-1      beta  0.004651
-2         s  0.942170
-
-
-TA_lsrC-1_ cluster3:
--------
 dataset+beta(dataset)+s(dataset)+lambda(dataset)
 -------
-  parameter   p-value
-0      rate  0.002123
-1      beta  0.000177
-2         s  0.000067
+  parameter       p-value
+0      rate  2.095848e-08
+1      beta  1.983149e-07
+2         s  2.329013e-05
 
 
-[(0, 811, 2, ['MAX_18102018 Position 248-1.tif.mortality.tab', 'MAX_18102018 Position 265-1.tif.mortality.tab']), (3, 787, 2, ['MAX_18102018 Position 249-1.tif.mortality.tab', 'MAX_18102018 Position 257-1.tif.mortality.tab']), (2, 711, 3, ['MAX_18102018 Position 196-1.tif.mortality.tab', 'MAX_18102018 Position 198-1.tif.mortality.tab', 'MAX_18102018 Position 200-1.tif.mortality.tab']), (1, 665, 2, ['MAX_18102018 Position 199-1.tif.mortality.tab', 'MAX_18102018 Position 254-1.tif.mortality.tab'])]
+[(3, 1187, 3, ['MAX_18102018 Position 248-1.tif.mortality.tab', 'MAX_18102018 Position 257-1.tif.mortality.tab', 'MAX_18102018 Position 265-1.tif.mortality.tab']), (0, 710, 3, ['MAX_18102018 Position 196-1.tif.mortality.tab', 'MAX_18102018 Position 198-1.tif.mortality.tab', 'MAX_18102018 Position 200-1.tif.mortality.tab']), (4, 663, 2, ['MAX_18102018 Position 199-1.tif.mortality.tab', 'MAX_18102018 Position 254-1.tif.mortality.tab'])]

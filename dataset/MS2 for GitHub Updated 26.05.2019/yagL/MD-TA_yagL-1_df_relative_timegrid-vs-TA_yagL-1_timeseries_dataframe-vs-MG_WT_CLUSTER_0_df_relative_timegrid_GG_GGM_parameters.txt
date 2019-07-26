@@ -12,13 +12,13 @@ lifespan  68.29953  66.625739  69.614456  0.000143
 
 TA_yagL-1_df_relative_timegrid.pickle
 -------------------------------
-GGM(AIC=19373.406568)
-                 est      L95%      U95%            se
-rate    4.314659e-02  0.040768  0.045664  1.248127e-03
-beta    1.694821e+09  0.000000       inf  1.777162e+12
-s       7.842731e+06  0.000000       inf  8.223763e+09
-lambda  7.813750e-05  0.000009  0.000717  8.837075e-05
-                 est        L95%        U95%       var
-lifespan  115.486213  113.592704  117.083276  0.000101
+GGM(AIC=18381.787206)
+                 est  L95%  U95%  se
+rate    4.475862e-02   NaN   NaN NaN
+beta    2.102804e+09   NaN   NaN NaN
+s       8.611848e+06   NaN   NaN NaN
+lambda  7.599927e-05   NaN   NaN NaN
+                est       L95%        U95%       var
+lifespan  114.10832  112.92663  115.520479  0.000107
 
 

@@ -1,0 +1,4 @@
+/home/xsong/mg-wt/dataset/MG strains/MG aqpZ/MAX_Result of MAX_09032016 Position 2.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains/MG aqpZ/MAX_Result of MAX_09032016 Position 3.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains/MG aqpZ/MAX_Result of MAX_09032016 Position 19.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains/MG aqpZ/MAX_Result of MAX_09032016 position 43-1.tif.mortality.tab

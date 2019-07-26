@@ -1,45 +1,45 @@
-TA_casE-1_ cluster0 #533
-                 est  L95%  U95%  se
-rate    1.491786e-04   NaN   NaN NaN
-beta    9.839266e+13   NaN   NaN NaN
-s       7.202240e+10   NaN   NaN NaN
-lambda  7.765564e-03   NaN   NaN NaN
+TA_casE-1_ cluster0 #564
+                 est          L95%          U95%            se
+rate    1.920522e-01  1.226439e-01  3.007411e-01  4.394573e-02
+beta    1.167925e+11  2.207891e+06  6.178064e+15  6.480981e+11
+s       1.958625e-01  1.011777e-01  3.791558e-01  6.600832e-02
+lambda  5.208212e-03  4.585186e-03  5.915894e-03  3.385558e-04
 
 
-TA_casE-1_ cluster1 #401
+TA_casE-1_ cluster1 #364
                  est           L95%          U95%            se
-rate    1.880533e-01       0.110700  3.194585e-01  5.084266e-02
-beta    2.741671e+11  978987.296436  7.678098e+16  1.754524e+12
-s       2.849086e-01       0.103517  7.841486e-01  1.471711e-01
-lambda  5.840313e-03       0.005048  6.756441e-03  4.341931e-04
+rate    1.847507e-01       0.108500  3.145877e-01  5.017165e-02
+beta    2.100434e+11  861892.833544  5.118761e+16  1.329266e+12
+s       2.913706e-01       0.100761  8.425581e-01  1.578554e-01
+lambda  5.836954e-03       0.005008  6.802807e-03  4.560241e-04
 
 
 TA_casE-1_ cluster2 #259
-                 est        L95%          U95%            se
-rate    1.027136e-01    0.069387  1.520480e-01  2.055627e-02
-beta    2.606813e+08  137.489916  4.942525e+14  1.922594e+09
-s       2.197591e+01    0.000003  1.631300e+08  1.773815e+02
-lambda  9.750937e-03    0.008372  1.135669e-02  7.584180e-04
+                 est  L95%  U95%  se
+rate    1.108098e-01   NaN   NaN NaN
+beta    5.934759e+08   NaN   NaN NaN
+s       1.270830e+01   NaN   NaN NaN
+lambda  9.854449e-03   NaN   NaN NaN
 
 
 TA_casE-1_ cluster2:
 -------
-beta(dataset)+s(dataset)+lambda(dataset)
+beta(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  1.000000
-1      beta  0.007333
-2         s  0.064415
+0      rate  0.411797
+1      beta  0.024691
+2         s  0.266824
 
 
 TA_casE-1_ cluster1:
 -------
-beta(dataset)+s(dataset)+lambda(dataset)
+beta(dataset)+lambda(dataset)
 -------
   parameter   p-value
 0      rate  1.000000
-1      beta  0.044173
-2         s  0.143564
+1      beta  0.040908
+2         s  0.161892
 
 
-[(1, 533, 6, ['MAX_25092018 Position 203-1.tif.mortality.tab', 'MAX_25092018 Position 39-1.tif.mortality.tab', 'MAX_25092018 Position 40-1.tif.mortality.tab', 'MAX_25092018 Position 41-1.tif.mortality.tab', 'MAX_25092018 Position 75-1.tif.mortality.tab', 'MAX_25092018 Position 9-1.tif.mortality.tab']), (2, 401, 6, ['MAX_25092018 Position 148-1.tif.mortality.tab', 'MAX_25092018 Position 169-1.tif.mortality.tab', 'MAX_25092018 Position 177-1.tif.mortality.tab', 'MAX_25092018 Position 201-1.tif.mortality.tab', 'MAX_25092018 Position 204-1.tif.mortality.tab', 'MAX_25092018 Position 74-1.tif.mortality.tab']), (3, 259, 3, ['MAX_25092018 Position 10-1.tif.mortality.tab', 'MAX_25092018 Position 202-1.tif.mortality.tab', 'MAX_25092018 Position 205-1.tif.mortality.tab'])]
+[(3, 564, 7, ['MAX_25092018 Position 203-1.tif.mortality.tab', 'MAX_25092018 Position 39-1.tif.mortality.tab', 'MAX_25092018 Position 40-1.tif.mortality.tab', 'MAX_25092018 Position 41-1.tif.mortality.tab', 'MAX_25092018 Position 74-1.tif.mortality.tab', 'MAX_25092018 Position 75-1.tif.mortality.tab', 'MAX_25092018 Position 9-1.tif.mortality.tab']), (0, 364, 5, ['MAX_25092018 Position 148-1.tif.mortality.tab', 'MAX_25092018 Position 169-1.tif.mortality.tab', 'MAX_25092018 Position 177-1.tif.mortality.tab', 'MAX_25092018 Position 201-1.tif.mortality.tab', 'MAX_25092018 Position 204-1.tif.mortality.tab']), (1, 259, 3, ['MAX_25092018 Position 10-1.tif.mortality.tab', 'MAX_25092018 Position 202-1.tif.mortality.tab', 'MAX_25092018 Position 205-1.tif.mortality.tab'])]

@@ -1,0 +1,11 @@
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 196-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 198-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 199-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 200-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 229-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 230-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 248-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 249-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 254-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 257-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/lsrC/MAX_18102018 Position 265-1.tif.mortality.tab

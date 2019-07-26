@@ -1,25 +1,25 @@
-TA_recF-1_ cluster0 #552
-                 est          L95%         U95%          se
-rate    7.271197e-02  5.845762e-02     0.090442    0.008095
-beta    6.728644e+02  2.878544e+02  1572.831895  291.496120
-s       5.997621e-01  3.904311e-01     0.921327    0.131363
-lambda  9.537218e-07  9.323697e-16   975.562848    0.000010
+TA_recF-1_ cluster0 #554
+               est          L95%         U95%          se
+rate      0.073039  5.835077e-02     0.091424    0.008367
+beta    662.650539  2.765107e+02  1588.024612  295.492928
+s         0.587247  3.803084e-01     0.906789    0.130175
+lambda    0.000002  4.747889e-12     1.135426    0.000016
 
 
-TA_recF-1_ cluster1 #386
-                 est  L95%  U95%  se
-rate    3.414925e-02   NaN   NaN NaN
-beta    3.914234e+04   NaN   NaN NaN
-s       5.974909e+02   NaN   NaN NaN
-lambda  1.295322e-07   NaN   NaN NaN
+TA_recF-1_ cluster1 #394
+                  est  L95%  U95%  se
+rate         0.034516   NaN   NaN NaN
+beta    292446.224119   NaN   NaN NaN
+s         4198.106309   NaN   NaN NaN
+lambda       0.000003   NaN   NaN NaN
 
 
 TA_recF-1_ cluster2 #312
                  est          L95%          U95%            se
-rate    1.327492e-01  1.016214e-01  1.734117e-01      0.018098
-beta    1.387395e+04  1.700776e+03  1.131758e+05  14857.640117
-s       3.026124e-01  2.050475e-01  4.466003e-01      0.060093
-lambda  1.348474e-07  1.793709e-31  1.013754e+17      0.000004
+rate    1.278035e-01  9.742813e-02  1.676491e-01      0.017696
+beta    1.108476e+04  1.432562e+03  8.577076e+04  11571.950887
+s       3.261970e-01  2.181644e-01  4.877262e-01      0.066947
+lambda  3.959390e-07  7.595137e-21  2.064054e+07      0.000006
 
 
 TA_recF-1_ cluster2:
@@ -27,9 +27,9 @@ TA_recF-1_ cluster2:
 dataset+beta(dataset)+s(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.001024
-1      beta  0.003567
-2         s  0.020594
+0      rate  0.002509
+1      beta  0.006560
+2         s  0.049564
 
 
 TA_recF-1_ cluster1:
@@ -37,9 +37,9 @@ TA_recF-1_ cluster1:
 dataset+s(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.000186
-1      beta  0.693841
-2         s  0.001238
+0      rate  0.000074
+1      beta  0.546199
+2         s  0.000641
 
 
-[(1, 552, 3, ['MAX_05072014 Position 24-1.tif.mortality.tab', 'MAX_05072014 Position 25-1.tif.mortality.tab', 'MAX_05072014 Position 67-1.tif.mortality.tab']), (0, 386, 2, ['MAX_05072014 Position 22-1.tif.mortality.tab', 'MAX_05072014 Position 26-1.tif.mortality.tab']), (2, 312, 2, ['MAX_05072014 Position 63-1.tif.mortality.tab', 'MAX_05072014 Position 78-1.tif.mortality.tab'])]
+[(0, 554, 3, ['MAX_05072014 Position 24-1.tif.mortality.tab', 'MAX_05072014 Position 25-1.tif.mortality.tab', 'MAX_05072014 Position 67-1.tif.mortality.tab']), (1, 394, 2, ['MAX_05072014 Position 22-1.tif.mortality.tab', 'MAX_05072014 Position 26-1.tif.mortality.tab']), (2, 312, 2, ['MAX_05072014 Position 63-1.tif.mortality.tab', 'MAX_05072014 Position 78-1.tif.mortality.tab'])]

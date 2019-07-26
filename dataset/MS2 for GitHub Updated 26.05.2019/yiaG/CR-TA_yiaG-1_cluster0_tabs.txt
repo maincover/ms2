@@ -3,4 +3,3 @@ MAX_01112018 Position 135-1.tif.mortality.tab
 MAX_01112018 Position 142-1.tif.mortality.tab
 MAX_01112018 Position 191-1.tif.mortality.tab
 MAX_01112018 Position 219-1.tif.mortality.tab
-MAX_01112018 Position 249-1.tif.mortality.tab

@@ -1,27 +1,63 @@
-TA_zapE-1_ cluster0 #4413
-                 est          L95%           U95%          se
-rate    5.407995e-02  5.071397e-02       0.057669    0.001773
-beta    6.187508e+02  4.031589e+02     949.631911  135.234832
-s       3.352487e+00  1.865105e+00       6.026025    1.003002
-lambda  1.641343e-07  5.725636e-20  470516.469804    0.000002
+TA_zapE-1_ cluster0 #3498
+                 est          L95%        U95%         se
+rate    5.137094e-02  4.751710e-02    0.055537   0.002044
+beta    4.097521e+02  2.607977e+02  643.781758  94.455319
+s       2.748333e+00  1.461401e+00    5.168557   0.885651
+lambda  3.568487e-07  3.173089e-16  401.315522   0.000004
 
 
-TA_zapE-1_ cluster1 #1675
-                est  L95%  U95%  se
-rate       0.064003   NaN   NaN NaN
-beta    2696.524971   NaN   NaN NaN
-s          4.362094   NaN   NaN NaN
-lambda     0.000115   NaN   NaN NaN
+TA_zapE-1_ cluster1 #992
+               est        L95%         U95%          se
+rate      0.062615    0.049378     0.079401    0.007588
+beta    693.810235  375.199333  1282.978404  217.612993
+s         2.115219    0.801775     5.580311    1.046930
+lambda    0.000175    0.000006     0.005295    0.000304
+
+
+TA_zapE-1_ cluster2 #930
+                est          L95%           U95%           se
+rate       0.055593  4.524205e-02       0.068311     0.005844
+beta    3738.739768  3.696342e+01  378162.384555  8806.372488
+s         11.076703  5.038108e-02    2435.306286    30.478356
+lambda     0.000014  1.822895e-15  104536.993602     0.000160
+
+
+TA_zapE-1_ cluster3 #778
+                est        L95%         U95%           se
+rate       0.082053    0.062535     0.107663     0.011372
+beta    2838.866376  837.980985  9617.357007  1767.320474
+s          1.192626    0.548689     2.592280     0.472423
+lambda     0.000282    0.000054     0.001478     0.000238
 
 
 TA_zapE-1_ cluster1:
 -------
 dataset+beta(dataset)+lambda(dataset)
 -------
-  parameter       p-value
-0      rate  1.328368e-07
-1      beta  7.532199e-10
-2         s  7.384663e-01
+  parameter   p-value
+0      rate  0.000921
+1      beta  0.031174
+2         s  1.000000
 
 
-[(1, 4413, 6, ['MAX_28072014 mRFP Position 30-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 31-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 36-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 53-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 54-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 55-1.tif.mortality.tab']), (0, 1675, 4, ['MAX_28072014 mRFP Position 33-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 48-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 50-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 52-1.tif.mortality.tab'])]
+TA_zapE-1_ cluster2:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000535
+1      beta  0.000005
+2         s  0.391771
+
+
+TA_zapE-1_ cluster3:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000011
+1      beta  0.002786
+2         s  0.123701
+
+
+[(3, 3498, 4, ['MAX_28072014 mRFP Position 36-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 53-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 54-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 55-1.tif.mortality.tab']), (0, 992, 2, ['MAX_28072014 mRFP Position 30-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 31-1.tif.mortality.tab']), (1, 930, 2, ['MAX_28072014 mRFP Position 33-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 50-1.tif.mortality.tab']), (2, 778, 2, ['MAX_28072014 mRFP Position 48-1.tif.mortality.tab', 'MAX_28072014 mRFP Position 52-1.tif.mortality.tab'])]

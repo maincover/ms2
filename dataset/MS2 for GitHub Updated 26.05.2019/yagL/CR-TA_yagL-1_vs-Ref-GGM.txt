@@ -1,25 +1,25 @@
-TA_yagL-1_ cluster0 #964
-                 est          L95%           U95%            se
-rate        0.097042      0.080077       0.117600      0.009514
-beta    54318.675348  11403.399492  258740.254930  43260.536742
-s           0.524541      0.337815       0.814480      0.117763
-lambda      0.000463      0.000310       0.000692      0.000095
+TA_yagL-1_ cluster0 #990
+                 est          L95%          U95%           se
+rate    4.042207e-02  3.490411e-02  4.681236e-02     0.003027
+beta    1.391989e+03  1.861504e+01  1.040896e+05  3064.220481
+s       1.495245e+01  1.334942e-01  1.674797e+03    35.997712
+lambda  4.271750e-07  3.435433e-21  5.311659e+07     0.000007
 
 
-TA_yagL-1_ cluster1 #406
-                est          L95%           U95%           se
-rate       0.040920  3.322011e-02       0.050405     0.004352
-beta    1618.102495  1.051650e+01  248966.565324  4157.662342
-s         10.206076  3.714950e-02    2803.913694    29.242966
-lambda     0.000002  7.116783e-18  322611.877471     0.000020
-
-
-TA_yagL-1_ cluster2 #264
+TA_yagL-1_ cluster1 #675
                  est  L95%  U95%  se
-rate    9.120111e-02   NaN   NaN NaN
-beta    1.181545e+09   NaN   NaN NaN
-s       6.626666e+03   NaN   NaN NaN
-lambda  3.549495e-04   NaN   NaN NaN
+rate    7.108168e-02   NaN   NaN NaN
+beta    1.536968e+09   NaN   NaN NaN
+s       1.437295e+05   NaN   NaN NaN
+lambda  2.404621e-04   NaN   NaN NaN
+
+
+TA_yagL-1_ cluster2 #415
+                 est          L95%          U95%             se
+rate        0.040372  3.334483e-02  4.887914e-02       0.003939
+beta    36342.889811  6.229160e-08  2.120359e+16  502360.551246
+s         253.311952  3.544215e-10  1.810470e+14    3527.712418
+lambda      0.000167  2.669977e-06  1.050475e-02       0.000354
 
 
 TA_yagL-1_ cluster1:
@@ -27,19 +27,19 @@ TA_yagL-1_ cluster1:
 dataset+s(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  6.414575e-09
-1      beta  8.811622e-01
-2         s  7.331028e-09
+0      rate  4.154627e-23
+1      beta  7.414528e-01
+2         s  2.614312e-27
 
 
 TA_yagL-1_ cluster2:
 -------
-dataset+beta(dataset)+lambda(dataset)
+beta(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  1.477743e-05
-1      beta  9.427037e-07
-2         s  1.000000e+00
+0      rate  7.835019e-01
+1      beta  5.519698e-08
+2         s  6.343282e-01
 
 
-[(4, 964, 4, ['MAX_12072015 Position 2-1.tif.mortality.tab', 'MAX_12072015 Position 25-1.tif.mortality.tab', 'MAX_12072015 Position 98-1.tif.mortality.tab', 'MAX_12072015 Position 99-1.tif.mortality.tab']), (3, 406, 2, ['MAX_12072015 Position 1-1.tif.mortality.tab', 'MAX_12072015 Position 10-1.tif.mortality.tab']), (2, 264, 2, ['MAX_12072015 Position 174-1.tif.mortality.tab', 'MAX_12072015 Position 6-1.tif.mortality.tab'])]
+[(0, 990, 2, ['MAX_12072015 Position 163-1.tif.mortality.tab', 'MAX_12072015 Position 179-1.tif.mortality.tab']), (1, 675, 4, ['MAX_12072015 Position 174-1.tif.mortality.tab', 'MAX_12072015 Position 2-1.tif.mortality.tab', 'MAX_12072015 Position 6-1.tif.mortality.tab', 'MAX_12072015 Position 98-1.tif.mortality.tab']), (2, 415, 3, ['MAX_12072015 Position 1-1.tif.mortality.tab', 'MAX_12072015 Position 10-1.tif.mortality.tab', 'MAX_12072015 Position 25-1.tif.mortality.tab'])]

@@ -1,27 +1,27 @@
-TA_atoS-1_ cluster0 #990
-                 est           L95%          U95%            se
-rate    9.446641e-02       0.082143  1.086387e-01  6.737299e-03
-beta    2.340294e+06  574516.637782  9.533193e+06  1.677046e+06
-s       1.780291e+00       0.996062  3.181965e+00  5.274864e-01
-lambda  1.748954e-03       0.001489  2.053658e-03  1.433142e-04
+TA_atoS-1_ cluster0 #729
+                 est          L95%          U95%            se
+rate    1.636983e-01  1.280888e-01  2.092074e-01  2.048782e-02
+beta    1.200445e+09  1.048372e+07  1.374577e+11  2.903552e+09
+s       2.626235e-01  1.779721e-01  3.875389e-01  5.213637e-02
+lambda  1.380614e-03  1.120790e-03  1.700671e-03  1.468652e-04
 
 
-TA_atoS-1_ cluster1 #215
-                 est         L95%          U95%            se
-rate    1.030238e-01     0.063657  1.667354e-01  2.530688e-02
-beta    2.320629e+06  8034.237380  6.702965e+08  6.708497e+06
-s       5.437244e-01     0.182212  1.622485e+00  3.032905e-01
-lambda  5.984288e-04     0.000321  1.117043e-03  1.905642e-04
+TA_atoS-1_ cluster1 #394
+                 est  L95%  U95%  se
+rate    9.609323e-02   NaN   NaN NaN
+beta    4.745469e+10   NaN   NaN NaN
+s       1.962752e+04   NaN   NaN NaN
+lambda  4.432896e-03   NaN   NaN NaN
 
 
 TA_atoS-1_ cluster1:
 -------
 beta(dataset)+s(dataset)+lambda(dataset)
 -------
-  parameter   p-value
-0      rate  0.732228
-1      beta  0.033626
-2         s  0.001545
+  parameter       p-value
+0      rate  1.000000e+00
+1      beta  2.464803e-07
+2         s  1.318185e-03
 
 
-[(2, 990, 12, ['MAX_25092018 Position 108-1.tif.mortality.tab', 'MAX_25092018 Position 109-1.tif.mortality.tab', 'MAX_25092018 Position 117-1.tif.mortality.tab', 'MAX_25092018 Position 118-1.tif.mortality.tab', 'MAX_25092018 Position 121-1.tif.mortality.tab', 'MAX_25092018 Position 134-1.tif.mortality.tab', 'MAX_25092018 Position 135-1.tif.mortality.tab', 'MAX_25092018 Position 136-1.tif.mortality.tab', 'MAX_25092018 Position 139-1.tif.mortality.tab', 'MAX_25092018 Position 147-1.tif.mortality.tab', 'MAX_25092018 Position 152-1.tif.mortality.tab', 'MAX_25092018 Position 195-1.tif.mortality.tab']), (1, 215, 3, ['MAX_25092018 Position 119-1.tif.mortality.tab', 'MAX_25092018 Position 138-1.tif.mortality.tab', 'MAX_25092018 Position 194-1.tif.mortality.tab'])]
+[(0, 729, 9, ['MAX_25092018 Position 117-1.tif.mortality.tab', 'MAX_25092018 Position 118-1.tif.mortality.tab', 'MAX_25092018 Position 119-1.tif.mortality.tab', 'MAX_25092018 Position 134-1.tif.mortality.tab', 'MAX_25092018 Position 135-1.tif.mortality.tab', 'MAX_25092018 Position 136-1.tif.mortality.tab', 'MAX_25092018 Position 138-1.tif.mortality.tab', 'MAX_25092018 Position 194-1.tif.mortality.tab', 'MAX_25092018 Position 195-1.tif.mortality.tab']), (1, 394, 6, ['MAX_25092018 Position 108-1.tif.mortality.tab', 'MAX_25092018 Position 109-1.tif.mortality.tab', 'MAX_25092018 Position 121-1.tif.mortality.tab', 'MAX_25092018 Position 139-1.tif.mortality.tab', 'MAX_25092018 Position 147-1.tif.mortality.tab', 'MAX_25092018 Position 152-1.tif.mortality.tab'])]

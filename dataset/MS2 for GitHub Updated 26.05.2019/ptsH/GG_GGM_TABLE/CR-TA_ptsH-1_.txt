@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_ptsH-1_
+-------------------------------
+GG(AIC=8056.220228)
+             est        L95%         U95%          se
+beta  391.306132  150.893450  1014.759017  190.249398
+s       0.177775    0.137035     0.230626    0.023608
+rate    0.125888    0.102551     0.154536    0.013169
+
+
+GGMFit_params
+CR-TA_ptsH-1_
+-------------------------------
+GGM(AIC=8058.225242)
+               est          L95%          U95%          se
+rate      0.125912  1.023951e-01  1.548311e-01    0.013282
+beta    391.797964  1.495142e+02  1.026696e+03  192.575217
+s         0.177722  1.367235e-01  2.310137e-01    0.023781
+lambda    0.000001  1.466401e-23  7.970090e+10    0.000021 
+
+               est       L95%       U95%       var
+lifespan  77.33125  76.085933  82.264025  0.000297
+survivorship
+0.0504175268448
+
+
+1) Number of tab files in the cluster
+3
+
+
+2) Number of dates in the cluster
+1 ['2018-10-18 00:00:00']
+
+
+3) Final survivorship:
+0.0504175268448
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.0044625101963340109, 0.98461538461538467)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.00501348429 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000057  0.000021  0.000153  0.000029
+h_max   0.022378  0.020398  0.024551  0.001058
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                  est         L95%         U95%          se
+cv           0.519710     0.490986     0.548433    0.014655
+mean        90.011500    86.696081    93.326919    1.691571
+variance  2193.056135  1842.834374  2543.277896  178.687855
+
+
+                rate     beta         s               mean           variance  \
+gg_params_  0.136918  592.894  0.162485  89.84837768157875  2176.916701216665   
+
+                            cv  
+gg_params_  0.5192908446225636  
+
+
+8) lifespan stats
+mean 	std 	cv
+87.5128702339 	35.9427038853 	0.410713347525
+
+

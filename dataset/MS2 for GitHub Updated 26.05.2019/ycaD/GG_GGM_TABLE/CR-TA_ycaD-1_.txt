@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_ycaD-1_
+-------------------------------
+GG(AIC=17594.207284)
+               est      L95%          U95%             se
+beta  26748.009477  7.148127  1.000900e+08  112280.448360
+s       314.774373  0.081711  1.212608e+06    1325.999861
+rate      0.044215  0.042323  4.619237e-02       0.000987
+
+
+GGMFit_params
+CR-TA_ycaD-1_
+-------------------------------
+GGM(AIC=17596.135560)
+                 est          L95%          U95%             se
+rate        0.044139  4.227304e-02  4.608647e-02       0.000973
+beta    99498.518685  1.499900e-02  6.600410e+11  797407.443799
+s        1178.239997  1.749932e-04  7.933165e+09    9451.666755
+lambda      0.000001  1.066488e-18  1.588896e+06       0.000018 
+
+                est       L95%       U95%       var
+lifespan  89.571207  87.685304  90.686005  0.000113
+survivorship
+0.0326363618648
+
+
+1) Number of tab files in the cluster
+2
+
+
+2) Number of dates in the cluster
+1 ['2014-07-28 00:00:00']
+
+
+3) Final survivorship:
+0.0326363618648
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.55394540059366293, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+1.92827563921 0.78884246192
+
+
+6) initial mortality (h_init, h_max)
+              est      L95%          U95%         se
+h_init   0.000520  0.000444      0.000610   0.000042
+h_max   13.910087  0.003635  53236.923951  58.550430
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                   est          L95%          U95%            se
+cv        3.368973e-01  8.822346e-02  5.855712e-01  1.268768e-01
+mean      1.635834e+03 -1.253686e+05  1.286402e+05  6.479936e+04
+variance  4.202105e+09 -3.638351e+11  3.722393e+11  1.877775e+11
+
+
+               rate    beta        s               mean           variance  \
+gg_params_  0.04353  791112  10117.2  88.29834716624227  714.9764781248108   
+
+                            cv  
+gg_params_  0.3028260996341617  
+
+
+8) lifespan stats
+mean 	std 	cv
+82.3642060424 	24.7186225746 	0.300113650848
+
+

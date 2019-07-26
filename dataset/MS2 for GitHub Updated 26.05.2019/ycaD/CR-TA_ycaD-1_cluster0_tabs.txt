@@ -1,5 +1,2 @@
-MAX_28072014 mRFP Position 15-1.tif.mortality.tab
-MAX_28072014 mRFP Position 21-1.tif.mortality.tab
 MAX_28072014 mRFP Position 39-1.tif.mortality.tab
-MAX_28072014 mRFP Position 58-1.tif.mortality.tab
-MAX_28072014 mRFP Position 70-1.tif.mortality.tab
+MAX_28072014 mRFP Position 51-1.tif.mortality.tab

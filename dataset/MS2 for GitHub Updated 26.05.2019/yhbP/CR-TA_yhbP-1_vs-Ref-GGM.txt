@@ -1,27 +1,27 @@
-TA_yhbP-1_ cluster0 #710
+TA_yhbP-1_ cluster0 #817
                 est         L95%          U95%           se
-rate       0.096889     0.084580      0.110989     0.006716
-beta    8486.136532  3717.014003  19374.291616  3574.258295
-s          1.208317     0.814695      1.792120     0.243006
-lambda     0.000102     0.000016      0.000644     0.000096
+rate       0.098759     0.085478      0.114104     0.007277
+beta    9403.629529  3771.640363  23445.567391  4383.254848
+s          1.040538     0.703283      1.539521     0.207970
+lambda     0.000154     0.000038      0.000620     0.000109
 
 
-TA_yhbP-1_ cluster1 #343
-                 est          L95%          U95%          se
-rate    7.026024e-02  5.756344e-02  8.575758e-02    0.007145
-beta    1.225589e+03  5.847680e+02  2.568657e+03  462.706792
-s       1.421554e+00  5.824750e-01  3.469361e+00    0.647123
-lambda  5.558405e-07  1.002973e-20  3.080429e+07    0.000009
+TA_yhbP-1_ cluster1 #236
+               est          L95%         U95%          se
+rate      0.070802  5.286956e-02     0.094817    0.010551
+beta    493.185054  1.854161e+02  1311.813999  246.164689
+s         0.658510  2.707906e-01     1.601368    0.298564
+lambda    0.000003  1.061762e-13    74.325978    0.000024
 
 
 TA_yhbP-1_ cluster1:
 -------
 dataset+beta(dataset)+lambda(dataset)
 -------
-  parameter   p-value
-0      rate  0.000019
-1      beta  0.000400
-2         s  0.734555
+  parameter       p-value
+0      rate  1.033184e-07
+1      beta  3.445972e-06
+2         s  4.107407e-01
 
 
-[(1, 710, 6, ['MAX_02062014 Position 52-1.tif.mortality.tab', 'MAX_02062014 Position 53-1.tif.mortality.tab', 'MAX_02062014 Position 66-1.tif.mortality.tab', 'MAX_02062014 Position 67-1.tif.mortality.tab', 'MAX_02062014 Position 68-1.tif.mortality.tab', 'MAX_02062014 Position 69-1.tif.mortality.tab']), (0, 343, 4, ['MAX_02062014 Position 54-1.tif.mortality.tab', 'MAX_02062014 Position 59-1.tif.mortality.tab', 'MAX_02062014 Position 71-1.tif.mortality.tab', 'MAX_02062014 Position 72-1.tif.mortality.tab'])]
+[(1, 817, 7, ['MAX_02062014 Position 52-1.tif.mortality.tab', 'MAX_02062014 Position 53-1.tif.mortality.tab', 'MAX_02062014 Position 66-1.tif.mortality.tab', 'MAX_02062014 Position 67-1.tif.mortality.tab', 'MAX_02062014 Position 68-1.tif.mortality.tab', 'MAX_02062014 Position 69-1.tif.mortality.tab', 'MAX_02062014 Position 71-1.tif.mortality.tab']), (0, 236, 3, ['MAX_02062014 Position 54-1.tif.mortality.tab', 'MAX_02062014 Position 59-1.tif.mortality.tab', 'MAX_02062014 Position 72-1.tif.mortality.tab'])]

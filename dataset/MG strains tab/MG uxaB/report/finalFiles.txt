@@ -1,0 +1,10 @@
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_24012015 Position 1-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_24012015 Position 14-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_24012015 Position 15-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_06082014 Position 45 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_06082014 Position 46 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_06082014 Position 51 mask.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_16052015 Position 44.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_16052015 Position 48.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_16052015 Position 49.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG uxaB/MAX_MAX_24012015 Position 15.tif.mortality.tab

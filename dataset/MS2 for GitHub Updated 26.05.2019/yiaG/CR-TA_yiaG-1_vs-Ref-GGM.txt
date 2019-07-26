@@ -1,27 +1,45 @@
-TA_yiaG-1_ cluster0 #724
-               est          L95%         U95%          se
-rate      0.060290  5.168291e-02     0.070331    0.004738
-beta    440.018929  2.688693e+02   720.114376  110.588736
-s         0.880383  5.625291e-01     1.377840    0.201196
-lambda    0.000003  4.462832e-15  2238.058513    0.000033
+TA_yiaG-1_ cluster0 #767
+               est          L95%        U95%         se
+rate      0.056218  4.846454e-02    0.065212   0.004257
+beta    382.162117  2.497570e+02  584.759909  82.937809
+s         1.129815  6.843858e-01    1.865149   0.288965
+lambda    0.000004  3.307010e-13   45.510399   0.000032
 
 
-TA_yiaG-1_ cluster1 #452
-               est          L95%          U95%         se
-rate      0.078671  6.260795e-02  9.885525e-02   0.009167
-beta    122.198865  5.955483e+01  2.507364e+02  44.812418
-s         0.376570  2.597270e-01  5.459767e-01   0.071371
-lambda    0.000001  3.901916e-22  4.459440e+09   0.000024
+TA_yiaG-1_ cluster1 #257
+               est        L95%         U95%          se
+rate      0.110939    0.083409     0.147557    0.016145
+beta    824.611692  166.058243  4094.855082  674.247728
+s         0.434701    0.282739     0.668335    0.095399
+lambda    0.000317    0.000034     0.002932    0.000360
+
+
+TA_yiaG-1_ cluster2 #235
+               est          L95%           U95%         se
+rate      0.071997  5.120098e-02       0.101241   0.012522
+beta    141.883954  5.646181e+01     356.542859  66.704416
+s         0.544538  2.863621e-01       1.035479   0.178557
+lambda    0.000001  3.565917e-18  586793.910209   0.000020
 
 
 TA_yiaG-1_ cluster1:
 -------
-dataset+beta(dataset)+s(dataset)+lambda(dataset)
+dataset+s(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  7.020966e-02
-1      beta  5.238967e-15
-2         s  4.921443e-03
+0      rate  1.221056e-12
+1      beta  3.403963e-01
+2         s  2.897658e-03
 
 
-[(0, 724, 4, ['MAX_01112018 Position 125-1.tif.mortality.tab', 'MAX_01112018 Position 135-1.tif.mortality.tab', 'MAX_01112018 Position 191-1.tif.mortality.tab', 'MAX_01112018 Position 219-1.tif.mortality.tab']), (1, 452, 5, ['MAX_01112018 Position 142-1.tif.mortality.tab', 'MAX_01112018 Position 190-1.tif.mortality.tab', 'MAX_01112018 Position 192-1.tif.mortality.tab', 'MAX_01112018 Position 194-1.tif.mortality.tab', 'MAX_01112018 Position 249-1.tif.mortality.tab'])]
+TA_yiaG-1_ cluster2:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.044697e-01
+1      beta  1.678550e-11
+2         s  2.175593e-01
+
+
+[(0, 767, 5, ['MAX_01112018 Position 125-1.tif.mortality.tab', 'MAX_01112018 Position 135-1.tif.mortality.tab', 'MAX_01112018 Position 142-1.tif.mortality.tab', 'MAX_01112018 Position 191-1.tif.mortality.tab', 'MAX_01112018 Position 219-1.tif.mortality.tab']), (1, 257, 2, ['MAX_01112018 Position 194-1.tif.mortality.tab', 'MAX_01112018 Position 195-1.tif.mortality.tab']), (2, 235, 3, ['MAX_01112018 Position 190-1.tif.mortality.tab', 'MAX_01112018 Position 192-1.tif.mortality.tab', 'MAX_01112018 Position 249-1.tif.mortality.tab'])]

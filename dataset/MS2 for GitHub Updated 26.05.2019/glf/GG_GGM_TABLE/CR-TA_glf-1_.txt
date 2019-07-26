@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_glf-1_
+-------------------------------
+GG(AIC=8251.043312)
+              est         L95%         U95%           se
+beta  3350.756154  1578.496617  7112.822852  1286.839069
+s        0.642496     0.453395     0.910468     0.114274
+rate     0.076287     0.065736     0.088530     0.005794
+
+
+GGMFit_params
+CR-TA_glf-1_
+-------------------------------
+GGM(AIC=8253.059823)
+                 est          L95%         U95%           se
+rate    7.626247e-02  6.571645e-02     0.088501     0.005791
+beta    3.345335e+03  1.576498e+03  7098.813343  1284.155682
+s       6.428854e-01  4.536441e-01     0.911070     0.114361
+lambda  2.185598e-07  9.299673e-17   513.656436     0.000002 
+
+                 est        L95%        U95%       var
+lifespan  115.554065  112.507449  118.546865  0.000249
+survivorship
+0.0621250051417
+
+
+1) Number of tab files in the cluster
+4
+
+
+2) Number of dates in the cluster
+1 ['2014-07-05 00:00:00']
+
+
+3) Final survivorship:
+0.0621250051417
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.24305388658670876, 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.01651095188 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000015  0.000006  0.000036  0.000007
+h_max   0.049023  0.039414  0.060974  0.005457
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%        U95%         se
+cv          0.249069    0.231147    0.266990   0.009144
+mean      117.025975  114.945425  119.106525   1.061524
+variance  851.140698  714.566955  987.714441  69.681762
+
+
+                 rate     beta         s               mean  \
+gg_params_  0.0790316  4767.05  0.624511  118.2790474283422   
+
+                     variance                  cv  
+gg_params_  806.4301051208513  0.2400908161138801  
+
+
+8) lifespan stats
+mean 	std 	cv
+113.310889432 	22.7987084879 	0.201204920393
+
+

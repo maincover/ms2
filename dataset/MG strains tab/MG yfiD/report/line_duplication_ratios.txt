@@ -1,0 +1,1 @@
+/home/xsong/mg-wt/dataset/MG strains tab/MG yfiD/MAX_MAX_10012014 Position 85.tif.mortality.tab	/home/xsong/coliSurvivalAnalysis/xsong/Microfluidics Database/moaE/MAX_MAX_10012014 Position 85.tif.mortality.tab	1.0

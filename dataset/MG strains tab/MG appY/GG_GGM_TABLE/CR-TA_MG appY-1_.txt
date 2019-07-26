@@ -48,7 +48,7 @@ pvalue 	fit_proportion
 6) initial mortality (h_init, h_max)
              est      L95%      U95%        se
 h_init  0.003056  0.002283  0.004092  0.000455
-h_max   0.199492  0.106630  0.373226  0.063758
+h_max   0.199401  0.106631  0.372880  0.063681
 
 
 7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)

@@ -1,17 +1,17 @@
-TA_glf-1_ cluster0 #593
-                est          L95%          U95%           se
-rate       0.085936  6.823073e-02      0.108235     0.010115
-beta    5379.713196  1.428271e+03  20263.176510  3640.074735
-s          0.509837  3.185988e-01      0.815865     0.122300
-lambda     0.000009  1.577609e-07      0.000509     0.000018
-
-
-TA_glf-1_ cluster1 #428
+TA_glf-1_ cluster0 #594
                  est          L95%          U95%           se
-rate    7.253007e-02  5.934627e-02  8.864267e-02     0.007424
-beta    3.432112e+03  1.252882e+03  9.401840e+03  1764.645186
-s       7.596186e-01  4.530718e-01  1.273574e+00     0.200282
-lambda  2.419190e-07  1.100301e-24  5.318983e+10     0.000005
+rate    8.621921e-02  6.921381e-02  1.074027e-01     0.009664
+beta    5.276905e+03  1.470923e+03  1.893078e+04  3439.338193
+s       4.960409e-01  3.187184e-01  7.720190e-01     0.111953
+lambda  1.231349e-07  1.166090e-22  1.300261e+08     0.000002
+
+
+TA_glf-1_ cluster1 #429
+                 est          L95%          U95%           se
+rate    7.028878e-02  5.725896e-02  8.628366e-02     0.007353
+beta    3.023318e+03  1.150365e+03  7.945693e+03  1490.515612
+s       8.092716e-01  4.642561e-01  1.410688e+00     0.229448
+lambda  5.493284e-08  2.866364e-42  1.052768e+27     0.000002
 
 
 TA_glf-1_ cluster1:
@@ -19,9 +19,9 @@ TA_glf-1_ cluster1:
 beta(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.868379
-1      beta  0.009163
-2         s  0.741661
+0      rate  0.868059
+1      beta  0.005043
+2         s  0.701737
 
 
-[(3, 593, 2, ['MAX_05072014 Position 80-1.tif.mortality.tab', 'MAX_05072014 Position 92-1.tif.mortality.tab']), (2, 428, 2, ['MAX_05072014 Position 51-1.tif.mortality.tab', 'MAX_05072014 Position 56-1.tif.mortality.tab'])]
+[(1, 594, 2, ['MAX_05072014 Position 80-1.tif.mortality.tab', 'MAX_05072014 Position 92-1.tif.mortality.tab']), (0, 429, 2, ['MAX_05072014 Position 51-1.tif.mortality.tab', 'MAX_05072014 Position 56-1.tif.mortality.tab'])]

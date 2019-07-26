@@ -1,33 +1,33 @@
 TA_yigZ-1_ cluster0 #1304
-                 est      L95%          U95%            se
-rate    9.464898e-02  0.089100  1.005430e-01  2.917307e-03
-beta    1.120671e+09  0.541573  2.318996e+18  1.226499e+10
-s       6.795776e+03  0.000003  1.410095e+13  7.438462e+04
-lambda  1.390848e-03  0.001163  1.662761e-03  1.267152e-04
-
-
-TA_yigZ-1_ cluster1 #855
                  est          L95%          U95%            se
-rate    1.296782e-01  1.090034e-01  1.542743e-01  1.149105e-02
-beta    1.101019e+07  1.011619e+06  1.198320e+08  1.341060e+07
-s       5.739162e-01  3.802431e-01  8.662347e-01  1.205459e-01
-lambda  1.577680e-03  1.300617e-03  1.913765e-03  1.554502e-04
+rate    9.433178e-02  8.896879e-02  1.000181e-01  2.817136e-03
+beta    4.041728e+09  4.960288e-09  3.293270e+27  8.504642e+10
+s       2.493200e+04  3.054151e-14  2.035277e+22  5.246450e+05
+lambda  1.615297e-03  1.374260e-03  1.898610e-03  1.331849e-04
 
 
-TA_yigZ-1_ cluster2 #720
-                 est      L95%          U95%            se
-rate    9.275888e-02  0.085798  1.002848e-01  3.692005e-03
-beta    4.885513e+08  8.560477  2.788190e+16  4.451831e+09
-s       3.391014e+03  0.000059  1.935548e+11  3.090022e+04
-lambda  7.694438e-04  0.000550  1.076887e-03  1.319707e-04
-
-
-TA_yigZ-1_ cluster3 #717
+TA_yigZ-1_ cluster1 #750
                  est          L95%          U95%            se
-rate    8.116672e-02  7.369524e-02  8.939568e-02  3.999071e-03
-beta    1.388554e+08  2.299667e-05  8.384185e+20  2.084932e+09
-s       5.043566e+03  8.265386e-10  3.077601e+16  7.575690e+04
-lambda  1.862352e-03  1.478453e-03  2.345935e-03  2.193473e-04
+rate    1.309841e-01  1.102626e-01  1.555997e-01  1.150884e-02
+beta    1.236086e+07  1.107158e+06  1.380028e+08  1.521636e+07
+s       5.385143e-01  3.664966e-01  7.912698e-01  1.057334e-01
+lambda  1.079853e-03  8.442814e-04  1.381153e-03  1.355868e-04
+
+
+TA_yigZ-1_ cluster2 #724
+                 est          L95%          U95%            se
+rate    8.961545e-02  8.300061e-02  9.675746e-02  3.506028e-03
+beta    5.796194e+08  2.819590e-05  1.191516e+22  9.065360e+09
+s       5.930186e+03  2.843693e-10  1.236670e+17  9.279265e+04
+lambda  7.156982e-04  5.043655e-04  1.015581e-03  1.277900e-04
+
+
+TA_yigZ-1_ cluster3 #697
+                  est          L95%          U95%             se
+rate         0.103316      0.080138  1.331974e-01       0.013391
+beta    393430.180025  28639.922497  5.404599e+06  525941.906562
+s            0.979707      0.549105  1.747984e+00       0.289401
+lambda       0.001724      0.001328  2.238864e-03       0.000230
 
 
 TA_yigZ-1_ cluster4 #185
@@ -38,44 +38,4 @@ s       132.787175   NaN   NaN NaN
 lambda    0.011637   NaN   NaN NaN
 
 
-TA_yigZ-1_ cluster3:
--------
-dataset+s(dataset)+lambda(dataset)
--------
-  parameter   p-value
-0      rate  0.008533
-1      beta  0.892259
-2         s  0.008710
-
-
-TA_yigZ-1_ cluster2:
--------
-dataset+lambda(dataset)
--------
-  parameter   p-value
-0      rate  0.023961
-1      beta  0.859476
-2         s  0.855935
-
-
-TA_yigZ-1_ cluster1:
--------
-dataset+s(dataset)+lambda(dataset)
--------
-  parameter       p-value
-0      rate  4.588858e-11
-1      beta  2.848919e-01
-2         s  1.094889e-09
-
-
-TA_yigZ-1_ cluster4:
--------
-beta(dataset)+lambda(dataset)
--------
-  parameter       p-value
-0      rate  9.041997e-01
-1      beta  2.101635e-26
-2         s  1.000000e+00
-
-
-[(4, 1304, 4, ['MAX_10102016 Position 135-1.tif.mortality.tab', 'MAX_10102016 Position 142-1.tif.mortality.tab', 'MAX_10102016 Position 143-1.tif.mortality.tab', 'MAX_10102016 Position 148-1.tif.mortality.tab']), (1, 855, 10, ['MAX_10102016 Position 121-1.tif.mortality.tab', 'MAX_10102016 Position 122-1.tif.mortality.tab', 'MAX_10102016 Position 123-1.tif.mortality.tab', 'MAX_10102016 Position 124-1.tif.mortality.tab', 'MAX_10102016 Position 129-1.tif.mortality.tab', 'MAX_10102016 Position 131-1.tif.mortality.tab', 'MAX_10102016 Position 132-1.tif.mortality.tab', 'MAX_10102016 Position 134-1.tif.mortality.tab', 'MAX_10102016 Position 59-1.tif.mortality.tab', 'MAX_10102016 Position 60-1.tif.mortality.tab']), (2, 720, 3, ['MAX_10102016 Position 146-1.tif.mortality.tab', 'MAX_10102016 Position 149-1.tif.mortality.tab', 'MAX_10102016 Position 150-1.tif.mortality.tab']), (5, 717, 3, ['MAX_10102016 Position 136-1.tif.mortality.tab', 'MAX_10102016 Position 137-1.tif.mortality.tab', 'MAX_10102016 Position 147-1.tif.mortality.tab']), (0, 185, 3, ['MAX_10102016 Position 52-1.tif.mortality.tab', 'MAX_10102016 Position 56-1.tif.mortality.tab', 'MAX_10102016 Position 57-1.tif.mortality.tab'])]
+[(5, 1304, 4, ['MAX_10102016 Position 142-1.tif.mortality.tab', 'MAX_10102016 Position 143-1.tif.mortality.tab', 'MAX_10102016 Position 147-1.tif.mortality.tab', 'MAX_10102016 Position 148-1.tif.mortality.tab']), (0, 750, 8, ['MAX_10102016 Position 121-1.tif.mortality.tab', 'MAX_10102016 Position 122-1.tif.mortality.tab', 'MAX_10102016 Position 123-1.tif.mortality.tab', 'MAX_10102016 Position 129-1.tif.mortality.tab', 'MAX_10102016 Position 131-1.tif.mortality.tab', 'MAX_10102016 Position 132-1.tif.mortality.tab', 'MAX_10102016 Position 134-1.tif.mortality.tab', 'MAX_10102016 Position 60-1.tif.mortality.tab']), (2, 724, 3, ['MAX_10102016 Position 146-1.tif.mortality.tab', 'MAX_10102016 Position 149-1.tif.mortality.tab', 'MAX_10102016 Position 150-1.tif.mortality.tab']), (4, 697, 4, ['MAX_10102016 Position 124-1.tif.mortality.tab', 'MAX_10102016 Position 135-1.tif.mortality.tab', 'MAX_10102016 Position 136-1.tif.mortality.tab', 'MAX_10102016 Position 59-1.tif.mortality.tab']), (1, 185, 3, ['MAX_10102016 Position 52-1.tif.mortality.tab', 'MAX_10102016 Position 56-1.tif.mortality.tab', 'MAX_10102016 Position 57-1.tif.mortality.tab'])]

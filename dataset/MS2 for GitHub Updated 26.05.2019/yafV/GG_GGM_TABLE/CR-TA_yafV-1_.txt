@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_yafV-1_
+-------------------------------
+GG(AIC=6516.606886)
+             est        L95%         U95%          se
+beta  608.100467  323.807456  1141.994018  195.523729
+s       2.760447    1.104876     6.896764    1.289631
+rate    0.046476    0.040803     0.052938    0.003087
+
+
+GGMFit_params
+CR-TA_yafV-1_
+-------------------------------
+GGM(AIC=6518.610659)
+                 est          L95%          U95%          se
+rate    4.647596e-02  4.080016e-02  5.294134e-02    0.003089
+beta    6.084632e+02  3.238600e+02  1.143171e+03  195.775120
+s       2.761694e+00  1.104516e+00  6.905243e+00    1.291308
+lambda  1.655287e-07  4.128448e-27  6.636813e+12    0.000004 
+
+                 est        L95%        U95%       var
+lifespan  113.479029  110.906208  115.917441  0.000317
+survivorship
+0.165141229452
+
+
+1) Number of tab files in the cluster
+7
+
+
+2) Number of dates in the cluster
+1 ['2018-11-01 00:00:00']
+
+
+3) Final survivorship:
+0.165141229452
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+(0.00029172105182620343, 0.99718706047819972)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.0037735645 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%      U95%        se
+h_init  0.000211  0.000135  0.000330  0.000048
+h_max   0.128225  0.057117  0.287858  0.052906
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                 est        L95%         U95%         se
+cv          0.278638    0.256316     0.300960   0.011389
+mean      108.666719  105.951492   111.381946   1.385345
+variance  918.680104  752.119402  1085.240807  84.981512
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0516821  550.673  1.57192  109.3110017220108  899.1758495034499   
+
+                           cv  
+gg_params_  0.274320613113149  
+
+
+8) lifespan stats
+mean 	std 	cv
+104.62830125 	26.9727596244 	0.257796019836
+
+

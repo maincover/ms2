@@ -1,0 +1,27 @@
+TA_sugE-1_ cluster0 #1231
+                est         L95%          U95%           se
+rate       0.079728     0.070768      0.089822     0.004849
+beta    7736.899766  3533.512838  16940.540683  3093.666268
+s          1.027666     0.770424      1.370802     0.151062
+lambda     0.001369     0.001089      0.001720     0.000160
+
+
+TA_sugE-1_ cluster1 #712
+                  est          L95%          U95%            se
+rate         0.036373  3.203841e-02  4.129368e-02  2.354758e-03
+beta    199118.990440  2.107228e-07  1.881541e+17  2.801369e+06
+s         2827.595999  2.925334e-09  2.733123e+15  3.981363e+04
+lambda       0.000275  1.851509e-05  4.083943e-03  3.785431e-04
+
+
+TA_sugE-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  8.142948e-14
+1      beta  6.070270e-01
+2         s  9.117032e-13
+
+
+[(5, 1231, 2, ['MAX_18102018 Position 144-1.tif.mortality.tab', 'MAX_18102018 Position 145-1.tif.mortality.tab']), (4, 712, 2, ['MAX_18102018 Position 142-1.tif.mortality.tab', 'MAX_18102018 Position 191-1.tif.mortality.tab'])]

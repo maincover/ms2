@@ -1,25 +1,25 @@
-TA_hybG-1_ cluster0 #830
+TA_hybG-1_ cluster0 #766
+                 est         L95%          U95%            se
+rate    9.760506e-02     0.089596  1.063302e-01  4.263846e-03
+beta    4.615287e+07  8779.356772  2.426246e+11  2.017415e+08
+s       4.194089e+02     0.079406  2.215246e+06  1.834312e+03
+lambda  5.878448e-04     0.000391  8.839054e-04  1.223361e-04
+
+
+TA_hybG-1_ cluster1 #272
+                 est  L95%  U95%  se
+rate    6.269258e-02   NaN   NaN NaN
+beta    1.560685e+06   NaN   NaN NaN
+s       1.027095e+03   NaN   NaN NaN
+lambda  7.844725e-04   NaN   NaN NaN
+
+
+TA_hybG-1_ cluster2 #249
                  est          L95%          U95%            se
-rate    9.370703e-02  8.644307e-02  1.015814e-01  3.857701e-03
-beta    1.854606e+08  2.433796e-02  1.413250e+18  2.153093e+09
-s       2.638111e+03  3.440366e-07  2.022933e+13  3.063541e+04
-lambda  5.655257e-04  3.813657e-04  8.386159e-04  1.136834e-04
-
-
-TA_hybG-1_ cluster1 #249
-                 est          L95%          U95%            se
-rate    1.449528e-01  1.249556e-01  1.681502e-01  1.097886e-02
-beta    1.367965e+10  8.015530e-03  2.334628e+22  1.965826e+11
-s       5.163190e+02  2.280415e-10  1.169021e+15  7.494197e+03
-lambda  1.316590e-03  8.781941e-04  1.973834e-03  2.720102e-04
-
-
-TA_hybG-1_ cluster2 #208
-                 est          L95%          U95%             se
-rate        0.070218  4.916755e-02  1.002798e-01       0.012767
-beta    73601.188231  7.882144e-03  6.872667e+11  602698.603146
-s          23.963470  3.414986e-07  1.681553e+09     220.889212
-lambda      0.001014  5.098117e-04  2.014879e-03       0.000355
+rate    1.438365e-01  1.238179e-01  1.670917e-01  1.099822e-02
+beta    2.194066e+10  1.798505e-06  2.676626e+26  4.146431e+11
+s       9.389718e+02  6.442157e-14  1.368591e+19  1.783031e+04
+lambda  1.312597e-03  8.748727e-04  1.969328e-03  2.716890e-04
 
 
 TA_hybG-1_ cluster2:
@@ -27,19 +27,19 @@ TA_hybG-1_ cluster2:
 dataset+beta(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.001242
-1      beta  0.000436
+0      rate  0.000016
+1      beta  0.000034
 2         s  1.000000
 
 
 TA_hybG-1_ cluster1:
 -------
-dataset+beta(dataset)+lambda(dataset)
+beta(dataset)+s(dataset)+lambda(dataset)
 -------
   parameter       p-value
-0      rate  7.613192e-07
-1      beta  1.711839e-06
-2         s  9.706379e-01
+0      rate  5.822466e-01
+1      beta  4.219441e-08
+2         s  4.228749e-08
 
 
-[(2, 830, 3, ['MAX_07042016 Position 118-1.tif.mortality.tab', 'MAX_07042016 Position 119-1.tif.mortality.tab', 'MAX_07042016 Position 84-1.tif.mortality.tab']), (3, 249, 2, ['MAX_07042016 Position 116-1.tif.mortality.tab', 'MAX_07042016 Position 40-1.tif.mortality.tab']), (4, 208, 3, ['MAX_07042016 Position 117-1.tif.mortality.tab', 'MAX_07042016 Position 120-1.tif.mortality.tab', 'MAX_07042016 Position 125-1.tif.mortality.tab'])]
+[(0, 766, 2, ['MAX_07042016 Position 118-1.tif.mortality.tab', 'MAX_07042016 Position 84-1.tif.mortality.tab']), (1, 272, 4, ['MAX_07042016 Position 117-1.tif.mortality.tab', 'MAX_07042016 Position 119-1.tif.mortality.tab', 'MAX_07042016 Position 120-1.tif.mortality.tab', 'MAX_07042016 Position 125-1.tif.mortality.tab']), (2, 249, 2, ['MAX_07042016 Position 116-1.tif.mortality.tab', 'MAX_07042016 Position 40-1.tif.mortality.tab'])]

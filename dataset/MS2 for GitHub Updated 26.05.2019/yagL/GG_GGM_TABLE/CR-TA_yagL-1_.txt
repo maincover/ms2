@@ -1,0 +1,72 @@
+GGFit_params
+CR-TA_yagL-1_
+-------------------------------
+GG(AIC=8073.559344)
+              est       L95%          U95%           se
+beta  1288.168877  30.986804  53551.151639  2449.810692
+s       13.735068   0.225928    835.008372    28.784532
+rate     0.040518   0.035218      0.046616     0.002898
+
+
+GGMFit_params
+CR-TA_yagL-1_
+-------------------------------
+GGM(AIC=8075.565239)
+                 est          L95%          U95%           se
+rate    4.042207e-02  3.490411e-02  4.681236e-02     0.003027
+beta    1.391989e+03  1.861504e+01  1.040896e+05  3064.220481
+s       1.495245e+01  1.334942e-01  1.674797e+03    35.997712
+lambda  4.271750e-07  3.435433e-21  5.311659e+07     0.000007 
+
+                 est        L95%        U95%       var
+lifespan  101.760912  100.276478  103.134359  0.000263
+survivorship
+0.0824841877433
+
+
+1) Number of tab files in the cluster
+2
+
+
+2) Number of dates in the cluster
+1 ['2015-07-12 00:00:00']
+
+
+3) Final survivorship:
+0.0824841877433
+
+
+4) GGM Goodness-of-fit statistic (K-S), p-value, and fit proportions:
+pvalue 	fit_proportion
+('>= 0.8', 1.0)
+
+
+5) AIC(GGM)-AIC(GG), likelihood-ratio test pvalue
+2.0058947406 1.0
+
+
+6) initial mortality (h_init, h_max)
+             est      L95%       U95%        se
+h_init  0.000432  0.000300   0.000622  0.000080
+h_max   0.556097  0.010348  29.883879  1.130411
+
+
+7) GammaGompertz parameters and their functions: b, beta, s, CV(b, beta, s)
+                   est          L95%          U95%             se
+cv            0.327245  1.557530e-01  4.987374e-01       0.087498
+mean        111.818471 -1.613683e+02  3.850052e+02     139.383554
+variance  22062.341374 -1.453753e+06  1.497878e+06  752981.041407
+
+
+                 rate     beta        s               mean           variance  \
+gg_params_  0.0412433  3139.44  31.7057  99.04021686529578  836.9832927171051   
+
+                           cv  
+gg_params_  0.292110260388443  
+
+
+8) lifespan stats
+mean 	std 	cv
+96.5929996445 	27.7637357187 	0.287430101777
+
+

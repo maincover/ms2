@@ -1,0 +1,5 @@
+/home/xsong/mg-wt/dataset/MG strains tab/MG ompL/06052014 mRFP Position 16.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG ompL/06052014 mRFP Position 17.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG ompL/06052014 mRFP Position 18.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG ompL/06052014 mRFP Position 19.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MG strains tab/MG ompL/06052014 mRFP Position 20.tif.mortality.tab

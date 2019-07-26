@@ -1,1 +1,2 @@
-Discard orphan positions ['MAX_28072014 mRFP Position 51-1.tif.mortality.tab']
+Discard orphan positions ['MAX_28072014 mRFP Position 58-1.tif.mortality.tab']
+Discard orphan positions ['MAX_28072014 mRFP Position 70-1.tif.mortality.tab']

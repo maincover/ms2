@@ -1,0 +1,12 @@
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 14-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 26-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 29-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 45-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 72-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 74-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 75-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 77-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 78-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 83-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 87-1.tif.mortality.tab
+/home/xsong/mg-wt/dataset/MS2 for GitHub Updated 26.05.2019/bipA/MAX_28072014 mRFP Position 89-1.tif.mortality.tab

@@ -1,25 +1,27 @@
 TA_ygcQ-1_ cluster0 #371
                  est      L95%          U95%            se
-rate    2.356757e-01  0.061104  9.089912e-01  1.623161e-01
-beta    5.599184e+13  0.000010  3.174251e+32  1.233602e+15
-s       1.279254e-01  0.027430  5.965957e-01  1.005011e-01
-lambda  1.273364e-02  0.011258  1.440298e-02  8.003374e-04
+rate    2.565254e-01  0.070529  9.330246e-01  1.689963e-01
+beta    2.475860e+15  0.000073  8.408032e+34  5.680904e+16
+s       1.877410e-01  0.034657  1.017018e+00  1.618402e-01
+lambda  1.414111e-02  0.012585  1.589018e-02  8.413764e-04
 
 
-TA_ygcQ-1_ cluster1 #209
-                 est         L95%          U95%            se
-rate    1.349984e-01     0.069136  2.636042e-01  4.609217e-02
-beta    3.704239e+08  3883.670571  3.533097e+13  2.166948e+09
-s       5.917306e-01     0.102799  3.406130e+00  5.284253e-01
-lambda  7.928470e-03     0.006607  9.514422e-03  7.376390e-04
+TA_ygcQ-1_ cluster1 #179
+                 est  L95%  U95%  se
+rate    9.120290e-02   NaN   NaN NaN
+beta    3.214855e+09   NaN   NaN NaN
+s       2.718099e+03   NaN   NaN NaN
+lambda  8.886294e-03   NaN   NaN NaN
 
 
-TA_ygcQ-1_ cluster2 #189
-                 est         L95%          U95%            se
-rate    3.560367e-01     0.154317  8.214424e-01  1.518684e-01
-beta    2.972763e+20  5815.315229  1.519663e+37  5.835360e+21
-s       9.257918e-02     0.032689  2.621919e-01  4.917236e-02
-lambda  2.482686e-03     0.001844  3.342430e-03  3.766622e-04
+TA_ygcQ-1_ cluster1:
+-------
+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.551195
+1      beta  1.000000
+2         s  0.394265
 
 
-[(4, 371, 4, ['MAX_25092018 Position 11-1.tif.mortality.tab', 'MAX_25092018 Position 12-1.tif.mortality.tab', 'MAX_25092018 Position 29-1.tif.mortality.tab', 'MAX_25092018 Position 6-1.tif.mortality.tab']), (3, 209, 4, ['MAX_25092018 Position 14-1.tif.mortality.tab', 'MAX_25092018 Position 172-1.tif.mortality.tab', 'MAX_25092018 Position 232-1.tif.mortality.tab', 'MAX_25092018 Position 242-1.tif.mortality.tab']), (0, 189, 6, ['MAX_25092018 Position 217-1.tif.mortality.tab', 'MAX_25092018 Position 219-1.tif.mortality.tab', 'MAX_25092018 Position 221-1.tif.mortality.tab', 'MAX_25092018 Position 222-1.tif.mortality.tab', 'MAX_25092018 Position 228-1.tif.mortality.tab', 'MAX_25092018 Position 238-1.tif.mortality.tab'])]
+[(1, 371, 4, ['MAX_25092018 Position 11-1.tif.mortality.tab', 'MAX_25092018 Position 12-1.tif.mortality.tab', 'MAX_25092018 Position 28-1.tif.mortality.tab', 'MAX_25092018 Position 6-1.tif.mortality.tab']), (2, 179, 3, ['MAX_25092018 Position 14-1.tif.mortality.tab', 'MAX_25092018 Position 232-1.tif.mortality.tab', 'MAX_25092018 Position 29-1.tif.mortality.tab'])]

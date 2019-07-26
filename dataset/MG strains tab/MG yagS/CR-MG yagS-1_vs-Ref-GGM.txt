@@ -1,0 +1,27 @@
+MG yagS-1_ cluster0 #2613
+                 est  L95%  U95%  se
+rate    7.057254e-02   NaN   NaN NaN
+beta    3.095149e+11   NaN   NaN NaN
+s       1.289734e+08   NaN   NaN NaN
+lambda  4.821019e-08   NaN   NaN NaN
+
+
+MG yagS-1_ cluster1 #1384
+                 est          L95%           U95%            se
+rate        0.097161  8.892669e-02       0.106158      0.004390
+beta    59800.423367  3.220648e+04  111036.378330  18881.572132
+s           1.535890  1.086151e+00       2.171850      0.271505
+lambda      0.000001  1.653077e-16    6188.401417      0.000012
+
+
+MG yagS-1_ cluster1:
+-------
+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  8.920491e-01
+1      beta  5.044659e-10
+2         s  8.247827e-01
+
+
+[(2, 2613, 4, ['MAX_MAX_12052015 Position 16.tif.mortality.tab', 'MAX_MAX_12052015 Position 17.tif.mortality.tab', 'MAX_MAX_12052015 Position 18.tif.mortality.tab', 'MAX_MAX_12052015 Position 19.tif.mortality.tab']), (3, 1384, 2, ['MAX_MAX_12052015 Position 14.tif.mortality.tab', 'MAX_MAX_12052015 Position 20.tif.mortality.tab'])]

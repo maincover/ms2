@@ -1,45 +1,27 @@
-TA_treC-1_ cluster0 #1616
-                 est          L95%          U95%         se
-rate    5.946276e-02  5.365182e-02  6.590306e-02   0.003120
-beta    1.245887e+02  9.634631e+01  1.611099e+02  16.341058
-s       9.802769e-01  7.276889e-01  1.320541e+00   0.149026
-lambda  4.831723e-07  2.644454e-22  8.828114e+08   0.000009
-
-
-TA_treC-1_ cluster1 #1087
+TA_treC-1_ cluster0 #1531
                est       L95%        U95%         se
-rate      0.076505   0.057568    0.101671   0.011101
-beta    121.494826  41.284025  357.547329  66.909922
-s         0.304251   0.195967    0.472371   0.068289
-lambda    0.000525   0.000148    0.001861   0.000339
+rate      0.068442   0.056849    0.082399   0.006481
+beta    147.708610  73.429442  297.126504  52.672389
+s         0.431153   0.312359    0.595127   0.070902
+lambda    0.000327   0.000080    0.001335   0.000235
 
 
-TA_treC-1_ cluster2 #550
-               est        L95%        U95%          se
-rate      0.064989    0.051781    0.081568    0.007534
-beta    351.886126  151.160734  819.153512  151.702313
-s         1.058821    0.597942    1.874933    0.308694
-lambda    0.000396    0.000072    0.002184    0.000345
+TA_treC-1_ cluster1 #1386
+              est          L95%           U95%         se
+rate     0.069124  5.958855e-02       0.080186   0.005235
+beta    83.311184  5.484390e+01     126.554697  17.771614
+s        0.406650  3.090481e-01       0.535075   0.056943
+lambda   0.000008  1.069236e-16  646015.785014   0.000106
 
 
 TA_treC-1_ cluster1:
 -------
-dataset+s(dataset)+lambda(dataset)
--------
-  parameter       p-value
-0      rate  8.336547e-05
-1      beta  1.000000e+00
-2         s  4.426862e-09
-
-
-TA_treC-1_ cluster2:
--------
-dataset+beta(dataset)+lambda(dataset)
+beta(dataset)+lambda(dataset)
 -------
   parameter   p-value
-0      rate  0.069299
-1      beta  0.005105
-2         s  0.741405
+0      rate  0.466170
+1      beta  0.000015
+2         s  0.507015
 
 
-[(2, 1616, 5, ['MAX_08062014 Position 12-1.tif.mortality.tab', 'MAX_08062014 Position 13-1.tif.mortality.tab', 'MAX_08062014 Position 17-1.tif.mortality.tab', 'MAX_08062014 Position 19-1.tif.mortality.tab', 'MAX_08062014 Position 62-1.tif.mortality.tab']), (0, 1087, 3, ['MAX_08062014 Position 10-1.tif.mortality.tab', 'MAX_08062014 Position 11-1.tif.mortality.tab', 'MAX_08062014 Position 54-1.tif.mortality.tab']), (1, 550, 2, ['MAX_08062014 Position 14-1.tif.mortality.tab', 'MAX_08062014 Position 18-1.tif.mortality.tab'])]
+[(0, 1531, 5, ['MAX_08062014 Position 10-1.tif.mortality.tab', 'MAX_08062014 Position 12-1.tif.mortality.tab', 'MAX_08062014 Position 14-1.tif.mortality.tab', 'MAX_08062014 Position 18-1.tif.mortality.tab', 'MAX_08062014 Position 54-1.tif.mortality.tab']), (1, 1386, 4, ['MAX_08062014 Position 11-1.tif.mortality.tab', 'MAX_08062014 Position 17-1.tif.mortality.tab', 'MAX_08062014 Position 19-1.tif.mortality.tab', 'MAX_08062014 Position 62-1.tif.mortality.tab'])]
