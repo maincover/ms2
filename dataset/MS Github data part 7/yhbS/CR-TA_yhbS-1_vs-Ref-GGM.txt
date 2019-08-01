@@ -1,0 +1,9 @@
+TA_yhbS-1_ cluster0 #626
+                 est         L95%          U95%            se
+rate        0.080486     0.067695      0.095693      0.007107
+beta    25213.558058  8477.625569  74988.392065  14021.458895
+s           1.739219     0.966675      3.129163      0.521180
+lambda      0.000884     0.000606      0.001291      0.000171
+
+
+[(0, 626, 3, ['MAX_08062016 Position 17-1.tif.mortality.tab', 'MAX_08062016 Position 19-1.tif.mortality.tab', 'MAX_08062016 Position 22-1.tif.mortality.tab'])]

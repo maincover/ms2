@@ -1,0 +1,45 @@
+TA_caiT-1_ cluster0 #1055
+                 est           L95%          U95%            se
+rate    1.373472e-01       0.115013  1.640188e-01  1.243639e-02
+beta    2.823368e+06  294307.947052  2.708525e+07  3.257101e+06
+s       7.142956e-01       0.515618  9.895273e-01  1.187832e-01
+lambda  1.225535e-03       0.000966  1.554141e-03  1.485336e-04
+
+
+TA_caiT-1_ cluster1 #728
+                 est          L95%          U95%            se
+rate    5.018429e-02  4.733049e-02  5.321016e-02  1.499088e-03
+beta    1.891254e+06  1.162047e-13  3.078051e+25  4.268539e+07
+s       4.578019e+03  2.748908e-16  7.624211e+22  1.033791e+05
+lambda  1.858432e-07  8.587442e-30  4.021885e+15  4.876473e-06
+
+
+TA_caiT-1_ cluster2 #237
+                 est          L95%          U95%            se
+rate    3.881877e-01  2.632816e-01  5.723519e-01  7.689921e-02
+beta    2.264400e+17  7.873735e+10  6.512166e+23  1.718188e+18
+s       1.871611e-01  1.129459e-01  3.101421e-01  4.822932e-02
+lambda  9.783056e-04  6.372763e-04  1.501832e-03  2.139428e-04
+
+
+TA_caiT-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  5.237015e-17
+1      beta  1.000000e+00
+2         s  3.081938e-18
+
+
+TA_caiT-1_ cluster2:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.484337e-06
+1      beta  8.979490e-07
+2         s  1.006891e-05
+
+
+[(2, 1055, 4, ['MAX_08062016 Position 100-1.tif.mortality.tab', 'MAX_08062016 Position 2-1.tif.mortality.tab', 'MAX_08062016 Position 92-1.tif.mortality.tab', 'MAX_08062016 Position 99-1.tif.mortality.tab']), (0, 728, 3, ['MAX_08062016 Position 111-1.tif.mortality.tab', 'MAX_08062016 Position 91-1.tif.mortality.tab', 'MAX_08062016 Position 95-1.tif.mortality.tab']), (1, 237, 2, ['MAX_08062016 Position 107-1.tif.mortality.tab', 'MAX_08062016 Position 110-1.tif.mortality.tab'])]

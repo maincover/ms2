@@ -1,0 +1,9 @@
+TA_flu-1_ cluster0 #1147
+                 est         L95%          U95%           se
+rate        0.085800     0.077516      0.094968     0.004444
+beta    16459.236122  8718.638675  31072.104695  5336.112498
+s           2.009547     1.429573      2.824815     0.349148
+lambda      0.000129     0.000039      0.000434     0.000080
+
+
+[(0, 1147, 4, ['MAX_08062016 Position 104-1.tif.mortality.tab', 'MAX_08062016 Position 106-1.tif.mortality.tab', 'MAX_08062016 Position 93-1.tif.mortality.tab', 'MAX_08062016 Position 98-1.tif.mortality.tab'])]
