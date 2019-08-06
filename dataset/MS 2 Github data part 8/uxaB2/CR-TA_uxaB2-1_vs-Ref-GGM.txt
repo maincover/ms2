@@ -1,0 +1,27 @@
+TA_uxaB2-1_ cluster0 #1536
+                  est           L95%           U95%             se
+rate         0.118713       0.108490       0.129898       0.005454
+beta    422820.148316  189294.913691  944435.718510  173368.230479
+s            1.675739       1.186445       2.366821       0.295220
+lambda       0.000699       0.000541       0.000904       0.000092
+
+
+TA_uxaB2-1_ cluster1 #1352
+                 est           L95%          U95%            se
+rate    1.377984e-01       0.123055  1.543077e-01  7.955692e-03
+beta    2.177602e+06  590437.349259  8.031250e+06  1.450038e+06
+s       1.044824e+00       0.761651  1.433278e+00  1.685160e-01
+lambda  1.074362e-03       0.000868  1.330155e-03  1.170682e-04
+
+
+TA_uxaB2-1_ cluster1:
+-------
+dataset+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.042735
+1      beta  0.029580
+2         s  0.047770
+
+
+[(2, 1536, 2, ['MAX_08042016 Position 73-1.tif.mortality.tab', 'MAX_08042016 Position 99-1.tif.mortality.tab']), (3, 1352, 6, ['MAX_08042016 Position 100-1.tif.mortality.tab', 'MAX_08042016 Position 110-1.tif.mortality.tab', 'MAX_08042016 Position 62-1.tif.mortality.tab', 'MAX_08042016 Position 76-1.tif.mortality.tab', 'MAX_08042016 Position 88-1.tif.mortality.tab', 'MAX_08042016 Position 96-1.tif.mortality.tab'])]

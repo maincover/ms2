@@ -1,0 +1,27 @@
+TA_ascG2-1_ cluster0 #976
+                  est         L95%          U95%             se
+rate         0.123758     0.090362  1.694982e-01       0.019859
+beta    275385.050277  9066.097280  8.364892e+06  479632.401956
+s            0.290059     0.166048  5.066856e-01       0.082551
+lambda       0.003622     0.003136  4.182173e-03       0.000266
+
+
+TA_ascG2-1_ cluster1 #250
+                est      L95%          U95%            se
+rate       0.053931  0.034166  8.513133e-02      0.012561
+beta    4850.923573  0.038603  6.095796e+08  29059.931589
+s         13.224849  0.000018  9.979036e+06     91.319929
+lambda     0.003361  0.002292  4.927992e-03      0.000656
+
+
+TA_ascG2-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.000166
+1      beta  0.935486
+2         s  0.004396
+
+
+[(0, 976, 5, ['MAX_08042016 Position 128-1.tif.mortality.tab', 'MAX_08042016 Position 16-1.tif.mortality.tab', 'MAX_08042016 Position 18-1.tif.mortality.tab', 'MAX_08042016 Position 19-1.tif.mortality.tab', 'MAX_08042016 Position 24-1.tif.mortality.tab']), (2, 250, 2, ['MAX_08042016 Position 122-1.tif.mortality.tab', 'MAX_08042016 Position 126-1.tif.mortality.tab'])]

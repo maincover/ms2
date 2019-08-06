@@ -1,0 +1,25 @@
+TA_aqpZ2-1_ cluster0 #1857
+                 est          L95%          U95%            se
+rate    2.364160e-01  2.137168e-01  2.615260e-01  1.217577e-02
+beta    1.050771e+11  1.048500e+10  1.053047e+12  1.235617e+11
+s       5.730686e-01  4.651326e-01  7.060514e-01  6.101617e-02
+lambda  2.931354e-04  2.160809e-04  3.976675e-04  4.561354e-05
+
+
+TA_aqpZ2-1_ cluster1 #378
+                 est          L95%          U95%            se
+rate    3.866039e-01  2.777370e-01  5.381444e-01  6.523592e-02
+beta    1.379030e+19  1.078056e+13  1.764030e+25  9.893827e+19
+s       4.861895e-01  2.809225e-01  8.414427e-01  1.360660e-01
+lambda  1.486816e-03  1.099856e-03  2.009921e-03  2.286842e-04
+
+
+TA_aqpZ2-1_ cluster2 #264
+                 est          L95%          U95%            se
+rate    3.196228e-01  2.325622e-01  4.392749e-01  5.185551e-02
+beta    1.245588e+16  2.039240e+11  7.608177e+20  7.003357e+16
+s       4.353437e-01  2.129971e-01  8.897971e-01  1.587829e-01
+lambda  6.992772e-04  4.282758e-04  1.141761e-03  1.749223e-04
+
+
+[(0, 1857, 3, ['MAX_08042016 Position 65-1.tif.mortality.tab', 'MAX_08042016 Position 66-1.tif.mortality.tab', 'MAX_08042016 Position 67-1.tif.mortality.tab']), (2, 378, 3, ['MAX_08042016 Position 113-1.tif.mortality.tab', 'MAX_08042016 Position 114-1.tif.mortality.tab', 'MAX_08042016 Position 115-1.tif.mortality.tab']), (4, 264, 2, ['MAX_08042016 Position 116-1.tif.mortality.tab', 'MAX_08042016 Position 118-1.tif.mortality.tab'])]

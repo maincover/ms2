@@ -1,0 +1,3 @@
+MAX_08042016 Position 65-1.tif.mortality.tab
+MAX_08042016 Position 66-1.tif.mortality.tab
+MAX_08042016 Position 67-1.tif.mortality.tab

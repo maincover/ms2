@@ -1,0 +1,63 @@
+TA_pgi2-1_ cluster0 #2029
+                  est          L95%           U95%            se
+rate         0.113200      0.101477       0.126277      0.006314
+beta    182618.319488  70906.020576  470333.130271  88146.911724
+s            1.098011      0.791350       1.523510      0.183481
+lambda       0.001036      0.000855       0.001257      0.000102
+
+
+TA_pgi2-1_ cluster1 #1067
+                 est  L95%  U95%  se
+rate    1.142218e-01   NaN   NaN NaN
+beta    1.564004e+09   NaN   NaN NaN
+s       3.790798e+03   NaN   NaN NaN
+lambda  1.416969e-03   NaN   NaN NaN
+
+
+TA_pgi2-1_ cluster2 #986
+                 est           L95%          U95%            se
+rate    1.492400e-01       0.110321  2.018881e-01  2.300758e-02
+beta    9.340795e+06  186101.711409  4.688320e+08  1.866217e+07
+s       7.686834e-01       0.374557  1.577530e+00  2.819615e-01
+lambda  2.827706e-03       0.002421  3.302687e-03  2.240145e-04
+
+
+TA_pgi2-1_ cluster3 #400
+                  est          L95%          U95%             se
+rate         0.136785      0.106919  1.749948e-01       0.017192
+beta    520632.547417  32362.816283  8.375608e+06  737939.642499
+s            0.397036      0.249751  6.311783e-01       0.093905
+lambda       0.000568      0.000322  1.003026e-03       0.000165
+
+
+TA_pgi2-1_ cluster1:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  3.112501e-01
+1      beta  8.679750e-21
+2         s  1.792794e-17
+
+
+TA_pgi2-1_ cluster2:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.006289
+1      beta  0.000855
+2         s  0.405978
+
+
+TA_pgi2-1_ cluster3:
+-------
+beta(dataset)+s(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.667768e-01
+1      beta  4.965363e-22
+2         s  3.020500e-05
+
+
+[(1, 2029, 7, ['MAX_08042016 Position 30-1.tif.mortality.tab', 'MAX_08042016 Position 34-1.tif.mortality.tab', 'MAX_08042016 Position 40-1.tif.mortality.tab', 'MAX_08042016 Position 54-1.tif.mortality.tab', 'MAX_08042016 Position 61-1.tif.mortality.tab', 'MAX_08042016 Position 63-1.tif.mortality.tab', 'MAX_08042016 Position 71-1.tif.mortality.tab']), (3, 1067, 4, ['MAX_08042016 Position 33-1.tif.mortality.tab', 'MAX_08042016 Position 39-1.tif.mortality.tab', 'MAX_08042016 Position 44-1.tif.mortality.tab', 'MAX_08042016 Position 45-1.tif.mortality.tab']), (2, 986, 4, ['MAX_08042016 Position 32-1.tif.mortality.tab', 'MAX_08042016 Position 35-1.tif.mortality.tab', 'MAX_08042016 Position 36-1.tif.mortality.tab', 'MAX_08042016 Position 37-1.tif.mortality.tab']), (0, 400, 2, ['MAX_08042016 Position 102-1.tif.mortality.tab', 'MAX_08042016 Position 70-1.tif.mortality.tab'])]

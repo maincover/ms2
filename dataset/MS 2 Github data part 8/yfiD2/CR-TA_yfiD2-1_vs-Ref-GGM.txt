@@ -1,0 +1,27 @@
+TA_yfiD2-1_ cluster0 #2881
+                  est          L95%           U95%            se
+rate         0.111329      0.100617       0.123182      0.005747
+beta    153964.801022  69379.604673  341673.321223  62618.561992
+s            1.335591      0.958418       1.861197      0.226132
+lambda       0.001343      0.001167       0.001546      0.000096
+
+
+TA_yfiD2-1_ cluster1 #602
+                est        L95%         U95%          se
+rate       0.068489    0.050867     0.092216    0.010395
+beta    1986.091153  863.561957  4567.776564  843.960454
+s          1.440410    0.395890     5.240796    0.949178
+lambda     0.001322    0.000903     0.001936    0.000257
+
+
+TA_yfiD2-1_ cluster1:
+-------
+dataset+beta(dataset)+lambda(dataset)
+-------
+  parameter       p-value
+0      rate  1.671325e-17
+1      beta  5.449216e-15
+2         s  9.639292e-01
+
+
+[(0, 2881, 10, ['MAX_08042016 Position 101-1.tif.mortality.tab', 'MAX_08042016 Position 28-1.tif.mortality.tab', 'MAX_08042016 Position 31-1.tif.mortality.tab', 'MAX_08042016 Position 38-1.tif.mortality.tab', 'MAX_08042016 Position 41-1.tif.mortality.tab', 'MAX_08042016 Position 43-1.tif.mortality.tab', 'MAX_08042016 Position 46-1.tif.mortality.tab', 'MAX_08042016 Position 53-1.tif.mortality.tab', 'MAX_08042016 Position 64-1.tif.mortality.tab', 'MAX_08042016 Position 82-1.tif.mortality.tab']), (1, 602, 4, ['MAX_08042016 Position 104-1.tif.mortality.tab', 'MAX_08042016 Position 107-1.tif.mortality.tab', 'MAX_08042016 Position 125-1.tif.mortality.tab', 'MAX_08042016 Position 127-1.tif.mortality.tab'])]
