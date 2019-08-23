@@ -1,0 +1,7 @@
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 10-1.tif.mortality.tab
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 123-1.tif.mortality.tab
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 15-1.tif.mortality.tab
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 20-1.tif.mortality.tab
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 28-1.tif.mortality.tab
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 6-1.tif.mortality.tab
+/app/src/ms2/dataset/MS Github data part 7/syd/MAX_08062016 Position 9-1.tif.mortality.tab
