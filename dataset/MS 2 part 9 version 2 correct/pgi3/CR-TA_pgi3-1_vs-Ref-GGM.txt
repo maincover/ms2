@@ -1,0 +1,9 @@
+TA_pgi3-1_ cluster0 #1357
+                 est          L95%          U95%            se
+rate    1.291497e-01  1.118302e-01  1.491517e-01  9.488146e-03
+beta    1.136635e+07  2.052785e+06  6.293589e+07  9.925205e+06
+s       1.503514e+00  8.714803e-01  2.593925e+00  4.183583e-01
+lambda  1.856011e-03  1.599209e-03  2.154050e-03  1.410219e-04
+
+
+[(0, 1357, 21, ['MAX_12072018 Position 105-1.tif.mortality.tab', 'MAX_12072018 Position 106-1.tif.mortality.tab', 'MAX_12072018 Position 107-1.tif.mortality.tab', 'MAX_12072018 Position 110-1.tif.mortality.tab', 'MAX_12072018 Position 148-1.tif.mortality.tab', 'MAX_12072018 Position 155-1.tif.mortality.tab', 'MAX_12072018 Position 156-1.tif.mortality.tab', 'MAX_12072018 Position 178-1.tif.mortality.tab', 'MAX_12072018 Position 179-1.tif.mortality.tab', 'MAX_12072018 Position 180-1.tif.mortality.tab', 'MAX_12072018 Position 182-1.tif.mortality.tab', 'MAX_12072018 Position 183-1.tif.mortality.tab', 'MAX_12072018 Position 209-1.tif.mortality.tab', 'MAX_12072018 Position 211-1.tif.mortality.tab', 'MAX_12072018 Position 215-1.tif.mortality.tab', 'MAX_12072018 Position 224-1.tif.mortality.tab', 'MAX_12072018 Position 226-1.tif.mortality.tab', 'MAX_12072018 Position 227-1.tif.mortality.tab', 'MAX_12072018 Position 228-1.tif.mortality.tab', 'MAX_12072018 Position 230-1.tif.mortality.tab', 'MAX_12072018 Position 231-1.tif.mortality.tab'])]

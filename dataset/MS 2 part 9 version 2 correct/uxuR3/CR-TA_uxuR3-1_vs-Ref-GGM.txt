@@ -1,0 +1,45 @@
+TA_uxuR3-1_ cluster0 #443
+                 est          L95%          U95%             se
+rate        0.043973  3.511540e-02  5.506388e-02       0.005046
+beta    70645.143648  1.228456e-05  4.062609e+14  810004.425246
+s         413.945657  5.676211e-08  3.018757e+12    4796.394396
+lambda      0.001819  9.065661e-04  3.650061e-03       0.000646
+
+
+TA_uxuR3-1_ cluster1 #327
+                  est         L95%          U95%             se
+rate         0.096695     0.062155  1.504294e-01       0.021803
+beta    176049.624663  3305.795662  9.375495e+06  357053.947655
+s            1.058162     0.336362  3.328874e+00       0.618767
+lambda       0.002361     0.001724  3.233415e-03       0.000379
+
+
+TA_uxuR3-1_ cluster2 #201
+                 est        L95%          U95%             se
+rate        0.087028    0.049261  1.537509e-01       0.025270
+beta    57256.775455  673.293227  4.869109e+06  129797.662041
+s           0.691575    0.155045  3.084754e+00       0.527602
+lambda      0.000526    0.000197  1.403948e-03       0.000263
+
+
+TA_uxuR3-1_ cluster1:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.006305
+1      beta  1.000000
+2         s  0.003702
+
+
+TA_uxuR3-1_ cluster2:
+-------
+dataset+s(dataset)+lambda(dataset)
+-------
+  parameter   p-value
+0      rate  0.055491
+1      beta  0.901044
+2         s  0.018112
+
+
+[(1, 443, 5, ['MAX_12072018 Position 237-1.tif.mortality.tab', 'MAX_12072018 Position 244-1.tif.mortality.tab', 'MAX_12072018 Position 250-1.tif.mortality.tab', 'MAX_12072018 Position 252-1.tif.mortality.tab', 'MAX_12072018 Position 255-1.tif.mortality.tab']), (2, 327, 4, ['MAX_12072018 Position 221-1.tif.mortality.tab', 'MAX_12072018 Position 232-1.tif.mortality.tab', 'MAX_12072018 Position 236-1.tif.mortality.tab', 'MAX_12072018 Position 246-1.tif.mortality.tab']), (0, 201, 4, ['MAX_12072018 Position 222-1.tif.mortality.tab', 'MAX_12072018 Position 225-1.tif.mortality.tab', 'MAX_12072018 Position 245-1.tif.mortality.tab', 'MAX_12072018 Position 251-1.tif.mortality.tab'])]

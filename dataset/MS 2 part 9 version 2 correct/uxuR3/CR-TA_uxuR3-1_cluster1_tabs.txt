@@ -1,0 +1,4 @@
+MAX_12072018 Position 222-1.tif.mortality.tab
+MAX_12072018 Position 225-1.tif.mortality.tab
+MAX_12072018 Position 245-1.tif.mortality.tab
+MAX_12072018 Position 251-1.tif.mortality.tab
