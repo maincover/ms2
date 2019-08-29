@@ -1,0 +1,19 @@
+1. Go to Desktop > Gitprojects > MS2 > Dataset
+
+Paste data here
+
+2. Go to terminal:
+ 
+Paste: docker run -it -v /home/xsong/Desktop/gitProjects:/app/src -p 8888:8888 ub1604:latest /bin/bash
+
+3. Under the docker:
+
+jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
+
+4. copy the link to chrome (remove the part with ( before), then press enter
+
+5. Desktop > Gitprojects > MS2 > demo > MG WT
+
+6. run the script
+
+7. Upload the result

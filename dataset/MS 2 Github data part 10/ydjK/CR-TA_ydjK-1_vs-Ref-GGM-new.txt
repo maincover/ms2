@@ -1,0 +1,20 @@
+TA_ydjK-1_ cluster0 #5511
+                 est          L95%          U95%            se
+rate    1.816463e-01  1.697395e-01  1.943883e-01  6.283253e-03
+beta    7.671314e+06  3.120014e+06  1.886179e+07  3.521239e+06
+s       4.409718e-01  3.812465e-01  5.100535e-01  3.274383e-02
+lambda  1.273835e-04  8.996414e-05  1.803670e-04  2.260392e-05
+                est       L95%       U95%       var
+lifespan  94.496993  93.383793  94.539467  0.000048
+
+
+TA_ydjK-1_ cluster1 #2169
+                 est  L95%  U95%  se
+rate    1.295566e-01   NaN   NaN NaN
+beta    1.399343e+15   NaN   NaN NaN
+s       2.214786e+09   NaN   NaN NaN
+lambda  1.451573e-05   NaN   NaN NaN
+                est      L95%        U95%       var
+lifespan  99.215964  99.14181  100.328346  0.000133
+
+
